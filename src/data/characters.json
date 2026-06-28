@@ -1,0 +1,19 @@
+[
+    {
+        "id": "osamu-dazai",
+        "name": "Osamu Dazai",
+        "japaneseName": "太宰 治",
+        "image": "/characters/osamu-dazai.webp",
+        "organizationIds": ["armed-detective-agency"],
+        "abilityId": "no-longer-human",
+        "age": 22,
+        "birthday": "June 19",
+        "height": "181 cm",
+        "bloodType": "AB",
+        "status": "Alive",
+        "occupation": "Detective",
+        "description": "",
+        "firstAppearance": "S01E01",
+        "tags": ["Detective", "Former Port Mafia", "Ability User"]
+    }
+]

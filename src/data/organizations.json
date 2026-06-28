@@ -1,0 +1,53 @@
+[
+    {
+        "id": "armed-detective-agency",
+        "name": "Armed Detective Agency",
+        "image": "/organizations/armed-detective-agency.webp",
+        "description": "They are a group focused on solving crimes which are considered too violent or difficult for the metropolitan police to handle. Often, these crimes are of a supernatural origin. Nearly all of the detectives within the company have their own special powers known as abilities. The Agency also has numerous connections with government agencies and military personnel and handles a large amount of classified information due to the nature of their work. The Agency's licensed staff are granted police-like authority. Hence, they are authorized to carry guns and knives under certain conditions, and they can even pull records from police organizations which allows them to commit unethical acts if they wished to do so including meddling with authorities' investigations, falsify police information, and even wiretap or secretly film key facilities",
+        "admission": "The Agency has an entrance exam for new employees, to assess if they possess qualities that make them worthy to join the Agency. The test usually consists of their qualities as a detective and their emotions of whether they are willing to risk their lives to save people. In order to join the Agency, the candidate must take a test that evaluates their righteousness, prowess, wisdom, morality and genuineness of spirit. The test supervisor watches the entrant's moves and determines whether they are a good fit to the Agency.",
+        "presidentId": "yukichi-fukuzawa",
+        "memberIds": [
+            "akiko-yosano",
+            "atushi-nakajima",
+            "doppo-kunikida",
+            "junichirou-tanizaki",
+            "kenji-miyazawa",
+            "kyōka-izumi",
+            "osamu-dazai",
+            "ranpo-edogawa"
+        ],
+        "clerks": ["naomi-tanizaki", "kirako-haruno"],
+        "formerMemberIds": ["katai-tayama"]
+    },
+    {
+        "id": "port-mafia",
+        "name": "Port Mafia",
+        "image": "/organizations/port-mafia.webp",
+        "description": "The Port Mafia is a criminal organization that operates in Yokohama. They are known for their ruthlessness and are involved in various illegal activities, including smuggling, extortion, and assassination. The organization is led by a mysterious figure known as the Boss, who maintains strict control over its members. The Port Mafia has a reputation for being highly organized and efficient, making them a formidable force in the criminal underworld.",
+        "admission": "To join the Port Mafia, individuals must prove their loyalty and capability through various tests and missions. New recruits are often subjected to dangerous tasks to demonstrate their commitment to the organization. The Mafia values strength, cunning, and the ability to follow orders without question.",
+        "bossId": "ogai-mori",
+        "executiveIds": [
+            "ace",
+            "chuya-nakahara",
+            "koyo-ozaki",
+            "paul-verlaine"
+        ],
+        "subExecutiveIds": ["rando"],
+        "flagsIds": ["albatross", "doc", "iceman", "lippmann", "piano-man"],
+        "commandUnitIds": ["ryunosuke-akutagawa", "ichiyo-higuchi"],
+        "blackLizardIds": [
+            "ryuro-hirotsu",
+            "gin-akutagawa",
+            "michizo-tachihara"
+        ],
+        "membersIds": [
+            "elise",
+            "karma",
+            "kyusaku-yumeno",
+            "motojiro-kajii",
+            "sakunosuke-oda"
+        ],
+        "formerBossIds": ["porf-mafia-previous-boss"],
+        "formerMemberIds": ["ango-sakaguchi", "osamu-dazai", "kyoka-izumi"]
+    }
+]
