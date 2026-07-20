@@ -49,5 +49,51 @@
         ],
         "formerBossIds": ["porf-mafia-previous-boss"],
         "formerMemberIds": ["ango-sakaguchi", "osamu-dazai", "kyoka-izumi"]
+    },
+    {
+        "id": "guild",
+        "name": "The Guild",
+        "image": "/organizations/guild.webp",
+        "description": "The Guild is an international organization of highly skilled individuals who specialize in various forms of combat, espionage, and intelligence gathering. They operate globally and are known for their advanced technology and strategic operations. The Guild often takes on high-risk missions that require precision and expertise, making them a respected and feared entity in the world of covert operations.",
+        "admission": "To become a member of The Guild, candidates must undergo rigorous training and demonstrate exceptional skills in their chosen field. The selection process includes physical tests, mental challenges, and evaluations of strategic thinking. Only those who prove themselves capable of handling the demands of the organization are accepted.",
+        "leaderId": "francis-fitzgerald",
+        "memberIds": [
+            "edgar-poe",
+            "herman-melville",
+            "howard-lovecraft",
+            "james-l",
+            "john-steinbeck",
+            "lucy-montgomery",
+            "louisa-alcott",
+            "margaret-mitchell",
+            "mark-twain",
+            "nathaniel-hawthorne"
+        ]
+    },
+    {
+        "id": "decay-of-the-angel",
+        "name": "Decay of the Angel",
+        "image": "/organizations/decay-of-the-angel.webp",
+        "description": "The Decay of the Angel was a terrorist organization that has long since been hiding in Japan, operating as a murder association which possesses a single page from the Book. The Decay has a fourfold scheme with the penultimate goal of eliminating the country, which they operate on by writing on both sides of the page.",
+        "leaderId": "ochi-fukuchi",
+        "memberIds": [
+            "bram-stoker",
+            "fyodor-dostoevsky",
+            "nikolai-gogol",
+            "sigma"
+        ]
+    },
+    {
+        "id": "hunting-dogs",
+        "name": "Hunting Dogs",
+        "image": "/organizations/hunting-dogs.webp",
+        "description": "The Hunting Dogs are a group of mercenaries who specialize in tracking and eliminating targets. They are known for their relentless pursuit and efficiency in completing contracts.",
+        "leaderId": "ochi-fukuchi",
+        "memberIds": [
+            "teruko-okura",
+            "saigiku-jono",
+            "tetcho-suehiro",
+            "michizo-tachihara"
+        ]
     }
 ]
