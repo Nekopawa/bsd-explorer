@@ -1712,5 +1712,21 @@
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Dead",
         "description": ""
+    },
+    {
+        "id": "ame-no-gozen",
+        "name": "Ame-no-Gozen",
+        "japaneseName": "神人・雨御前",
+        "image": "/characters/ame-no-gozen.webp",
+        "gender": "male",
+        "occupation": [],
+        "formerOccupation": [],
+        "organizationIds": [],
+        "formerOrganizationIds": [],
+        "creator": "fyodor-dostoevsky",
+        "mangaDebut": "Chapter 115",
+        "animeDebut": "Episode 61",
+        "status": "Alive",
+        "description": ""
     }
 ]
