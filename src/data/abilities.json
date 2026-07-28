@@ -128,5 +128,44 @@
         "lightNovelDebut": null,
         "description": "Futon is the ability of Katai Tayama. It enables Katai to manipulate electrical signals which he can use to manipulate any electronics within his sight. Moreover, his ability allows him to process information dozens of times faster than an average human and can be considered to even rival the military's information warfare units. Additionally, Katai can only seemingly concentrate on using his ability with optimal efficiency wherever his body and mind are most relaxed, which Doppo Kunikida mentioned to be when he is wrapped in his futon named Yoshiko. Katai can also remotely control communication lines at quick speeds with his ability.",
         "image": "./abilities/futon.webp"
+    },
+    {
+        "id": "vita-sexualis",
+        "name": "Vita Sexualis",
+        "japaneseName": "ヰタ・セクスアリス",
+        "classification": ["Offensive", "Supplementary"],
+        "range": "Close to Medium Range",
+        "activation": null,
+        "mangeDebut": "Chapter 46",
+        "animeDebut": "Episode 33",
+        "lightNovelDebut": null,
+        "description": "Vita Sexualis is the ability of Ōgai Mori. Elise is its manifestation. Vita Sexualis allows Mori to summon and configure Elise's personality in any way he wills. As such, he can make her levitate, chase after an enemy at high speed, and make her save him from imminent peril by manipulating Elise as his ability. Moreover, he can notably summon Elise having a medical semblance and make her attack his opponents with a barrage of large medical equipment.",
+        "image": "./abilities/vita-sexualis.webp"
+    },
+    {
+        "id": "the-madness-of-the-jewel-king",
+        "name": "The Madness of the Jewel King",
+        "japaneseName": "宝石王の乱心",
+        "classification": ["Offensive"],
+        "range": "Close Range",
+        "activation": null,
+        "mangeDebut": "Chapter 42",
+        "animeDebut": "Episode 29",
+        "lightNovelDebut": null,
+        "description": "The Madness of the Jewel King is the ability of Ace. It allows Ace to change the lifespans of his subordinates into jewels of a similar value. In particular, he provides his men with a special collar with a jewel in it, which cannot be equipped without their own discretion. Upon wearing it on the neck, the collar cannot ever be taken off again. When Ace activates his ability on his target, the jewel on the person's collar illuminates as they eventually die. Afterwards, jewels of a proportionate 'value' to the victim's lifespan will materialize on his palm.",
+        "image": "./abilities/the-madness-of-the-jewel-king.webp"
+    },
+    {
+        "id": "matter-manipulation",
+        "name": "Matter-Manipulation Ability",
+        "japaneseName": null,
+        "classification": ["Supplementary"],
+        "range": "Short to Medium Range",
+        "activation": "Raise his arm and squeezed his hand into a fist",
+        "mangeDebut": null,
+        "animeDebut": null,
+        "lightNovelDebut": "STORM BRINGER",
+        "description": "This matter-manipulation ability is the unnamed ability of the Colonel. He could liquefy mass and manipulate it. For instance, he could bend the ground beneath him and control it to his own will, as well as liquefy ground, trees, and a collapsed train to attack an airborne target. However, the ability did not work on things out of the Colonel's sight.",
+        "image": "./abilities/matter-manipulation.webp"
     }
 ]
