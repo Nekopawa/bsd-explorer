@@ -466,5 +466,44 @@
         "lightNovelDebut": null,
         "description": "The Scarlet Letter is the ability of Nathaniel Hawthorne. It allows Hawthorne to convert his own blood into holy words and control them, which he considers as the Word of God meant to aid him in administering punishment to the unjust. It can be used for offense through converting Hawthorne's blood into bullets of varying calibers and intensities. He can also form a shield using the ability to deflect an opponent's attack.",
         "image": "./abilities/the-scarlet-letter.webp"
+    },
+    {
+        "id": "a-feast-in-time-of-plague",
+        "name": "A Feast in Time of Plague",
+        "japaneseName": "黒死病の時代の饗宴",
+        "classification": null,
+        "range": "Close Range",
+        "activation": null,
+        "mangeDebut": "Chapter 46",
+        "animeDebut": "Episode 33",
+        "lightNovelDebut": null,
+        "description": "A Feast in Time of Plague is the ability of Alexander Pushkin. It is a virus-type ability that is usually infected and activated to two target hosts. The virus is transmitted through open wounds, which causes the infected individuals with high fever and dizziness. In 48 hours, their bodies' microfauna grow and simultaneously eat away their internal organs. If either host dies within the given time, the virus ability will cease to activate. Hence, the most common method to deactivate the virus on one host is to kill the other host within 48 hours.",
+        "image": "./abilities/a-feast-in-time-of-plague.webp"
+    },
+    {
+        "id": "the-precipice",
+        "name": "The Precipice",
+        "japaneseName": "断崖",
+        "classification": ["Offensive", "Defensive"],
+        "range": "Close to Long Range",
+        "activation": null,
+        "mangeDebut": "Chapter 52",
+        "animeDebut": "Episode 37",
+        "lightNovelDebut": null,
+        "description": "The Precipice is the ability of Ivan Goncharov. It lets Goncharov control the earth element, allowing him to manipulate rocks into golem-like arms or utilizing them as floating, omni-directional defense and offense, one way of which is by spinning rocks at high speeds. Hence, this enables him to cover his bases regardless whence his enemy strikes. His connection with the earth allows his constant awareness of enemies in his surroundings as long as they are standing on the ground.",
+        "image": "./abilities/the-precipice.webp"
+    },
+    {
+        "id": "the-perfect-crime",
+        "name": "The Perfect Crime",
+        "japaneseName": "完全犯罪",
+        "classification": ["Supplementary"],
+        "range": "Close to Medium Range",
+        "activation": null,
+        "mangeDebut": "Chapter 54",
+        "animeDebut": "Episode 41",
+        "lightNovelDebut": null,
+        "description": "The Perfect Crime is the ability of Mushitarō Oguri. It is a reality-altering ability that allows Mushitarō to perfectly erase any evidence of a crime. Upon activation, the ability takes the form of small, invisible creatures oozing out of his body to tamper and 'erase' any potential evidence to a certain crime. Though it can alter realities, it cannot change or affect people's memories in a crime scene. For example, when a person sees a particular crime unfold personally, the ability cannot erase such kind of evidence in the memory of the witness.",
+        "image": "./abilities/the-perfect-crime.webp"
     }
 ]
