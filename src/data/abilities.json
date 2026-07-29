@@ -505,5 +505,70 @@
         "lightNovelDebut": null,
         "description": "The Perfect Crime is the ability of Mushitarō Oguri. It is a reality-altering ability that allows Mushitarō to perfectly erase any evidence of a crime. Upon activation, the ability takes the form of small, invisible creatures oozing out of his body to tamper and 'erase' any potential evidence to a certain crime. Though it can alter realities, it cannot change or affect people's memories in a crime scene. For example, when a person sees a particular crime unfold personally, the ability cannot erase such kind of evidence in the memory of the witness.",
         "image": "./abilities/the-perfect-crime.webp"
+    },
+    {
+        "id": "and-then-there-were-none",
+        "name": "And Then There Were None",
+        "japaneseName": "そして誰もいなくなった",
+        "classification": null,
+        "range": null,
+        "activation": null,
+        "mangeDebut": "Chapter 12",
+        "animeDebut": null,
+        "lightNovelDebut": null,
+        "description": "And Then There Were None is the ability of Dame Agatha Christie. The current details of this ability are currently not known.",
+        "image": "./abilities/and-then-there-were-none.webp"
+    },
+    {
+        "id": "mirror-lion",
+        "name": "Mirror Lion",
+        "japaneseName": "鏡獅子",
+        "classification": ["Offensive"],
+        "range": "Close Range",
+        "activation": null,
+        "mangeDebut": "Chapter 83.5",
+        "animeDebut": "Episode 52",
+        "lightNovelDebut": null,
+        "description": "Mirror Lion is the Ability of Ōchi Fukuchi. It allows Fukuchi to enhance and increase the efficiency of any weapon he holds by a hundredfold. This includes any form of material within his reach, including his Hunting Dogs katana, a ship's handrail, someone's fist, and even a stone.",
+        "image": "./abilities/mirror-lion.webp"
+    },
+    {
+        "id": "draculea",
+        "name": "Draculea",
+        "japaneseName": "吸血種",
+        "classification": ["Offensive"],
+        "range": "Close to Long Range",
+        "activation": null,
+        "mangeDebut": "Chapter 88",
+        "animeDebut": "Episode 54",
+        "lightNovelDebut": null,
+        "description": "Draculea was Bram Stoker's ability. It was an infection-type ability that turns whoever he bites into a vampire. It also made the victim the next aggressor. Bram was able to control all the turned vampires, and each one acted like a single form of life.",
+        "image": "./abilities/draculea.webp"
+    },
+    {
+        "id": "the-overcoat",
+        "name": "The Overcoat",
+        "japaneseName": "外套",
+        "classification": ["Offensive", "Supplementary"],
+        "range": "Close to Medium Range",
+        "activation": null,
+        "mangeDebut": "Chapter 57",
+        "animeDebut": "Episode 42",
+        "lightNovelDebut": null,
+        "description": "The Overcoat is the ability of Nikolai Gogol. It is a transfer-type ability that allows Gogol to use his cloak to manipulate spaces and what comes out of them. Specifically, his cloak is connected to a pocket dimension within a vertical range of 30 meters through which can allow him to manifest or transfer various materials and matter. The ability works on living things as well, as he recurrently uses it to manifest his hand through his cloak.",
+        "image": "./abilities/the-overcoat.webp"
+    },
+    {
+        "id": "information-exchange",
+        "name": "Information Exchange Ability",
+        "japaneseName": null,
+        "classification": ["Supplementary"],
+        "range": "Close Range",
+        "activation": null,
+        "mangeDebut": "Chapter 58",
+        "animeDebut": null,
+        "lightNovelDebut": null,
+        "description": "This information exchange ability is the ability of Sigma. Upon contact with another person, the ability allows Sigma to exchange the information he wishes to know most with the information the other person wishes to know most. As a side effect, the person that Sigma exchanges information with may experience momentary loss of consciousness as a result of a possible information influx.",
+        "image": "./abilities/information-exchange.webp"
     }
 ]
