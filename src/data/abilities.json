@@ -570,5 +570,44 @@
         "lightNovelDebut": null,
         "description": "This information exchange ability is the ability of Sigma. Upon contact with another person, the ability allows Sigma to exchange the information he wishes to know most with the information the other person wishes to know most. As a side effect, the person that Sigma exchanges information with may experience momentary loss of consciousness as a result of a possible information influx.",
         "image": "./abilities/information-exchange.webp"
+    },
+    {
+        "id": "gasp-of-the-soul",
+        "name": "Gasp of the Soul",
+        "japaneseName": "魂の喘ぎ",
+        "classification": null,
+        "range": "Close Range",
+        "activation": null,
+        "mangeDebut": "Chapter 75",
+        "animeDebut": "Episode 49",
+        "lightNovelDebut": null,
+        "description": "Gasp of the Soul is the ability of Teruko Ōkura. It allows Teruko to manipulate the age of anyone she touches. Teruko herself mainly uses her ability for interrogation and torture, with the ability allowing her to rapidly age someone to old age and cause them to develop several illnesses and maladies normal to old people before rapidly pulling them back to a much younger age. Moreover, Teruko can use her ability on herself, allowing her to alter her physical age for both disguising herself and to mature her body to a more physically stronger age.",
+        "image": "./abilities/gasp-of-the-soul.webp"
+    },
+    {
+        "id": "priceless-tears",
+        "name": "Priceless Tears",
+        "japaneseName": "千金の涙",
+        "classification": ["Supplementary"],
+        "range": "Close to Long Range",
+        "activation": null,
+        "mangeDebut": "Chapter 93",
+        "animeDebut": "Episode 55",
+        "lightNovelDebut": null,
+        "description": "Priceless Tears is the ability of Saigiku Jōno. It allows Jōno to manipulate and disintegrate his own body into particles that are about 20 micrometers, that lets him slip through small spaces such as air conditioners and gaps of doors to avoid attacks. Moreover, he can atomize parts of his body, such as when avoiding a sword slice to his face. This cluster of particles is said to appear like an afterglow that cannot be affected by guns or swords.",
+        "image": "./abilities/priceless-tears.webp"
+    },
+    {
+        "id": "plum-blossoms-in-snow",
+        "name": "Plum Blossoms in Snow",
+        "japaneseName": "雪中梅",
+        "classification": ["Offensive"],
+        "range": "Close to Long Range",
+        "activation": null,
+        "mangeDebut": "Chapter 61",
+        "animeDebut": "Episode 44",
+        "lightNovelDebut": null,
+        "description": "Plum Blossoms in Snow is the ability of Tetchō Suehiro. It allows Tetchō to extend his saber for long distances and bend it at will, which makes it difficult - if not impossible - to outrun its length and span. In addition, it can cleave an entire vehicle into two from a far distance and even penetrate the walls of a helicopter flying at a high altitude from the ground.",
+        "image": "./abilities/plum-blossoms-in-snow.webp"
     }
 ]
