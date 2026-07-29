@@ -21,7 +21,7 @@
         "animeDebut": "Episode 2",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Yukichi Fukuzawa is the president of the Armed Detective Agency and a highly skilled swordsman. Calm, disciplined, and deeply protective of his subordinates, he provides the steady leadership that holds the Agency together."
     },
     {
         "id": "akiko-yosano",
@@ -45,7 +45,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Akiko Yosano is the Armed Detective Agency's physician and one of its most formidable members. Confident and sharp-tongued, she uses her rare healing ability to save allies from otherwise fatal injuries while carrying the scars of her wartime past."
     },
     {
         "id": "atsushi-nakajima",
@@ -69,7 +69,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "55 Minutes",
         "status": "Alive",
-        "description": ""
+        "description": "Atsushi Nakajima is a young detective who can transform into a powerful white tiger. After years of abuse at an orphanage, he struggles with his self-worth but gradually learns to use his compassion and strength to protect others."
     },
     {
         "id": "doppo-kunikida",
@@ -93,7 +93,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Doppo Kunikida is an idealistic detective who organizes his life around the plans written in his notebook. Serious, responsible, and easily frustrated by chaos, he nevertheless risks everything to uphold his principles and protect innocent people."
     },
     {
         "id": "junichiro-tanizaki",
@@ -117,7 +117,7 @@
         "animeDebut": "Episode 2",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Jun'ichirō Tanizaki is a member of the Armed Detective Agency whose ability creates convincing visual illusions. Usually gentle and unassuming, he becomes fiercely dangerous whenever someone threatens his younger sister Naomi."
     },
     {
         "id": "kenji-miyazawa",
@@ -141,7 +141,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Alive",
-        "description": ""
+        "description": "Kenji Miyazawa is a cheerful young detective from the countryside whose immense physical strength appears when he is hungry. His sincerity, optimism, and unusual trust in others often allow him to resolve conflicts in ways his more suspicious coworkers cannot."
     },
     {
         "id": "kyoka-izumi",
@@ -165,7 +165,7 @@
         "animeDebut": "Episode 8",
         "lightNovelDebut": "BEAST",
         "status": "Alive",
-        "description": ""
+        "description": "Kyōka Izumi is a former Port Mafia assassin who joins the Armed Detective Agency after being rescued from the life forced upon her. Quiet and reserved, she is determined to prove that she can use her ability, Demon Snow, to protect people rather than kill them."
     },
     {
         "id": "osamu-dazai",
@@ -189,7 +189,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Osamu Dazai is a brilliant and unpredictable detective with the power to nullify other abilities through touch. Formerly an executive of the Port Mafia, he hides exceptional strategic insight and a troubled past beneath a playful, eccentric exterior."
     },
     {
         "id": "ranpo-edogawa",
@@ -213,7 +213,7 @@
         "animeDebut": "Episode 1",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Alive",
-        "description": ""
+        "description": "Ranpo Edogawa is the Armed Detective Agency's greatest detective, capable of solving seemingly impossible cases through extraordinary observation and deduction. Although he calls his talent an ability, his brilliance is entirely his own, and his confidence is matched only by his fondness for praise and sweets."
     },
     {
         "id": "naomi-tanizaki",
@@ -230,7 +230,7 @@
         "animeDebut": "Episode 2",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
-        "description": ""
+        "description": "Naomi Tanizaki works as a clerk for the Armed Detective Agency while continuing her studies. Outgoing and assertive, she is especially devoted to her older brother Jun'ichirō and remains composed even when the Agency is placed in danger."
     },
     {
         "id": "kikaro-haruno",
@@ -245,7 +245,7 @@
         "mangaDebut": "Chapter 22",
         "animeDebut": "Episode 2",
         "status": "Alive",
-        "description": ""
+        "description": "Kikaro Haruno is a clerk at the Armed Detective Agency who helps manage its daily operations. Though she is not a combatant, she remains dependable under pressure and supports the detectives during dangerous incidents."
     },
     {
         "id": "katai-tayama",
@@ -273,7 +273,7 @@
         "mangaDebut": "Chapter 41",
         "animeDebut": "Episode 30",
         "status": "Alive",
-        "description": ""
+        "description": "Katai Tayama is a reclusive information broker and former member of the Armed Detective Agency. He prefers working from the comfort of his futon, where his ability lets him control electronic devices without touching them."
     },
     {
         "id": "ogai-mori",
@@ -297,7 +297,7 @@
         "animeDebut": "Episode 11",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Alive",
-        "description": ""
+        "description": "Ōgai Mori is the calculating leader of the Port Mafia and a former underground doctor. He makes decisions according to cold logic and the organization's survival, often treating people as pieces in a larger strategy."
     },
     {
         "id": "ace",
@@ -313,7 +313,7 @@
         "mangaDebut": "Chapter 42",
         "animeDebut": "Episode 29",
         "status": "Dead",
-        "description": ""
+        "description": "Ace was one of the Port Mafia's executives and an ability user obsessed with wealth, status, and control. He treated his subordinates as expendable assets and believed his position made him untouchable."
     },
     {
         "id": "colonel-port-mafia",
@@ -329,7 +329,7 @@
         "mangaDebut": "DEAD APPLE Chapter 8 (mentioned)",
         "lightNovelDebut": "STORM BRINGER",
         "status": "Dead",
-        "description": ""
+        "description": "The Colonel was a former soldier who rose to the rank of Port Mafia executive. He was known as a powerful ability user and was counted among the organization's previous generation of senior leaders."
     },
     {
         "id": "chuya-nakahara",
@@ -353,7 +353,7 @@
         "animeDebut": "Episode 9",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Chūya Nakahara is a Port Mafia executive and a master of gravity manipulation. Proud, hot-tempered, and intensely loyal, he combines exceptional martial skill with overwhelming power and shares a notoriously hostile history with his former partner, Osamu Dazai."
     },
     {
         "id": "koyo-ozaki",
@@ -377,7 +377,7 @@
         "animeDebut": "Episode 17",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Kōyō Ozaki is a senior Port Mafia executive who fights through the sword-wielding ability Golden Demon. Elegant and composed, she is deeply protective of Kyōka and believes that people raised in darkness cannot easily escape it."
     },
     {
         "id": "paul-verlaine",
@@ -393,7 +393,7 @@
         "mangaDebut": "Chapter 126",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Paul Verlaine is a powerful gravity manipulator, assassin, and former European spy whose origins are closely tied to Chūya Nakahara. After the events of the Arahabaki project, he becomes one of the Port Mafia's most dangerous and secluded figures."
     },
     {
         "id": "arthur-rimbaud",
@@ -414,7 +414,7 @@
         "animeDebut": "Episode 26",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Dead",
-        "description": ""
+        "description": "Arthur Rimbaud was a European spy and ability user who infiltrated Japan during a mission connected to Arahabaki. Thoughtful yet driven by his lost memories, his story is inseparable from Paul Verlaine and Chūya Nakahara's origins."
     },
     {
         "id": "albatross",
@@ -518,7 +518,7 @@
         "animeDebut": "Episode 2",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Alive",
-        "description": ""
+        "description": "Ryūnosuke Akutagawa is a feared Port Mafia fighter whose ability transforms his coat into the destructive beast Rashōmon. Ruthless in battle and desperate for Dazai's recognition, he sees Atsushi as both a rival and an obstacle to proving his worth."
     },
     {
         "id": "ichiyo-higuchi",
@@ -535,7 +535,7 @@
         "mangaDebut": "Chapter 3",
         "animeDebut": "Episode 2",
         "status": "Alive",
-        "description": ""
+        "description": "Ichiyō Higuchi is a Port Mafia member who frequently works alongside Akutagawa. Though she lacks a known ability, she is skilled with firearms and remains fiercely loyal to him despite his cold treatment of her."
     },
     {
         "id": "ryuro-hirotsu",
@@ -558,7 +558,7 @@
         "mangaDebut": "Chapter 5",
         "animeDebut": "Episode 4",
         "status": "Alive",
-        "description": ""
+        "description": "Ryūrō Hirotsu is the veteran commander of the Port Mafia's Black Lizard unit. Courteous and experienced, he represents the organization's old guard and commands respect through both his composure and his powerful repulsion ability."
     },
     {
         "id": "gin-akutagawa",
@@ -574,7 +574,7 @@
         "mangaDebut": "Chapter 5",
         "animeDebut": "Episode 4",
         "status": "Alive",
-        "description": ""
+        "description": "Gin Akutagawa is a silent and highly skilled assassin who serves as a battalion leader in the Port Mafia's Black Lizard. Beneath her intimidating work persona, she is Ryūnosuke Akutagawa's younger sister and shows a far more ordinary side away from the Mafia."
     },
     {
         "id": "michizo-tachihara",
@@ -597,7 +597,7 @@
         "mangaDebut": "Chapter 5",
         "animeDebut": "Episode 4",
         "status": "Alive",
-        "description": ""
+        "description": "Michizō Tachihara is a metal-manipulating ability user who lived as both a Port Mafia officer and an undercover member of the Hunting Dogs. His divided loyalties force him to question whether his true place lies with his original mission or the people he came to regard as comrades."
     },
     {
         "id": "karma",
@@ -612,7 +612,7 @@
         "mangaDebut": "Chapter 42",
         "animeDebut": "Episode 29",
         "status": "Dead",
-        "description": ""
+        "description": "Karma was a young subordinate forced to serve the Port Mafia executive Ace. Despite the cruelty surrounding him, he retained a hopeful nature and dreamed of escaping the life in which he had been trapped."
     },
     {
         "id": "kyusaku-yumeno",
@@ -636,7 +636,7 @@
         "animeDebut": "Episode 19",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Kyūsaku Yumeno, commonly called Q, is a dangerous child ability user kept under strict confinement by the Port Mafia. Their ability, Dogra Magra, causes terrifying hallucinations in anyone who harms them, making Q both a victim and a weapon of the organization."
     },
     {
         "id": "motojiro-kajii",
@@ -659,7 +659,7 @@
         "mangaDebut": "Chapter 7",
         "animeDebut": "Episode 8",
         "status": "Alive",
-        "description": ""
+        "description": "Motojirō Kajii is an eccentric Port Mafia bomber who approaches destruction with the enthusiasm of a scientist conducting an experiment. His obsession with lemons extends to both his explosives and his ability to survive lemon-shaped bombs unharmed."
     },
     {
         "id": "sakunosuke-oda",
@@ -682,7 +682,7 @@
         "animeDebut": "Episode 13",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Dead",
-        "description": ""
+        "description": "Sakunosuke Oda was a low-ranking Port Mafia member who refused to kill and dreamed of becoming a novelist. Quiet, compassionate, and deeply important to Dazai, he cared for a group of orphans and tried to live according to the belief that people can choose a better path."
     },
     {
         "id": "kazuma-utagawa",
@@ -777,7 +777,7 @@
         "animeDebut": "Episode 16",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Hospitalized",
-        "description": ""
+        "description": "Santōka Taneda is the director of the Special Division for Unusual Powers, the government agency responsible for ability-related affairs. Relaxed in manner but politically perceptive, he often works behind the scenes to preserve the balance among Yokohama's major organizations."
     },
     {
         "id": "ango-sakaguchi",
@@ -801,7 +801,7 @@
         "animeDebut": "Episode 13",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Alive",
-        "description": ""
+        "description": "Ango Sakaguchi is an intelligence officer in the Special Division for Unusual Powers whose ability reads memories left within objects. Formerly an undercover agent inside the Port Mafia and Mimic, he carries lasting guilt over the betrayals and losses of the Dark Era."
     },
     {
         "id": "mizuki-tsujimura",
@@ -829,7 +829,7 @@
         "animeDebut": "DEAD APPLE",
         "lightNovelDebut": "Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko",
         "status": "Alive",
-        "description": ""
+        "description": "Mizuki Tsujimura is a government agent assigned to supervise the detective Yukito Ayatsuji. Earnest and determined, she struggles to control the inherited ability Yesterday's Shadow Tag while trying to prove herself within the Special Division."
     },
     {
         "id": "yachiyo-murakoso",
@@ -844,7 +844,7 @@
         "mangaDebut": "Chapter 26",
         "animeDebut": "Episode 19",
         "status": "Alive",
-        "description": ""
+        "description": "Yachiyo Murakoso is a government agent affiliated with the Special Division for Unusual Powers. She works in intelligence and operational support during the organization's investigations into ability-related threats."
     },
     {
         "id": "takuichi-aoki",
@@ -859,7 +859,7 @@
         "mangaDebut": "Chapter 26",
         "animeDebut": "Episode 19",
         "status": "Alive",
-        "description": ""
+        "description": "Takuichi Aoki is an agent of the Special Division for Unusual Powers. He assists with intelligence work and government operations involving dangerous ability users."
     },
     {
         "id": "mizuki-tsujimura-mother",
@@ -876,7 +876,7 @@
         "mangaDebut": "Gaiden Chapter 4",
         "lightNovelDebut": "Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko",
         "status": "Alive",
-        "description": ""
+        "description": "Mizuki Tsujimura's mother is a senior member of the Special Division and the original user of Yesterday's Shadow Tag. Her history as an ability user and government official strongly shapes Mizuki's career and her complicated relationship with her own power."
     },
     {
         "id": "asukai",
@@ -900,7 +900,7 @@
         "mangaDebut": "Gaiden Chapter 4.3",
         "lightNovelDebut": "Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko",
         "status": "Alive",
-        "description": ""
+        "description": "Asukai is a Metropolitan Police inspector involved in the events surrounding Yukito Ayatsuji and the Special Division. Serious and observant, he approaches unusual cases with the discipline of an experienced investigator."
     },
     {
         "id": "jun-mitamura",
@@ -915,7 +915,7 @@
         "animeDebut": "Episode 39",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Dead",
-        "description": ""
+        "description": "Jun Mitamura was a police officer secretly connected to the criminal organization V. His respectable public position concealed his involvement in the conspiracy surrounding the early history of the Armed Detective Agency."
     },
     {
         "id": "minoura",
@@ -930,7 +930,7 @@
         "mangaDebut": "Chapter 6",
         "animeDebut": "Episode 5",
         "status": "Alive",
-        "description": ""
+        "description": "Minoura is a senior police officer who initially views ability users and private detectives with skepticism. After witnessing Ranpo's extraordinary deductions, he becomes one of the Agency's recurring contacts within the police."
     },
     {
         "id": "sugimoto",
@@ -945,7 +945,7 @@
         "mangaDebut": "Chapter 6",
         "animeDebut": "Episode 5",
         "status": "Alive",
-        "description": ""
+        "description": "Sugimoto is a police officer involved in the investigation of Yamagiwa's murder. His role in the case places him at the center of one of Ranpo Edogawa's earliest demonstrations of his deductive skill."
     },
     {
         "id": "yamagiwa",
@@ -960,7 +960,7 @@
         "mangaDebut": "Chapter 6",
         "animeDebut": "Episode 5",
         "status": "Dead",
-        "description": ""
+        "description": "Yamagiwa was a police officer whose murder became the subject of an investigation involving Ranpo Edogawa. The truth surrounding her death exposed deception within the police and helped establish Ranpo's reputation as a detective."
     },
     {
         "id": "sugimoto",
@@ -975,7 +975,7 @@
         "mangaDebut": "Chapter 6",
         "animeDebut": "Episode 5",
         "status": "Alive",
-        "description": ""
+        "description": "Sugimoto is a police officer involved in the investigation of Yamagiwa's murder. His role in the case places him at the center of one of Ranpo Edogawa's earliest demonstrations of his deductive skill."
     },
     {
         "id": "tonan",
@@ -990,7 +990,7 @@
         "mangaDebut": "Chapter 57",
         "animeDebut": "Episode 43",
         "status": "Alive",
-        "description": ""
+        "description": "Tonan is the Vice Minister of Justice and a political opponent of the Armed Detective Agency. Motivated by resentment toward the Agency and Fukuzawa, he uses his authority to support efforts aimed at bringing the organization down."
     },
     {
         "id": "sakashita",
@@ -1005,7 +1005,7 @@
         "mangaDebut": "Gaiden Chapter 5.2",
         "lightNovelDebut": "Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko",
         "status": "Alive",
-        "description": ""
+        "description": "Sakashita is a deputy director within the Ministry of Justice who appears in the conflict surrounding Yukito Ayatsuji. His position connects him to the government's attempts to manage dangerous ability users and politically sensitive investigations."
     },
     {
         "id": "francis-fitzgerald",
@@ -1028,7 +1028,7 @@
         "mangaDebut": "Chapter 12",
         "animeDebut": "Episode 10",
         "status": "Alive",
-        "description": ""
+        "description": "Francis Scott Key Fitzgerald is the wealthy and charismatic leader of the Guild, whose ability converts money spent into physical power. Driven by his devotion to his family and absolute confidence in his ambitions, he is willing to risk an entire fortune to achieve his goals."
     },
     {
         "id": "edgar-poe",
@@ -1051,7 +1051,7 @@
         "mangaDebut": "Chapter 32",
         "animeDebut": "Episode 22",
         "status": "Alive",
-        "description": ""
+        "description": "Edgar Allan Poe is a Guild architect and mystery writer whose ability pulls readers into the worlds of his novels. Shy and intensely competitive, he considers Ranpo his greatest rival while gradually becoming one of the detective's most valuable allies."
     },
     {
         "id": "herman-melville",
@@ -1074,7 +1074,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "Herman Melville is the former leader of the Guild and the user of Moby Dick, a massive flying white whale. Elderly and dignified, he respects Fitzgerald's leadership while retaining the experience and perspective of the organization's previous generation."
     },
     {
         "id": "howard-lovecraft",
@@ -1097,7 +1097,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "Howard Phillips Lovecraft is an enigmatic being who worked with the Guild despite showing little interest in ordinary human concerns. His monstrous true form and extraordinary durability suggest that he is something far stranger than a conventional ability user."
     },
     {
         "id": "james-l",
@@ -1112,7 +1112,7 @@
         "mangaDebut": "Chapter 15",
         "animeDebut": "Episode 12",
         "status": "Dead",
-        "description": ""
+        "description": "James L. was a senior secretary of the Guild who handled administrative duties for the organization. His position placed him among Fitzgerald's trusted personnel during the Guild's campaign in Yokohama."
     },
     {
         "id": "john-steinback",
@@ -1135,7 +1135,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "John Steinbeck is a Guild ability user who controls plants through The Grapes of Wrath. Motivated largely by the need to support his family, he is practical, resilient, and willing to lead the Guild's remaining forces after Fitzgerald's fall."
     },
     {
         "id": "lucy-maud-montgomery",
@@ -1163,7 +1163,7 @@
         "mangaDebut": "Chapter 15",
         "animeDebut": "Episode 12",
         "status": "Alive",
-        "description": ""
+        "description": "Lucy Maud Montgomery is a former Guild member whose ability creates the sealed alternate space known as Anne's Room. Having also grown up in an orphanage, she forms a strong connection with Atsushi and later helps him and the Agency despite her guarded personality."
     },
     {
         "id": "louisa-alcott",
@@ -1186,7 +1186,7 @@
         "mangaDebut": "Chapter 26",
         "animeDebut": "Episode 19",
         "status": "Alive",
-        "description": ""
+        "description": "Louisa May Alcott is a quiet Guild strategist whose ability allows her to slow the passage of time while she thinks in private. Though extremely shy in public, her careful plans and devotion to Fitzgerald make her one of the Guild's most important minds."
     },
     {
         "id": "margareth-mitchell",
@@ -1209,7 +1209,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "Margaret Mitchell is a proud Guild ability user who joined the organization to restore her family's lost status. Beneath her refined and confident manner, she is determined to survive hardship and protect the future she hopes to reclaim."
     },
     {
         "id": "mark-twain",
@@ -1232,7 +1232,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "Mark Twain is an energetic Guild sharpshooter whose ability manifests the tiny companions Huck Finn and Tom Sawyer. Confident and adventurous, he treats dangerous missions with a casual enthusiasm that matches his exceptional aim."
     },
     {
         "id": "nathaniel-hawthorne",
@@ -1255,7 +1255,7 @@
         "mangaDebut": "Chapter 18",
         "animeDebut": "Episode 17",
         "status": "Alive",
-        "description": ""
+        "description": "Nathaniel Hawthorne is a deeply religious ability user whose blood can be shaped into weapons and scripture. Once a member of the Guild, he later becomes an assassin serving Fyodor after his mind and devotion are manipulated."
     },
     {
         "id": "fyodor-dostoevsky",
@@ -1284,7 +1284,7 @@
         "mangaDebut": "Chapter 12",
         "animeDebut": "Episode 24",
         "status": "Alive",
-        "description": ""
+        "description": "Fyodor Dostoevsky is the calculating leader of the Rats in the House of the Dead and one of the founders of the Decay of the Angel. Viewing abilities as a stain upon humanity, he manipulates people and entire organizations through elaborate schemes designed to create a world without ability users."
     },
     {
         "id": "alexander-pushkin",
@@ -1301,7 +1301,7 @@
         "mangaDebut": "Chapter 51",
         "animeDebut": "Episode 36",
         "status": "Alive",
-        "description": ""
+        "description": "Alexander Pushkin is a member of the Rats in the House of the Dead whose ability spreads a lethal infectious disease between targets. Cowardly and self-serving, he relies on his power and his allies rather than confronting opponents directly."
     },
     {
         "id": "ivan-goncharov",
@@ -1318,7 +1318,7 @@
         "mangaDebut": "Chapter 51",
         "animeDebut": "Episode 36",
         "status": "Alive",
-        "description": ""
+        "description": "Ivan Goncharov is a devoted follower of Fyodor whose ability allows him to manipulate stone and earth. After Fyodor alters his mind, Ivan displays absolute loyalty and treats his service as a source of perfect happiness."
     },
     {
         "id": "mushitaro-oguri",
@@ -1347,7 +1347,7 @@
         "mangaDebut": "Chapter 54",
         "animeDebut": "Episode 41",
         "status": "Alive",
-        "description": ""
+        "description": "Mushitarō Oguri is an ability user whose Perfect Crime can erase evidence connected to a murder. Theatrical, proud, and hostile toward detectives, he hides deep grief and loyalty beneath his dramatic behavior."
     },
     {
         "id": "agatha-christie",
@@ -1364,7 +1364,7 @@
         "mangaDebut": "Chapter 12",
         "animeDebut": "DEAD APPLE",
         "status": "Alive",
-        "description": ""
+        "description": "Dame Agatha Christie is the Knight Commander of the Order of the Clock Tower and one of Europe's most influential ability users. Elegant and politically powerful, she operates on an international scale and regards Yokohama's conflicts as part of a much larger struggle."
     },
     {
         "id": "ochi-fukuchi",
@@ -1386,7 +1386,7 @@
         "mangaDebut": "Chapter 60",
         "animeDebut": "Episode 40",
         "status": "Dead",
-        "description": ""
+        "description": "Ōchi Fukuchi is a celebrated war hero, captain of the Hunting Dogs, and secret leader of the Decay of the Angel. Traumatized by the horrors of war, he uses his fame, military power, and time-amplifying ability to pursue a radical plan he believes will end future conflict."
     },
     {
         "id": "bram-stoker",
@@ -1411,7 +1411,7 @@
         "mangaDebut": "Chapter 88",
         "animeDebut": "Episode 52",
         "status": "Dead",
-        "description": ""
+        "description": "Bram Stoker is an ancient ability user whose power can transform people into vampire-like creatures and spread across enormous distances. Formerly controlled by Fukuchi as a weapon, he is weary, sarcastic, and far more compassionate than his frightening reputation suggests."
     },
     {
         "id": "nikolai-gogol",
@@ -1440,7 +1440,7 @@
         "mangaDebut": "Chapter 57",
         "animeDebut": "Episode 42",
         "status": "Alive",
-        "description": ""
+        "description": "Nikolai Gogol is a flamboyant member of the Decay of the Angel whose ability connects distant spaces through his overcoat. Obsessed with absolute freedom, he behaves like a theatrical trickster while testing whether he can escape every bond, including his attachment to Fyodor."
     },
     {
         "id": "sigma",
@@ -1463,7 +1463,7 @@
         "mangaDebut": "Chapter 72",
         "animeDebut": "Episode 49",
         "status": "Alive",
-        "description": ""
+        "description": "Sigma is the manager of the Sky Casino and a former member of the Decay of the Angel. Created from the Book with no past or true home, he desperately protects the casino and searches for a place where he can belong."
     },
     {
         "id": "teruko-okura",
@@ -1483,7 +1483,7 @@
         "mangaDebut": "Chapter 60",
         "animeDebut": "Episode 44",
         "status": "Alive",
-        "description": ""
+        "description": "Teruko Ōkura is the vice-captain of the Hunting Dogs and a fierce supporter of Fukuchi. Her ability lets her alter age, while her unpredictable demeanor shifts between childish playfulness and ruthless military authority."
     },
     {
         "id": "saigiku-jono",
@@ -1503,7 +1503,7 @@
         "mangaDebut": "Chapter 57",
         "animeDebut": "Episode 43",
         "status": "Alive",
-        "description": ""
+        "description": "Saigiku Jōno is a blind Hunting Dogs officer whose heightened senses let him detect minute physical reactions and emotional changes. Cruel and provocative during interrogations, he nevertheless follows a personal sense of justice that can place him at odds with corrupt authority."
     },
     {
         "id": "tetcho-suehiro",
@@ -1525,7 +1525,7 @@
         "mangaDebut": "Chapter 60",
         "animeDebut": "Episode 44",
         "status": "Alive",
-        "description": ""
+        "description": "Tetchō Suehiro is a Hunting Dogs officer renowned for his swordsmanship and unwavering devotion to justice. Extremely serious and literal-minded, he balances his intimidating combat ability with bizarre food habits and a strong concern for his comrades."
     },
     {
         "id": "shunzen-tachihara",
@@ -1541,7 +1541,7 @@
         "mangaDebut": "Chapter 65",
         "animeDebut": "Episode 46",
         "status": "Dead",
-        "description": ""
+        "description": "Shunzen Tachihara was a soldier in the 356th Infantry Division and the older brother of Michizō Tachihara. His death during Yosano's service as a wartime surgeon left a lasting impact on both her and his family."
     },
     {
         "id": "buichiro-shirase",
@@ -1558,7 +1558,7 @@
         "animeDebut": "Episode 27",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Buichirō Shirase is a former member of the Sheep who resented Chūya's power while depending on him for protection. Ambitious and insecure, he later tries to build a new life as the leader of the Stray Sheep."
     },
     {
         "id": "yuan",
@@ -1573,7 +1573,7 @@
         "animeDebut": "Episode 27",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
-        "description": ""
+        "description": "Yuan is a member of the Sheep who grew up alongside Chūya and the other youths of Suribachi City. She supports the group's efforts to survive independently but becomes involved in the betrayal that drives Chūya away."
     },
     {
         "id": "andre-guide",
@@ -1594,7 +1594,7 @@
         "animeDebut": "Episode 15",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Dead",
-        "description": ""
+        "description": "André Gide was the commander of Mimic, a group of abandoned soldiers seeking a meaningful death. His ability allowed him to see several seconds into the future, making him the natural counterpart and final opponent of Sakunosuke Oda."
     },
     {
         "id": "johann-goethe",
@@ -1646,7 +1646,7 @@
         "formerOrganizationIds": [],
         "lightNovelDebut": "55 Minutes",
         "status": "Dead",
-        "description": ""
+        "description": "Jules Gabriel Verne was one of the Seven Traitors and the ability user connected to Standard Island. His power let him absorb the abilities of those who died on the island, turning him into the central figure of the 55 Minutes incident."
     },
     {
         "id": "thumbnail",
@@ -1661,7 +1661,7 @@
         "mangaDebut": "Chapter 38",
         "animeDebut": "Episode 30",
         "status": "Alive",
-        "description": ""
+        "description": "Thumbnail is the leader of the criminal group Zoopark. He uses intimidation and organized violence to control his gang and becomes involved in a case investigated by the Armed Detective Agency."
     },
     {
         "id": "t-eckleburg",
@@ -1678,7 +1678,7 @@
         "mangaDebut": "Chapter 45",
         "animeDebut": "Episode 32",
         "status": "Alive",
-        "description": ""
+        "description": "T. J. Eckleburg is an engineer employed by Manhasset Security. His technical work supports the company established by Fitzgerald during his attempt to rebuild his influence and fortune."
     },
     {
         "id": "tom-buchanan",
@@ -1695,7 +1695,7 @@
         "mangaDebut": "Chapter 45",
         "animeDebut": "Episode 32",
         "status": "Alive",
-        "description": ""
+        "description": "Tom Buchanan was the chairman of Manhasset Security before Fitzgerald took control of the company. Arrogant and self-interested, he underestimated Fitzgerald's determination and was quickly outmaneuvered."
     },
     {
         "id": "sk-corporation-secretary",
@@ -1711,7 +1711,7 @@
         "animeDebut": "Episode 38",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Dead",
-        "description": ""
+        "description": "The S&K Corporation secretary was a former public prosecutor who worked closely with the company's president. His connection to the V organization made him part of the conspiracy confronted during the early days of the Armed Detective Agency."
     },
     {
         "id": "ame-no-gozen",
@@ -1727,7 +1727,7 @@
         "mangaDebut": "Chapter 115",
         "animeDebut": "Episode 61",
         "status": "Alive",
-        "description": ""
+        "description": "Ame-no-Gozen is a supernatural warrior created through Fyodor's manipulation of Fukuchi's ability and the space-time sword Amenogozen. Existing beyond ordinary human limits, it serves as a devastating instrument in Fyodor's plan."
     },
     {
         "id": "blond-guy",
@@ -1743,7 +1743,7 @@
         "animeDebut": "Episode 7",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
-        "description": ""
+        "description": "The unnamed blond ability user was a criminal encountered during one of Kunikida and Dazai's early cases. His numerical ability allowed him to control objects according to numbers he assigned to them."
     },
     {
         "id": "criminal-ability-user",
@@ -1775,7 +1775,7 @@
         "formerOrganizationIds": [],
         "lightNovelDebut": "55 Minutes",
         "status": "Dead",
-        "description": ""
+        "description": "Herbert George Wells was a gifted ability user whose Time Machine could manipulate time within a limited area. During the 55 Minutes incident, she used her power and scientific knowledge in an attempt to prevent a catastrophic future."
     },
     {
         "id": "kyokas-mother",
@@ -1791,7 +1791,7 @@
         "mangaDebut": "Chapter 43",
         "animeDebut": "Episode 31",
         "status": "Dead",
-        "description": ""
+        "description": "Kyōka's mother was a government assassin and the original user of Demon Snow. Before her death, she transferred the ability to Kyōka in an effort to protect her daughter from the same enemies who targeted their family."
     },
     {
         "id": "nemo",
@@ -1827,7 +1827,7 @@
         "animeDebut": "DEAD APPLE",
         "lightNovelDebut": "DEAD APPLE",
         "status": "Dead",
-        "description": ""
+        "description": "Tatsuhiko Shibusawa was an ability collector known as the Draconia and the central antagonist of the DEAD APPLE incident. Fascinated by the crystallized forms of abilities, he sought meaning and self-knowledge by separating gifted people from their powers."
     },
     {
         "id": "soseki-natsume",
@@ -1845,7 +1845,7 @@
         "animeDebut": "Episode 36",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Alive",
-        "description": ""
+        "description": "Sōseki Natsume is a mysterious writer and one of the most influential ability users in Yokohama. As the mentor of both Fukuzawa and Mori, he shaped the city's tripartite balance and often watches events while transformed into a calico cat."
     },
     {
         "id": "adam-frankenstein",
@@ -1860,7 +1860,7 @@
         "mangaDebut": "STORM BRINGER Chapter 1",
         "lightNovelDebut": "STORM BRINGER",
         "status": "Alive",
-        "description": ""
+        "description": "Adam Frankenstein is an advanced Europole investigator created to pursue the assassin Paul Verlaine. Literal-minded but highly capable, he gradually develops a more human understanding of trust, sacrifice, and friendship while working with Chūya."
     },
     {
         "id": "aya-koda",
@@ -1877,7 +1877,7 @@
         "mangaDebut": "Chapter 40",
         "animeDebut": "Bungo Stray Dogs: Hitori Ayumu",
         "status": "Alive",
-        "description": ""
+        "description": "Aya Kōda is a brave and stubborn young girl who repeatedly becomes involved in conflicts between ability users. Despite having no ability of her own, she risks her life to help others and forms an unexpected friendship with Bram Stoker."
     },
     {
         "id": "cafe-manager",
@@ -1892,7 +1892,7 @@
         "mangaDebut": "Chapter 38",
         "animeDebut": "Episode 30",
         "status": "Alive",
-        "description": ""
+        "description": "The manager of Café Uzumaki runs the café located beneath the Armed Detective Agency. Patient and dependable, he provides the Agency's members with meals, conversation, and a familiar place to gather between cases."
     },
     {
         "id": "captain-walston",
@@ -1937,7 +1937,7 @@
         "formerOrganizationIds": [],
         "lightNovelDebut": "STORM BRINGER",
         "status": "Alive",
-        "description": ""
+        "description": "Dr. Mary Wollstonecraft Godwin Shelley is a Europole engineer and the creator of Adam Frankenstein. Brilliant and unconventional, she designs advanced artificial life and equips Adam for his mission against Verlaine."
     },
     {
         "id": "egawa",
@@ -1953,7 +1953,7 @@
         "animeDebut": "Episode 38",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Alive",
-        "description": ""
+        "description": "Egawa is the owner of the theater involved in the case that brought Fukuzawa and Ranpo together. Her establishment becomes the setting for a dangerous plot surrounding the production and its performers."
     },
     {
         "id": "katsumi",
@@ -2016,7 +2016,7 @@
         "mangaDebut": "Chapter 43",
         "animeDebut": "Episode 31",
         "status": "Dead",
-        "description": ""
+        "description": "Kyōka's father was a government spy and assassin who worked alongside his wife. When their family was targeted, he fought to protect Kyōka, and his death became part of the tragedy that shaped her childhood."
     },
     {
         "id": "master-carlyle",
@@ -2049,7 +2049,7 @@
         "animeDebut": "Episode 6",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
-        "description": ""
+        "description": "Nobuko Sasaki was a university lecturer and the mastermind known as the Azure Apostle. Intelligent and driven by grief, she pursued a campaign of revenge connected to the ideals and death of the Azure King."
     },
     {
         "id": "orphanage-director",
@@ -2065,7 +2065,7 @@
         "mangaDebut": "Chapter 25",
         "animeDebut": "Episode 22",
         "status": "Dead",
-        "description": ""
+        "description": "The orphanage director was the abusive man who raised Atsushi and repeatedly convinced him that he was worthless. Although his methods were cruel and deeply damaging, his actions were partly driven by a twisted belief that harshness would prepare Atsushi to survive."
     },
     {
         "id": "n",
@@ -2206,7 +2206,7 @@
         "mangaDebut": "Chapter 54",
         "animeDebut": "Episode 41",
         "status": "Dead",
-        "description": ""
+        "description": "Yokomizo was a mystery writer and the close friend of Mushitarō Oguri. His final request placed Mushitarō at the center of a seemingly perfect murder and became the emotional foundation of Mushitarō's hostility toward detectives."
     },
     {
         "id": "yu",
