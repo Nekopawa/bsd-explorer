@@ -5,19 +5,7 @@
         "image": "/organizations/armed-detective-agency.webp",
         "description": "They are a group focused on solving crimes which are considered too violent or difficult for the metropolitan police to handle. Often, these crimes are of a supernatural origin. Nearly all of the detectives within the company have their own special powers known as abilities. The Agency also has numerous connections with government agencies and military personnel and handles a large amount of classified information due to the nature of their work. The Agency's licensed staff are granted police-like authority. Hence, they are authorized to carry guns and knives under certain conditions, and they can even pull records from police organizations which allows them to commit unethical acts if they wished to do so including meddling with authorities' investigations, falsify police information, and even wiretap or secretly film key facilities",
         "admission": "The Agency has an entrance exam for new employees, to assess if they possess qualities that make them worthy to join the Agency. The test usually consists of their qualities as a detective and their emotions of whether they are willing to risk their lives to save people. In order to join the Agency, the candidate must take a test that evaluates their righteousness, prowess, wisdom, morality and genuineness of spirit. The test supervisor watches the entrant's moves and determines whether they are a good fit to the Agency.",
-        "presidentId": "yukichi-fukuzawa",
-        "memberIds": [
-            "akiko-yosano",
-            "atushi-nakajima",
-            "doppo-kunikida",
-            "junichirou-tanizaki",
-            "kenji-miyazawa",
-            "kyōka-izumi",
-            "osamu-dazai",
-            "ranpo-edogawa"
-        ],
-        "clerks": ["naomi-tanizaki", "kirako-haruno"],
-        "formerMemberIds": ["katai-tayama"]
+        "type": "detective-agency"
     },
     {
         "id": "port-mafia",
@@ -25,75 +13,155 @@
         "image": "/organizations/port-mafia.webp",
         "description": "The Port Mafia is a criminal organization that operates in Yokohama. They are known for their ruthlessness and are involved in various illegal activities, including smuggling, extortion, and assassination. The organization is led by a mysterious figure known as the Boss, who maintains strict control over its members. The Port Mafia has a reputation for being highly organized and efficient, making them a formidable force in the criminal underworld.",
         "admission": "To join the Port Mafia, individuals must prove their loyalty and capability through various tests and missions. New recruits are often subjected to dangerous tasks to demonstrate their commitment to the organization. The Mafia values strength, cunning, and the ability to follow orders without question.",
-        "bossId": "ogai-mori",
-        "executiveIds": [
-            "ace",
-            "chuya-nakahara",
-            "koyo-ozaki",
-            "paul-verlaine"
-        ],
-        "subExecutiveIds": ["rando"],
-        "flagsIds": ["albatross", "doc", "iceman", "lippmann", "piano-man"],
-        "commandUnitIds": ["ryunosuke-akutagawa", "ichiyo-higuchi"],
-        "blackLizardIds": [
-            "ryuro-hirotsu",
-            "gin-akutagawa",
-            "michizo-tachihara"
-        ],
-        "membersIds": [
-            "elise",
-            "karma",
-            "kyusaku-yumeno",
-            "motojiro-kajii",
-            "sakunosuke-oda"
-        ],
-        "formerBossIds": ["porf-mafia-previous-boss"],
-        "formerMemberIds": ["ango-sakaguchi", "osamu-dazai", "kyoka-izumi"]
+        "type": "criminal-organization"
+    },
+    {
+        "id": "special-division",
+        "name": "Special Division for Unusual Powers",
+        "image": "/organizations/special-division.webp",
+        "description": "The Special Division for Unusual Powers is a secret service under the Ministry of Home Affairs, which is in charge of maintaining national security regarding Ability-related cases by monitoring and regulating gifted individuals and organizations throughout Japan. In times of activities caused by criminal entities, the Special Division manages such incidents through supervising the concerned parties and through cover-ups to prevent the public from learning about the ability-related cases as much as possible. Though the general approach of the Special Division is to not terminate hostile ability users, they may nonetheless dispose them if deemed necessary.",
+        "admission": null,
+        "type": "government-agency"
+    },
+    {
+        "id": "mimic",
+        "name": "Mimic",
+        "image": "/organizations/mimic.webp",
+        "description": "Mimic was a guerrilla organization from Europe that escaped to Japan after committing a war-crime sometime during a past global war. Led by André Gide, Mimic intended to find someone to kill them as soldiers as one last bit of solace after facing disgrace and shame.",
+        "admission": null,
+        "type": "paramilitary-organization"
+    },
+    {
+        "id": "police",
+        "name": "Metropolitan Police",
+        "image": "/organizations/police.webp",
+        "description": "The Police is considered the main security forces in Yokohama. Their primary job is to protect the city, allowing citizens to work in peace. It is also known that many members of the police organizations hold qualifications in kendo and jujutsu.",
+        "admission": null,
+        "type": "law-enforcement"
+    },
+    {
+        "id": "v",
+        "name": "V",
+        "image": "/organizations/v.webp",
+        "description": "V is a domestic gifted underground syndicate that operates in Japan, whose goal is to rid the country of ability users. According to then assassin Sakunosuke Oda, the group kills for justice and, once finished doing so, shall only continue to kill indiscriminately.",
+        "admission": null,
+        "type": "criminal-organization"
+    },
+    {
+        "id": "ministry-of-justice",
+        "name": "Ministry of Justice",
+        "image": "/organizations/ministry-of-justice.webp",
+        "description": "The Ministry of Justice is government department.",
+        "admission": null,
+        "type": "government-ministry"
     },
     {
         "id": "the-guild",
         "name": "The Guild",
         "image": "/organizations/guild.webp",
         "description": "The Guild is an international organization of highly skilled individuals who specialize in various forms of combat, espionage, and intelligence gathering. They operate globally and are known for their advanced technology and strategic operations. The Guild often takes on high-risk missions that require precision and expertise, making them a respected and feared entity in the world of covert operations.",
-        "admission": "To become a member of The Guild, candidates must undergo rigorous training and demonstrate exceptional skills in their chosen field. The selection process includes physical tests, mental challenges, and evaluations of strategic thinking. Only those who prove themselves capable of handling the demands of the organization are accepted.",
-        "leaderId": "francis-fitzgerald",
-        "memberIds": [
-            "edgar-poe",
-            "herman-melville",
-            "howard-lovecraft",
-            "james-l",
-            "john-steinbeck",
-            "lucy-montgomery",
-            "louisa-alcott",
-            "margaret-mitchell",
-            "mark-twain",
-            "nathaniel-hawthorne"
-        ]
+        "admission": null,
+        "type": "secret-society"
+    },
+    {
+        "id": "the-renewed-guild",
+        "name": "The Renewed Guild",
+        "image": "/organizations/guild.webp",
+        "description": "The Renewed Guild is the reestablished form of the original Guild, created by Francis Scott Key Fitzgerald after recovering from the organization's defeat. With only Francis and Louisa May Alcott as its known members, it represents the Guild's continued legacy and ambitions.",
+        "admission": null,
+        "type": "secret-society"
+    },
+    {
+        "id": "surviving-guild-forces",
+        "name": "Surviving Guild Forces",
+        "image": "/organizations/surviving-guild-forces.webp",
+        "description": "The Guild split into two different groups, the Guild itself led by Fitzgerald and the Surviving Guild Forces led by Steinbeck. Since Steinbeck is looking for revenge against Fitzgerald, the groups are opposed to each other.",
+        "admission": null,
+        "type": "secret-society"
+    },
+    {
+        "id": "cafe-uzumaki",
+        "name": "Café Uzumaki",
+        "image": "/organizations/cafe-uzumaki.webp",
+        "description": "Café Uzumaki is a cafe in Yokohama. It is located on the first floor of the building where the agency office is. This is where the agency members sometimes hangout during their free time.",
+        "admission": null,
+        "type": "business"
+    },
+    {
+        "id": "rats-in-the-house-of-the-dead",
+        "name": "Rats in the House of the Dead",
+        "image": "/organizations/rats-in-the-house-of-the-dead.webp",
+        "description": "The Rats in the House of the Dead are a clandestine criminal organization led by Fyodor Dostoevsky. Operating from the shadows through deception, manipulation, and carefully orchestrated schemes, the group seeks to reshape the world according to Fyodor's ideals and has become one of the most dangerous threats faced by ability users.",
+        "admission": null,
+        "type": "criminal-organization"
+    },
+    {
+        "id": "order-of-the-clock-tower",
+        "name": "Order of the Clock Tower",
+        "image": "/organizations/order-of-the-clock-tower.webp",
+        "description": "The Order of the Clock Tower is an underground organization of ability users in Great Britain and the England's secret military agency. It is a British state organization that has been knighted, granting it the authority to protect the Queen. The members of the organization were the Queen's highest-ranking imperial guards. Their guard is known for being unbreakable because the ability users belonging to the organization were on the same level as the Transcendents.",
+        "admission": null,
+        "type": "knightly-order"
     },
     {
         "id": "decay-of-the-angel",
         "name": "Decay of the Angel",
         "image": "/organizations/decay-of-the-angel.webp",
         "description": "The Decay of the Angel was a terrorist organization that has long since been hiding in Japan, operating as a murder association which possesses a single page from the Book. The Decay has a fourfold scheme with the penultimate goal of eliminating the country, which they operate on by writing on both sides of the page.",
-        "leaderId": "ochi-fukuchi",
-        "memberIds": [
-            "bram-stoker",
-            "fyodor-dostoevsky",
-            "nikolai-gogol",
-            "sigma"
-        ]
+        "type": "terrorist-organization"
     },
     {
         "id": "hunting-dogs",
         "name": "Hunting Dogs",
         "image": "/organizations/hunting-dogs.webp",
         "description": "The Hunting Dogs are a group of mercenaries who specialize in tracking and eliminating targets. They are known for their relentless pursuit and efficiency in completing contracts.",
-        "leaderId": "ochi-fukuchi",
-        "memberIds": [
-            "teruko-okura",
-            "saigiku-jono",
-            "tetcho-suehiro",
-            "michizo-tachihara"
-        ]
+        "type": "military-unit"
+    },
+    {
+        "id": "sky-casino",
+        "name": "Sky Casino",
+        "image": "/organizations/sky-casino.webp",
+        "description": "The Sky Casino is a floating casino owned by Sigma. It is a high-altitude floating establishment built right after the war ended. It has helium and the centrifugal force from the mass balancer makes it possible to stay aloft with far less fuel than it appears to need. It is a de facto free state which indicates it is outside of the jurisdiction of any nation under international law.",
+        "type": "business"
+    },
+    {
+        "id": "shin-tsuruya-institute",
+        "name": "Shin-Tsuruya Institute",
+        "image": null,
+        "description": "An educational institution attended by Doppo Kunikida prior to joining the Armed Detective Agency.",
+        "admission": null,
+        "type": "educational-institution"
+    },
+    {
+        "id": "356th-infantry-division",
+        "name": "356th Infantry Division",
+        "image": null,
+        "description": "The 356th Infantry Division was a military unit of the Great War. It is best known for the battlefield where Akiko Yosano served as a military physician, an experience that profoundly shaped her ideals and the development of her ability.",
+        "admission": null,
+        "type": "military-unit"
+    },
+    {
+        "id": "transcendents",
+        "name": "Transcendents",
+        "image": "/organizations/transcendents.webp",
+        "description": "The Transcendents is a certain group of a few dozen ability users sent by the nations of Europe to the war. Very little is known about the organization of the Transcendents, how they stand out, what specific tasks they perform, or what influence they have. But its members are on the same level as those of the Order of the Clock Tower. The only known members belong to different nationalities: France, England, and Germany, respectively. Furthermore, its members are presumed to be powerful ability users.",
+        "admission": null,
+        "type": "ability-user-group"
+    },
+    {
+        "id": "may-uprising",
+        "name": "May Uprising",
+        "image": null,
+        "description": "The May Uprising is a rebel force group with only one member - their leader, named Pan, an ability user. They have fought the DGSS Operations Division at an uknown point in time.",
+        "admission": null,
+        "type": "rebel-group"
+    },
+    {
+        "id": "dgss",
+        "name": "DGSS",
+        "image": null,
+        "description": "The DGSS is an intelligence agency whose Operations Division was involved in suppressing armed threats and conducting covert operations. It is known to have fought the May Uprising at an unknown point in time. Little is known about the organization.",
+        "admission": null,
+        "type": "intelligence-agency"
     }
 ]
