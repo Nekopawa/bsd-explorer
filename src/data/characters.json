@@ -27,7 +27,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["leader"],
@@ -51,7 +51,7 @@
         "height": "166 cm",
         "weight": "52 kg",
         "bloodType": "O",
-        "likes": ["flowers", "japanese sweets", "eel", "sake"],
+        "likes": ["flowers", "Japanese sweets", "eel", "sake"],
         "dislikes": ["male chauvinism", "weak men"],
         "abilityId": "thou-shalt-not-die",
         "occupations": [
@@ -68,7 +68,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["physician", "member"],
@@ -101,7 +101,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -138,7 +138,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -180,7 +180,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -213,7 +213,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -250,7 +250,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -292,7 +292,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -330,7 +330,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -360,7 +360,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["clerk"],
@@ -385,7 +385,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["clerk"],
@@ -412,7 +412,7 @@
             "being in his futon",
             "hot springs",
             "red-bean jelly",
-            "traditional dark-haired japanese beauties"
+            "traditional dark-haired Japanese beauties"
         ],
         "dislikes": ["dealing with others", "crooked things"],
         "abilityId": "futon",
@@ -422,7 +422,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "armed-detective-agency",
                 "roles": ["member"],
@@ -458,7 +458,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["leader"],
@@ -489,7 +489,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["executive"],
@@ -518,7 +518,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["executive"],
@@ -554,7 +554,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["executive"],
@@ -589,7 +589,7 @@
         "height": "171 cm",
         "weight": "62 kg",
         "bloodType": "A",
-        "likes": ["Kyōka Izumi", "golden tempura", "japanese pickles"],
+        "likes": ["Kyōka Izumi", "golden tempura", "Japanese pickles"],
         "dislikes": ["hope", "love"],
         "abilityId": "golden-demon",
         "occupations": [
@@ -598,7 +598,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["executive"],
@@ -632,7 +632,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["executive"],
@@ -670,7 +670,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["sub-executive"],
@@ -710,7 +710,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -732,7 +732,7 @@
         "age": "25",
         "occupations": [
             {
-                "role": "Medical Supervisor",
+                "role": "medical supervisor",
                 "status": "current"
             },
             {
@@ -740,7 +740,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -770,7 +770,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -792,7 +792,7 @@
         "age": "25",
         "occupations": [
             {
-                "role": "Negotiator",
+                "role": "negotiator",
                 "status": "current"
             },
             {
@@ -800,7 +800,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -830,7 +830,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -863,7 +863,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -891,7 +891,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -920,11 +920,11 @@
         "abilityId": "falling-camellia",
         "occupations": [
             {
-                "role": "Black Lizard Commander",
+                "role": "black lizard commander",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -946,11 +946,11 @@
         "birthday": "February 4",
         "occupations": [
             {
-                "role": "Black Lizard Battalion Leader",
+                "role": "black lizard battalion leader",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -966,7 +966,7 @@
     {
         "id": "michizo-tachihara",
         "name": "Michizō Tachihara",
-        "japaneseName": "夢野 久作",
+        "japaneseName": "立原道造",
         "image": "/characters/michizo-tachihara.webp",
         "gender": "male",
         "birthday": "July 30",
@@ -979,19 +979,19 @@
         "abilityId": "midwinter-memento",
         "occupations": [
             {
-                "role": "Black Lizard commander",
+                "role": "black lizard commander",
                 "status": "former"
             },
             {
-                "role": "Hunting Dog",
+                "role": "hunting dog",
                 "status": "current"
             },
             {
-                "role": "Double spy",
+                "role": "double spy",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1001,7 +1001,7 @@
             {
                 "organizationId": "hunting-dogs",
                 "roles": ["member"],
-                "status": "former"
+                "status": "current"
             }
         ],
         "mangaDebut": "Chapter 5",
@@ -1022,7 +1022,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1043,11 +1043,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Ace's subordinate",
+                "role": "ace's subordinate",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1062,7 +1062,7 @@
     {
         "id": "kyusaku-yumeno",
         "name": "Kyūsaku Yumeno",
-        "japaneseName": "立原道造",
+        "japaneseName": "夢野 久作",
         "image": "/characters/kyusaku-yumeno.webp",
         "gender": "unknown",
         "birthday": "January 4",
@@ -1075,11 +1075,11 @@
         "abilityId": "dogra-magra",
         "occupations": [
             {
-                "role": "Mafia member",
+                "role": "mafia member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1112,7 +1112,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1151,7 +1151,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1180,7 +1180,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1207,7 +1207,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1234,7 +1234,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1257,7 +1257,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["member"],
@@ -1280,7 +1280,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "port-mafia",
                 "roles": ["leader"],
@@ -1290,7 +1290,7 @@
         "mangaDebut": "Chapter 30",
         "animeDebut": "Episode 21",
         "status": "Dead",
-        "description": "He was the unnamed previous boss whom Ōgai Mori succeeded in the Port Mafia eight years ago. During his years, Yokohama had became a violent city. Eventually, he fell to sickness and got bedridden. Later on, he was killed by Mori."
+        "description": "He was the unnamed previous boss whom Ōgai Mori succeeded in the Port Mafia eight years ago. During his rule, Yokohama became a violent city. Eventually, he fell ill and became bedridden. He was later killed by Mori."
     },
     {
         "id": "santoka-taneda",
@@ -1312,7 +1312,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["leader"],
@@ -1345,11 +1345,11 @@
                 "status": "current"
             },
             {
-                "role": "Information agent",
+                "role": "information agent",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["member"],
@@ -1396,7 +1396,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["member"],
@@ -1421,7 +1421,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["member"],
@@ -1445,7 +1445,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["member"],
@@ -1460,18 +1460,18 @@
     {
         "id": "mizuki-tsujimura-mother",
         "name": "Mizuki Tsujimura (Mother)",
-        "japaneseName": "辻村 深月",
+        "japaneseName": null,
         "image": "/characters/mizuki-tsujimura-mother.webp",
         "gender": "female",
         "age": "40-50",
         "abilityId": "yesterdays-shadow-tag",
         "occupations": [
             {
-                "role": "Assistant Director",
+                "role": "assistant director",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "special-division",
                 "roles": ["member"],
@@ -1504,7 +1504,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "police",
                 "roles": ["member"],
@@ -1524,11 +1524,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Police Officer",
+                "role": "police officer",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "police",
                 "roles": ["member"],
@@ -1553,11 +1553,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Police Officer",
+                "role": "police officer",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "police",
                 "roles": ["member"],
@@ -1577,11 +1577,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Police Officer",
+                "role": "police officer",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "police",
                 "roles": ["member"],
@@ -1601,11 +1601,11 @@
         "gender": "female",
         "occupations": [
             {
-                "role": "Police Officer",
+                "role": "police officer",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "police",
                 "roles": ["member"],
@@ -1625,11 +1625,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Vice Justice Minister",
+                "role": "vice justice minister",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "ministry-of-justice",
                 "roles": ["member"],
@@ -1649,11 +1649,11 @@
         "gender": "male",
         "occupations": [
             {
-                "role": "Deputy director",
+                "role": "deputy director",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "ministry-of-justice",
                 "roles": ["member"],
@@ -1681,15 +1681,15 @@
         "abilityId": "the-great-fitzgerald",
         "occupations": [
             {
-                "role": "The Renewed Guild leader",
+                "role": "the renewed guild leader",
                 "status": "current"
             },
             {
-                "role": "The Guild leader",
+                "role": "the guild leader",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-renewed-guild",
                 "roles": ["leader"],
@@ -1699,6 +1699,11 @@
                 "organizationId": "the-guild",
                 "roles": ["leader"],
                 "status": "former"
+            },
+            {
+                "organizationId": "manhasset-security",
+                "roles": ["member"],
+                "status": "current"
             }
         ],
         "mangaDebut": "Chapter 12",
@@ -1726,7 +1731,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -1758,11 +1763,11 @@
                 "status": "former"
             },
             {
-                "role": "The Guild leader",
+                "role": "the guild leader",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["leader"],
@@ -1799,7 +1804,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -1823,7 +1828,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -1836,10 +1841,10 @@
         "description": "James L. was a senior secretary of the Guild who handled administrative duties for the organization. His position placed him among Fitzgerald's trusted personnel during the Guild's campaign in Yokohama."
     },
     {
-        "id": "john-steinback",
+        "id": "john-steinbeck",
         "name": "John Steinbeck",
         "japaneseName": "ジョン・スタインベック",
-        "image": "/characters/john-steinback.webp",
+        "image": "/characters/john-steinbeck.webp",
         "gender": "male",
         "birthday": "February 27",
         "age": "21",
@@ -1851,7 +1856,7 @@
         "abilityId": "the-grapes-of-wrath",
         "occupations": [
             {
-                "role": "Surviving Guild Forces interim leader",
+                "role": "surviving guild forces interim leader",
                 "status": "current"
             },
             {
@@ -1859,7 +1864,7 @@
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -1901,11 +1906,11 @@
                 "status": "current"
             },
             {
-                "role": "The Guild member",
+                "role": "the guild member",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "cafe-uzumaki",
                 "roles": ["member"],
@@ -1938,15 +1943,15 @@
         "abilityId": "little-women",
         "occupations": [
             {
-                "role": "The Renewed Guild member",
+                "role": "the renewed guild member",
                 "status": "current"
             },
             {
-                "role": "The Guild apprentice",
+                "role": "the guild apprentice",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -1954,6 +1959,11 @@
             },
             {
                 "organizationId": "the-renewed-guild",
+                "roles": ["member"],
+                "status": "current"
+            },
+            {
+                "organizationId": "manhasset-security",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1964,10 +1974,10 @@
         "description": "Louisa May Alcott is a quiet Guild strategist whose ability allows her to slow the passage of time while she thinks in private. Though extremely shy in public, her careful plans and devotion to Fitzgerald make her one of the Guild's most important minds."
     },
     {
-        "id": "margareth-mitchell",
+        "id": "margaret-mitchell",
         "name": "Margaret Mitchell",
         "japaneseName": "マーガレット・ミッチェル",
-        "image": "/characters/margareth-mitchell.webp",
+        "image": "/characters/margaret-mitchell.webp",
         "gender": "female",
         "birthday": "November 8",
         "age": "20",
@@ -1983,7 +1993,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -2011,11 +2021,11 @@
         "abilityId": "huck-finn-and-tom-sawyer",
         "occupations": [
             {
-                "role": "The Guild member",
+                "role": "the guild member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -2047,11 +2057,11 @@
                 "status": "current"
             },
             {
-                "role": "The Guild member",
+                "role": "the guild member",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "the-guild",
                 "roles": ["member"],
@@ -2087,19 +2097,19 @@
         "abilityId": "crime-and-punishment",
         "occupations": [
             {
-                "role": "Rats in the House of the Dead leader",
+                "role": "rats in the house of the dead leader",
                 "status": "current"
             },
             {
-                "role": "Decay of the Angel founder",
+                "role": "decay of the angel founder",
                 "status": "current"
             },
             {
-                "role": "Decay of the Angel member",
+                "role": "decay of the angel member",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "rats-in-the-house-of-the-dead",
                 "roles": ["leader"],
@@ -2126,11 +2136,11 @@
         "abilityId": "a-feast-in-time-of-plague",
         "occupations": [
             {
-                "role": "Rats in the House of the Dead member",
+                "role": "rats in the house of the dead member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
@@ -2152,11 +2162,11 @@
         "abilityId": "the-precipice",
         "occupations": [
             {
-                "role": "Rats in the House of the Dead member",
+                "role": "rats in the house of the dead member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
@@ -2190,11 +2200,11 @@
         "abilityId": "the-perfect-crime",
         "occupations": [
             {
-                "role": "Rats in the House of the Dead member",
+                "role": "rats in the house of the dead member",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
@@ -2216,11 +2226,11 @@
         "abilityId": "and-then-there-were-none",
         "occupations": [
             {
-                "role": "Order of the Clock Tower Knight Commander",
+                "role": "order of the clock tower knight commander",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "order-of-the-clock-tower",
                 "roles": ["leader"],
@@ -2247,15 +2257,15 @@
         "abilityId": "mirror-lion",
         "occupations": [
             {
-                "role": "Hunting Dogs Captain",
+                "role": "hunting dogs captain",
                 "status": "current"
             },
             {
-                "role": "Decay of the Angel Leader",
+                "role": "decay of the angel leader",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "hunting-dogs",
                 "roles": ["leader"],
@@ -2287,15 +2297,15 @@
         "abilityId": "draculea",
         "occupations": [
             {
-                "role": "Decay of the Angel member",
+                "role": "decay of the angel member",
                 "status": "former"
             },
             {
-                "role": "Earl of Northern Europe",
+                "role": "earl of northern europe",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "decay-of-the-angel",
                 "roles": ["member"],
@@ -2329,11 +2339,11 @@
         "abilityId": "the-overcoat",
         "occupations": [
             {
-                "role": "Decay of the Angel member",
+                "role": "decay of the angel member",
                 "status": "former"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "decay-of-the-angel",
                 "roles": ["member"],
@@ -2361,15 +2371,15 @@
         "abilityId": "information-exchange",
         "occupations": [
             {
-                "role": "Decay of the Angel member",
+                "role": "decay of the angel member",
                 "status": "former"
             },
             {
-                "role": "Casino Manager",
+                "role": "casino manager",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "decay-of-the-angel",
                 "roles": ["member"],
@@ -2399,11 +2409,11 @@
         "abilityId": "gasp-of-the-soul",
         "occupations": [
             {
-                "role": "Hunting Dogs Vice-Captain",
+                "role": "hunting dogs vice-captain",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "hunting-dogs",
                 "roles": ["member"],
@@ -2428,11 +2438,11 @@
         "abilityId": "priceless-tears",
         "occupations": [
             {
-                "role": "Hunting Dogs member",
+                "role": "hunting dogs member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "hunting-dogs",
                 "roles": ["member"],
@@ -2459,11 +2469,11 @@
         "abilityId": "plum-blossoms-in-snow",
         "occupations": [
             {
-                "role": "Hunting Dogs member",
+                "role": "hunting dogs member",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "hunting-dogs",
                 "roles": ["member"],
@@ -2484,11 +2494,11 @@
         "abilityId": "midwinter-memento",
         "occupations": [
             {
-                "role": "Private First Class Soldier",
+                "role": "private first class soldier",
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "356th-infantry-division",
                 "roles": ["member"],
@@ -2507,10 +2517,27 @@
         "image": "/characters/buichiro-shirase.webp",
         "gender": "male",
         "age": "15",
-        "occupation": ["Stray Sheep leader"],
-        "formerOccupation": ["factory worker", "sheep member"],
-        "organizationIds": ["stray-sheep"],
-        "formerOrganizationIds": ["sheep"],
+        "occupations": [
+            {
+                "role": "stray sheep leader",
+                "status": "current"
+            },
+            {
+                "role": "factory worker",
+                "status": "former"
+            },
+            {
+                "role": "sheep member",
+                "status": "former"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "sheep",
+                "roles": ["member"],
+                "status": "former"
+            }
+        ],
         "mangaDebut": "Chapter 9",
         "animeDebut": "Episode 27",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
@@ -2523,30 +2550,52 @@
         "japaneseName": "柚杏",
         "image": "/characters/buichiro-shirase.webp",
         "gender": "female",
-        "occupation": ["Sheep member"],
-        "formerOccupation": [],
-        "organizationIds": ["sheep"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "sheep member",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "sheep",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "animeDebut": "Episode 27",
         "lightNovelDebut": "Dazai, Chūya, Age Fifteen",
         "status": "Alive",
         "description": "Yuan is a member of the Sheep who grew up alongside Chūya and the other youths of Suribachi City. She supports the group's efforts to survive independently but becomes involved in the betrayal that drives Chūya away."
     },
     {
-        "id": "andre-guide",
+        "id": "andre-gide",
         "name": "André Gide",
         "japaneseName": "アンドレ・ジイド",
-        "image": "/characters/andre-guide.webp",
+        "image": "/characters/andre-gide.webp",
         "gender": "male",
         "birthday": "November 22",
         "age": "32",
         "height": "185 cm",
         "weight": "79 kg",
         "abilityId": "strait-is-the-gate",
-        "occupation": ["Mimic Leader"],
-        "formerOccupation": ["Army Commander"],
-        "organizationIds": ["mimic"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "army commander",
+                "status": "former"
+            },
+            {
+                "role": "mimic leader",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "mimic",
+                "roles": ["leader"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 77",
         "animeDebut": "Episode 15",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -2557,10 +2606,14 @@
         "id": "johann-goethe",
         "name": "Johann Wolfgang von Goethe",
         "japaneseName": "ヨハン・ヴォルフガング・フォン・ゲーテ",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": ["transcendents"],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [
+            {
+                "organizationId": "transcendents",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "55 Minutes",
         "status": "Unknown",
         "description": "Johann was called to war along with a group of other notable ability users, which became known as the Transcendents. Goethe and two of the others, Shakespeare and Hugo, clashed, which resulted in an allegedly unprecedented number of casualties and vast damage."
@@ -2569,10 +2622,14 @@
         "id": "victor-hugo",
         "name": "Victor Hugo",
         "japaneseName": "ヴィクトル・ユゴー",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": ["transcendents"],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [
+            {
+                "organizationId": "transcendents",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "55 Minutes",
         "status": "Unknown",
         "description": "Hugo was called to war along with a group of other notable ability users, which became known as the Transcendents. Hugo and two of the others, Shakespeare and Goethe, clashed, which resulted in an allegedly unprecedented number of casualties and vast damage."
@@ -2581,10 +2638,14 @@
         "id": "william-shakespeare",
         "name": "William Shakespeare",
         "japaneseName": "ウィリアム・シェイクスピア",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": ["transcendents"],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [
+            {
+                "organizationId": "transcendents",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "55 Minutes",
         "status": "Unknown",
         "description": "Shakespeare was called to war along with a group of other notable ability users, which became known as the Transcendents. Shakespeare and two of the others, Hugo and Goethe, clashed, which resulted in an allegedly unprecedented number of casualties and vast damage."
@@ -2597,10 +2658,14 @@
         "gender": "male",
         "birthday": "February 8",
         "abilityId": "the-mysterious-island",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": ["the-seven-traitors"],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [
+            {
+                "organizationId": "the-seven-traitors",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "55 Minutes",
         "status": "Dead",
         "description": "Jules Gabriel Verne was one of the Seven Traitors and the ability user connected to Standard Island. His power let him absorb the abilities of those who died on the island, turning him into the central figure of the 55 Minutes incident."
@@ -2611,10 +2676,19 @@
         "japaneseName": "サムネイル",
         "image": "/characters/thumbnail.webp",
         "gender": "male",
-        "occupation": ["gang leader"],
-        "formerOccupation": [],
-        "organizationIds": ["zoopark"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "gang leader",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "zoopark",
+                "roles": ["leader"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 38",
         "animeDebut": "Episode 30",
         "status": "Alive",
@@ -2628,10 +2702,19 @@
         "gender": "male",
         "age": "29",
         "height": "180 cm",
-        "occupation": ["engineer"],
-        "formerOccupation": [],
-        "organizationIds": ["manhasset-security"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "engineer",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "manhasset-security",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 45",
         "animeDebut": "Episode 32",
         "status": "Alive",
@@ -2645,25 +2728,71 @@
         "gender": "male",
         "age": "44",
         "height": "180 cm",
-        "occupation": [],
-        "formerOccupation": ["Company Chairman"],
-        "organizationIds": [],
-        "formerOrganizationIds": ["manhasset-security"],
+        "occupations": [
+            {
+                "role": "company chairman",
+                "status": "former"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "manhasset-security",
+                "roles": ["leader"],
+                "status": "former"
+            }
+        ],
         "mangaDebut": "Chapter 45",
         "animeDebut": "Episode 32",
         "status": "Alive",
         "description": "Tom Buchanan was the chairman of Manhasset Security before Fitzgerald took control of the company. Arrogant and self-interested, he underestimated Fitzgerald's determination and was quickly outmaneuvered."
     },
     {
+        "id": "sk-corporation-president",
+        "name": "S&K Corporation President",
+        "japaneseName": null,
+        "image": "/characters/sk-corporation-president.webp",
+        "gender": "female",
+        "occupations": [
+            {
+                "role": "company president",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "sk-corporation",
+                "roles": ["leader"],
+                "status": "current"
+            }
+        ],
+        "animeDebut": "Episode 38",
+        "lightNovelDebut": "The Untold Origins of the Detective Agency",
+        "status": "Dead",
+        "description": "She was the unnamed president of S&K Corporation."
+    },
+    {
         "id": "sk-corporation-secretary",
         "name": "S&K Corporation Secretary",
         "japaneseName": "S・K商 事 社長秘書",
-        "image": "/characters/akiko-yosano.webp",
+        "image": "/characters/sk-corporation-secretary.webp",
         "gender": "male",
-        "occupation": ["Company Secretary"],
-        "formerOccupation": ["Public Prosecutor"],
-        "organizationIds": ["sk-corporation"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "secretary",
+                "status": "current"
+            },
+            {
+                "role": "public prosecutor",
+                "status": "former"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "sk-corporation",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Untold Origins Chapter 1",
         "animeDebut": "Episode 38",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
@@ -2676,10 +2805,8 @@
         "japaneseName": "神人・雨御前",
         "image": "/characters/ame-no-gozen.webp",
         "gender": "male",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "creator": "fyodor-dostoevsky",
         "mangaDebut": "Chapter 115",
         "animeDebut": "Episode 61",
@@ -2693,10 +2820,8 @@
         "image": "/characters/blond-guy.webp",
         "gender": "male",
         "abilityId": "number-ability",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "animeDebut": "Episode 7",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
@@ -2709,10 +2834,13 @@
         "image": "/characters/criminal-ability-user.webp",
         "gender": "female",
         "abilityId": "time-stopping-ability",
-        "occupation": ["thief"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "thief",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 101",
         "animeDebut": "Episode 58",
         "status": "Dead",
@@ -2726,10 +2854,8 @@
         "gender": "female",
         "birthday": "September 21",
         "abilityId": "time-machine",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "lightNovelDebut": "55 Minutes",
         "status": "Dead",
         "description": "Herbert George Wells was a gifted ability user whose Time Machine could manipulate time within a limited area. During the 55 Minutes incident, she used her power and scientific knowledge in an attempt to prevent a catastrophic future."
@@ -2741,10 +2867,19 @@
         "image": "/characters/kyokas-mother.webp",
         "gender": "female",
         "abilityId": "demon-snow",
-        "occupation": ["assassin"],
-        "formerOccupation": [],
-        "organizationIds": ["japanese-government"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "assassin",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "japanese-government",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 43",
         "animeDebut": "Episode 31",
         "status": "Dead",
@@ -2757,10 +2892,19 @@
         "image": "/characters/nemo.webp",
         "gender": "male",
         "abilityId": "intangibility-ability",
-        "occupation": ["thief"],
-        "formerOccupation": [],
-        "organizationIds": ["band-of-thieves"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "thief",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "band-of-thieves",
+                "roles": ["leader"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "55 Minutes",
         "status": "Dead",
         "description": "Nemo is the boss of the band of thieves. He is also wanted worldwide for theft by the Scotland Yard Skilled Crime Department."
@@ -2776,10 +2920,8 @@
         "height": "180 cm",
         "weight": "64 kg",
         "abilityId": "draconia",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "DEAD APPLE",
         "animeDebut": "DEAD APPLE",
         "lightNovelDebut": "DEAD APPLE",
@@ -2794,10 +2936,13 @@
         "gender": "male",
         "birthday": "February 9",
         "abilityId": "i-am-a-cat",
-        "occupation": ["writer"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "writer",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 50",
         "animeDebut": "Episode 36",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -2810,10 +2955,19 @@
         "japaneseName": "アダム・フランケンシュタイン",
         "image": "/characters/adam-frankenstein.webp",
         "gender": "male",
-        "occupation": ["detective"],
-        "formerOccupation": [],
-        "organizationIds": ["europole"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "detective",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "europole",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "STORM BRINGER Chapter 1",
         "lightNovelDebut": "STORM BRINGER",
         "status": "Alive",
@@ -2821,16 +2975,14 @@
     },
     {
         "id": "aya-koda",
-        "name": "幸田 文",
+        "name": "Aya Kōda",
         "japaneseName": "幸田 文",
         "image": "/characters/aya-koda.webp",
         "gender": "female",
         "birthday": "September 1",
         "age": "10",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "Chapter 40",
         "animeDebut": "Bungo Stray Dogs: Hitori Ayumu",
         "status": "Alive",
@@ -2842,10 +2994,23 @@
         "japaneseName": "うずまき 店長",
         "image": "/characters/cafe-manager.webp",
         "gender": "male",
-        "occupation": ["store manager", "barista"],
-        "formerOccupation": [],
-        "organizationIds": ["cafe-uzumaki"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "store manager",
+                "status": "current"
+            },
+            {
+                "role": "barista",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "cafe-uzumaki",
+                "roles": ["manager"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 38",
         "animeDebut": "Episode 30",
         "status": "Alive",
@@ -2858,10 +3023,13 @@
         "image": "/characters/captain-walston.webp",
         "gender": "male",
         "age": "~ 30",
-        "occupation": ["captain"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "captain",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "lightNovelDebut": "55 Minutes",
         "status": "Alive",
         "description": "Captain Walston is the captain of the Standard Island. He is the client who asked the Armed Detective Agency to come to the island to capture some thieves."
@@ -2873,10 +3041,8 @@
         "image": "/characters/chiyo.webp",
         "gender": "female",
         "age": "< 10",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Alive",
         "description": "Chiyo is a passenger of flight 815S which the Azure Apostle sabotaged by sending an interference signal to the plane."
@@ -2884,14 +3050,23 @@
     {
         "id": "mary-shelley",
         "name": "Dr. Mary Wollstonecraft Godwin Shelley",
-        "japaneseName": "",
+        "japaneseName": null,
         "image": "/characters/mary-shelley.webp",
         "gender": "female",
         "abilityId": "design-ability",
-        "occupation": ["engineer"],
-        "formerOccupation": [],
-        "organizationIds": ["europole"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "engineer",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "europole",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "lightNovelDebut": "STORM BRINGER",
         "status": "Alive",
         "description": "Dr. Mary Wollstonecraft Godwin Shelley is a Europole engineer and the creator of Adam Frankenstein. Brilliant and unconventional, she designs advanced artificial life and equips Adam for his mission against Verlaine."
@@ -2902,10 +3077,13 @@
         "japaneseName": "江川",
         "image": "/characters/egawa.webp",
         "gender": "female",
-        "occupation": ["Theater Owner"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "theater owner",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Untold Origins Chapter 4",
         "animeDebut": "Episode 38",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
@@ -2919,10 +3097,8 @@
         "image": "/characters/katsumi.webp",
         "gender": "male",
         "age": "8",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "BEAST Chapter 7",
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -2936,10 +3112,8 @@
         "image": "/characters/kosuke.webp",
         "gender": "male",
         "age": "9",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Dead",
@@ -2951,10 +3125,13 @@
         "japaneseName": "倉橋",
         "image": "/characters/kurahashi.webp",
         "gender": "male",
-        "occupation": ["playwright"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "playwright",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "animeDebut": "Episode 39",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
         "status": "Dead",
@@ -2966,10 +3143,23 @@
         "japaneseName": "鏡花の父",
         "image": "/characters/kyokas-father.webp",
         "gender": "male",
-        "occupation": [],
-        "formerOccupation": ["Government spy", "assassin"],
-        "organizationIds": ["japanese-government"],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "spy",
+                "status": "former"
+            },
+            {
+                "role": "assassin",
+                "status": "former"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "japanese-government",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
         "mangaDebut": "Chapter 43",
         "animeDebut": "Episode 31",
         "status": "Dead",
@@ -2981,10 +3171,13 @@
         "japaneseName": "師匠 カーライル",
         "image": "/characters/master-carlyle.webp",
         "gender": "male",
-        "occupation": ["artisan"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "artisan",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 40",
         "animeDebut": "Bungo Stray Dogs: Hitori Ayumu",
         "status": "Alive",
@@ -2998,10 +3191,13 @@
         "gender": "female",
         "birthday": "July 20",
         "age": "20s",
-        "occupation": ["University Lecturer"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "university lecturer",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 28",
         "animeDebut": "Episode 6",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
@@ -3015,10 +3211,13 @@
         "image": "/characters/orphanage-director.webp",
         "gender": "male",
         "age": "40s",
-        "occupation": ["Head of an orphanage"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "head of an orphanage",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 25",
         "animeDebut": "Episode 22",
         "status": "Dead",
@@ -3027,13 +3226,27 @@
     {
         "id": "n",
         "name": "N",
-        "japaneseName": "",
+        "japaneseName": null,
         "image": "/characters/n.webp",
         "gender": "male",
-        "occupation": ["researcher"],
-        "formerOccupation": [],
-        "organizationIds": ["research-facility-b"],
-        "formerOrganizationIds": ["research-facility-a"],
+        "occupations": [
+            {
+                "role": "researcher",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "research-facility-b",
+                "roles": ["member"],
+                "status": "current"
+            },
+            {
+                "organizationId": "research-facility-a",
+                "roles": ["member"],
+                "status": "former"
+            }
+        ],
         "lightNovelDebut": "STORM BRINGER",
         "status": "Dead",
         "description": "N, redacted for Nakahara, was a researcher who was in charge of Project Arahabaki and the brother of Murase."
@@ -3045,10 +3258,13 @@
         "image": "/characters/restaurant-owner.webp",
         "gender": "male",
         "age": "50s",
-        "occupation": ["Restaurant Owner"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "restaurant owner",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "BEAST Chapter 8",
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -3062,10 +3278,13 @@
         "image": "/characters/rokuzo-taguchi.webp",
         "gender": "male",
         "age": "16",
-        "occupation": ["Information Broker"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "information broker",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "animeDebut": "Episode 6",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
@@ -3078,10 +3297,8 @@
         "image": "/characters/sakura.webp",
         "gender": "female",
         "age": "4",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
         "status": "Dead",
@@ -3094,10 +3311,8 @@
         "image": "/characters/shinji.webp",
         "gender": "male",
         "age": "5",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "BEAST Chapter 7",
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -3110,10 +3325,8 @@
         "japaneseName": "桂 正作",
         "image": "/characters/shosaku-katsura.webp",
         "gender": "male",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "Chapter 40",
         "animeDebut": "Bungo Stray Dogs: Hitori Ayumu",
         "status": "Alive",
@@ -3125,10 +3338,17 @@
         "japaneseName": "タクシー運転手",
         "image": "/characters/taxi-driver.webp",
         "gender": "male",
-        "occupation": ["Taxi Driver"],
-        "formerOccupation": ["stage actor"],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "taxi driver",
+                "status": "current"
+            },
+            {
+                "role": "stage actor",
+                "status": "former"
+            }
+        ],
+        "affiliations": [],
         "animeDebut": "Episode 6",
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
@@ -3140,10 +3360,13 @@
         "japaneseName": "村上時雄",
         "image": "/characters/tokio-murakami.webp",
         "gender": "male",
-        "occupation": ["actor"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "actor",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Untold Origins Chapter 4",
         "animeDebut": "Episode 38",
         "lightNovelDebut": "The Untold Origins of the Detective Agency",
@@ -3156,10 +3379,13 @@
         "japaneseName": "ヨコミゾ",
         "image": "/characters/yokomizo.webp",
         "gender": "male",
-        "occupation": ["Mystery writer"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "writer",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "mangaDebut": "Chapter 54",
         "animeDebut": "Episode 41",
         "status": "Dead",
@@ -3172,10 +3398,8 @@
         "image": "/characters/yu.webp",
         "gender": "male",
         "age": "7",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "BEAST Chapter 7",
         "animeDebut": "Episode 14",
         "lightNovelDebut": "Osamu Dazai and the Dark Era",
@@ -3188,24 +3412,25 @@
         "japaneseName": "ザドキエル・アラムタ",
         "image": "/characters/zadkiel-alamta.webp",
         "gender": "male",
-        "occupation": ["Bomb Purveyor"],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [
+            {
+                "role": "bomb purveyor",
+                "status": "current"
+            }
+        ],
+        "affiliations": [],
         "lightNovelDebut": "Osamu Dazai's Entrance Exam",
         "status": "Dead",
         "description": "Zadkiel Alamta is a bomb purveyor for a Middle Eastern terrorist organization. He's been behind multiple large-scale bombings around the world in the past. The Public Security Intelligence Angecy has been keeping trying to capture him ever since he arrived in Japan. He is extremely good with bombs. He specializes in railroad car bombs that contain a mixture of aluminum powder in slurry explosives."
     },
     {
-        "id": "pan",
-        "name": "Pan",
+        "id": "zelda-fitzgerald",
+        "name": "Zelda Fitzgerald",
         "japaneseName": "ゼルダ・フィッツジェラルド",
         "image": "/characters/zelda-fitzgerald.webp",
         "gender": "female",
-        "occupation": [],
-        "formerOccupation": [],
-        "organizationIds": [],
-        "formerOrganizationIds": [],
+        "occupations": [],
+        "affiliations": [],
         "mangaDebut": "Chapter 34",
         "animeDebut": "Episode 23",
         "status": "Alive",
@@ -3227,7 +3452,7 @@
                 "status": "current"
             }
         ],
-        "organizations": [
+        "affiliations": [
             {
                 "organizationId": "may-uprising",
                 "roles": ["leader"],
