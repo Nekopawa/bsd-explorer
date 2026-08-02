@@ -1,0 +1,1984 @@
+[
+    {
+        "characterId": "yukichi-fukuzawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Rikiya Koyama",
+                "link": "https://en.wikipedia.org/wiki/Rikiya_Koyama",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Jamieson Price",
+                "link": "https://en.wikipedia.org/wiki/Jamieson_Price",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Shūhei Izumi",
+                "link": "https://en.wikipedia.org/wiki/Shūhei_Izumi",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "akiko-yosano",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yū Shimamura",
+                "link": "https://en.wikipedia.org/wiki/Yū_Shimamura",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erica Lindbeck",
+                "link": "https://en.wikipedia.org/wiki/Erica_Lindbeck",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Jeannie Tirado",
+                "link": "https://en.wikipedia.org/wiki/Jeannie_Tirado",
+                "castingNote": "Episode 47"
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Miho Imamura",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "atsushi-nakajima",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūto Uemura",
+                "link": "https://en.wikipedia.org/wiki/Yūto_Uemura",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Max Mittelman",
+                "link": "https://en.wikipedia.org/wiki/Max_Mittelman",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yūki Torigoe",
+                "link": "https://mydramalist.com/people/15239-torigoe-yuki",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "doppo-kunikida",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yoshimasa Hosoya",
+                "link": "https://en.wikipedia.org/wiki/Yoshimasa_Hosoya",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Patrick Seitz",
+                "link": "https://en.wikipedia.org/wiki/Patrick_Seitz",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Teruma",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "junichiro-tanizaki",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Toshiyuki Toyonaga",
+                "link": "https://en.wikipedia.org/wiki/Toshiyuki_Toyonaga",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Spike Spencer",
+                "link": "https://en.wikipedia.org/wiki/Spike_Spencer",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Kōsuke Kuwano",
+                "link": "https://myanimelist.net/people/40593/Kousuke_Kuwano",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "kenji-miyazawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroyuki Kagura",
+                "link": "https://myanimelist.net/people/37491/Hiroyuki_Kagura",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Lucien Dodge",
+                "link": "https://en.wikipedia.org/wiki/Lucien_Dodge",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Hitoshi Horinouchi",
+                "link": "https://myanimelist.net/people/45547/Hitoshi_Horinouchi",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "kyoka-izumi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Sumire Morohoshi",
+                "link": "https://en.wikipedia.org/wiki/Sumire_Morohoshi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cherami Leigh",
+                "link": "https://en.wikipedia.org/wiki/Cherami_Leigh",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Sakina Kuwae",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "osamu-dazai",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Mamoru Miyano",
+                "link": "https://en.wikipedia.org/wiki/Mamoru_Miyano",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kaiji Tang",
+                "link": "https://en.wikipedia.org/wiki/Kaiji_Tang",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Hideya Tawada",
+                "link": "https://en.wikipedia.org/wiki/Hideya_Tawada",
+                "castingNote": "Performed from 2017 up until 2020"
+            },
+            {
+                "production": "Stage Play",
+                "name": "Rui Tabuchi",
+                "link": "https://en.wikipedia.org/wiki/Rui_Tabuchi",
+                "castingNote": "Later performances"
+            }
+        ]
+    },
+    {
+        "characterId": "ranpo-edogawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroshi Kamiya",
+                "link": "https://en.wikipedia.org/wiki/Hiroshi_Kamiya",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Vic Mignogna",
+                "link": "https://en.wikipedia.org/wiki/Vic_Mignogna",
+                "castingNote": "Seasons 1-2"
+            },
+            {
+                "language": "en",
+                "name": "Landon McDonald",
+                "link": "https://dubbing.fandom.com/wiki/Landon_McDonald",
+                "castingNote": "DEAD APPLE, Seasons 3-5"
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Ryōki Nagae",
+                "link": "https://en.wikipedia.org/wiki/Ryōki_Nagae",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "naomi-tanizaki",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Chiaki Omigawa",
+                "link": "https://en.wikipedia.org/wiki/Chiaki_Omigawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erica Lindbeck",
+                "link": "https://en.wikipedia.org/wiki/Erica_Lindbeck",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Akari Saitō",
+                "link": "https://mydramalist.com/people/83083-saito-akari",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "kikaro-haruno",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Mina",
+                "link": "https://myanimelist.net/people/8930/Mina",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Abby Trott",
+                "link": "https://en.wikipedia.org/wiki/Abby_Trott",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "katai-tayama",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kenichi Suzumura",
+                "link": "https://en.wikipedia.org/wiki/Kenichi_Suzumura",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Steve Staley",
+                "link": "https://www.behindthevoiceactors.com/tv-shows/Bungo-Stray-Dogs/Katai-Tayama/",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "ogai-mori",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Mitsuru Miyamoto",
+                "link": "https://en.wikipedia.org/wiki/Mitsuru_Miyamoto",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Keith Silverstein",
+                "link": "https://en.wikipedia.org/wiki/Keith_Silverstein",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Akira Kubodera",
+                "link": "https://en.wikipedia.org/wiki/Akira_Kubodera",
+                "castingNote": "Dark Era and Three Companies Conflict"
+            },
+            {
+                "production": "Stage Play",
+                "name": "Masakazu Nemoto",
+                "link": "https://mydramalist.com/people/39419-nemoto-masakatsu",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "ace",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Daisuke Ono",
+                "link": "https://en.wikipedia.org/wiki/Daisuke_Ono",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Robbie Daymond",
+                "link": "https://en.wikipedia.org/wiki/Robbie_Daymond",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kishō Taniyama",
+                "link": "https://en.wikipedia.org/wiki/Kishō_Taniyama",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Nicolas Roye",
+                "link": "https://myanimelist.net/people/30665/Nicolas_Roye",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Keisuke Ueda",
+                "link": "https://en.wikipedia.org/wiki/Keisuke_Ueda",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "koyo-ozaki",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Ami Koshimizu",
+                "link": "https://en.wikipedia.org/wiki/Ami_Koshimizu",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cindy Robinson",
+                "link": "https://en.wikipedia.org/wiki/Cindy_Robinson",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Sera Mutsuki",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "paul-verlaine",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yoshihide Sasaki",
+                "link": "https://en.wikipedia.org/wiki/Yoshihide_Sasaki",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "arthur-rimbaud",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūya Uchida",
+                "link": "https://en.wikipedia.org/wiki/Yūya_Uchida_(voice_actor)",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Christopher Swindle",
+                "link": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=163292",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Kei Hosogai",
+                "link": "https://en.wikipedia.org/wiki/Kei_Hosogai",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "albatross",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Ryūjirō Izaki",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "doc",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Keigo Yamanaka",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "iceman",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Ikumi Kurosu",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "lippmann",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Rui Tabuchi",
+                "link": "https://en.wikipedia.org/wiki/Rui_Tabuchi",
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "piano-man",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Hirotaka Katō",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "ryunosuke-akutagawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kenshō Ono",
+                "link": "https://en.wikipedia.org/wiki/Kensho_Ono",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Brian Beacock",
+                "link": "https://myanimelist.net/people/1361/Brian_Beacock",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Shohei Hashimoto",
+                "link": "https://en.wikipedia.org/wiki/Shohei_Hashimoto",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "ichiyo-higuchi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Asami Seto",
+                "link": "https://en.wikipedia.org/wiki/Asami_Seto",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Carrie Keranen",
+                "link": "https://en.wikipedia.org/wiki/Carrie_Keranen",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yuka Hirata",
+                "link": "https://en.wikipedia.org/wiki/Yuka_Hirata",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "ryuro-hirotsu",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Atsushi Ono",
+                "link": "https://en.wikipedia.org/wiki/Atsushi_Ono",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Greg Chun",
+                "link": "https://en.wikipedia.org/wiki/Greg_Chun",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Hirotaka Katō",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "gin-akutagawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Shiina Natsukawa",
+                "link": "https://en.wikipedia.org/wiki/Shiina_Natsukawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Allegra Clark",
+                "link": "https://en.wikipedia.org/wiki/Allegra_Clark",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "michizo-tachihara",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yū Hayashi",
+                "link": "https://en.wikipedia.org/wiki/Yū_Hayashi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Benjamin Diskin",
+                "link": "https://en.wikipedia.org/wiki/Benjamin_Diskin",
+                "castingNote": "Seasons 1-3"
+            },
+            {
+                "language": "en",
+                "name": "A.J. Beckles",
+                "link": "https://myanimelist.net/people/54504/AJ_Beckles",
+                "castingNote": "Seasons 4-5"
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "elise",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Sora Amamiya",
+                "link": "https://en.wikipedia.org/wiki/Sora_Amamiya",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Carrie Keranen",
+                "link": "https://en.wikipedia.org/wiki/Carrie_Keranen",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Nonoka Obuchi",
+                "link": "https://en.wikipedia.org/wiki/Nonoka_Ōbuchi",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "karma",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Miyu Irino",
+                "link": "https://en.wikipedia.org/wiki/Miyu_Irino",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Bryce Papenbrook",
+                "link": "https://en.wikipedia.org/wiki/Bryce_Papenbrook",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "kyusaku-yumeno",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Haruka Kudō",
+                "link": "https://myanimelist.net/people/110/Haruka_Kudou",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Tara Sands",
+                "link": "https://myanimelist.net/people/1082/Tara_Sands",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Ayuka Kurachi",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "motojiro-kajii",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Wataru Hatano",
+                "link": "https://en.wikipedia.org/wiki/Wataru_Hatano",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Brian Palermo",
+                "link": "https://en.wikipedia.org/wiki/Brian_Palermo",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Kōhei Masaki",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "sakunosuke-oda",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Junichi Suwabe",
+                "link": "https://en.wikipedia.org/wiki/Junichi_Suwabe",
+                "castingNote": null
+            },
+            {
+                "language": "ja",
+                "name": "Yūto Uemura",
+                "link": "https://en.wikipedia.org/wiki/Yūto_Uemura",
+                "castingNote": "Young version"
+            },
+            {
+                "language": "en",
+                "name": "David Vincent",
+                "link": "https://en.wikipedia.org/wiki/David_Vincent_(voice_actor)",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Masashi Taniguchi",
+                "link": "https://mydramalist.com/people/7070-taniguchi-kenji",
+                "castingNote": null
+            },
+            {
+                "production": "Stage Play",
+                "name": "Yūki Torigoe",
+                "link": "https://mydramalist.com/people/15239-torigoe-yuki",
+                "castingNote": "Young version; Onstage voice"
+            }
+        ]
+    },
+    {
+        "characterId": "port-mafia-previous-boss",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Shiro Go",
+                "link": "https://myanimelist.net/people/15117/Shiro_Go",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Patrick Seitz",
+                "link": "https://en.wikipedia.org/wiki/Patrick_Seitz",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "santoka-taneda",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Fumihiko Tachiki",
+                "link": "https://myanimelist.net/people/284/Fumihiko_Tachiki",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "John DeMita",
+                "link": "https://myanimelist.net/people/956/John_DeMita",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Toshiya Kumano",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "ango-sakaguchi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Jun Fukuyama",
+                "link": "https://en.wikipedia.org/wiki/Jun_Fukuyama",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Michael Yurchak",
+                "link": "https://myanimelist.net/people/13233/Michael_Yurchak",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Hirofumi Araki",
+                "link": "https://en.wikipedia.org/wiki/Hirofumi_Araki",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "mizuki-tsujimura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Rie Takahashi",
+                "link": "https://en.wikipedia.org/wiki/Rie_Takahashi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Carrie Keranen",
+                "link": "https://en.wikipedia.org/wiki/Carrie_Keranen",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yūna Urashima",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "yachiyo-murakoso",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūko Hara",
+                "link": "https://myanimelist.net/people/29295/Yuuko_Hara",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "takuichi-aoki",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiromichi Tezuka",
+                "link": "https://myanimelist.net/people/29347/Hiromichi_Tezuka",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "jun-mitamura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kenji Akabane",
+                "link": "https://en.wikipedia.org/wiki/Kenji_Akabane",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Ryan Colt Levy",
+                "link": "https://en.wikipedia.org/wiki/Ryan_Colt_Levy",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Keigo Yamanaka",
+                "link": null,
+                "castingNote": "Uncredited"
+            },
+            {
+                "production": "Stage Play",
+                "name": "Ryōki Nagae",
+                "link": "https://en.wikipedia.org/wiki/Ryōki_Nagae",
+                "castingNote": "Onstage voice"
+            }
+        ]
+    },
+    {
+        "characterId": "minoura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroshi Shirokuma",
+                "link": "https://myanimelist.net/people/7698/Hiroshi_Shirokuma",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Doug Stone",
+                "link": "https://myanimelist.net/people/1035/Doug_Stone",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "sugimoto",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Ayumu Murase",
+                "link": "https://en.wikipedia.org/wiki/Ayumu_Murase",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Benjamin Diskin",
+                "link": "https://en.wikipedia.org/wiki/Benjamin_Diskin",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "yamagiwa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yumi Uchiyama",
+                "link": "https://en.wikipedia.org/wiki/Yumi_Uchiyama",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Abby Trott",
+                "link": "https://en.wikipedia.org/wiki/Abby_Trott",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "tonan",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yasunori Matsumoto",
+                "link": "https://en.wikipedia.org/wiki/Yasunori_Matsumoto",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "francis-fitzgerald",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Takahiro Sakurai",
+                "link": "https://en.wikipedia.org/wiki/Takahiro_Sakurai",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Chris Hackney",
+                "link": "https://myanimelist.net/people/37815/Christopher_Hackney?q=Chris%20Hack",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yuki Kimisawa",
+                "link": "https://mydramalist.com/people/8494-kimisawa-yuki",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "edgar-poe",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Toshiyuki Morikawa",
+                "link": "https://en.wikipedia.org/wiki/Toshiyuki_Morikawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Todd Haberkorn",
+                "link": "https://en.wikipedia.org/wiki/Todd_Haberkorn",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "herman-melville",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Takayuki Sugō",
+                "link": "https://myanimelist.net/people/37/Takayuki_Sugou",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "John DeMita",
+                "link": "https://myanimelist.net/people/956/John_DeMita?q=John%20DeMita",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Kento Sunazuka",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "howard-lovecraft",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Shunsuke Takeuchi",
+                "link": "https://en.wikipedia.org/wiki/Shunsuke_Takeuchi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Mick Wingert",
+                "link": "https://en.wikipedia.org/wiki/Mick_Wingert",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Koki Muramatsu",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "james-l",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Eiichiro Tokumoto",
+                "link": "https://myanimelist.net/people/10166/Eiichirou_Tokumoto",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Aaron LaPlante",
+                "link": "https://www.anisearch.com/person/54134,aaron-laplante",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "john-steinbeck",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kengo Kawanishi",
+                "link": "https://en.wikipedia.org/wiki/Kengo_Kawanishi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kyle McCarley",
+                "link": "https://en.wikipedia.org/wiki/Kyle_McCarley",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Bishin Kawasumi",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "lucy-montgomery",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kana Hanazawa",
+                "link": "https://en.wikipedia.org/wiki/Kana_Hanazawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cristina Vee",
+                "link": "https://en.wikipedia.org/wiki/Cristina_Vee",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Elizabeth Marry",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "louisa-alcott",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hikaru Ueda",
+                "link": "https://myanimelist.net/people/40422/Hikaru_Ueda",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erica Mendez",
+                "link": "https://en.wikipedia.org/wiki/Erica_Mendez",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Sachi Nagata",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "margaret-mitchell",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kaori Nazuka",
+                "link": "https://en.wikipedia.org/wiki/Kaori_Nazuka",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Colleen O'Shaughnessey",
+                "link": "https://en.wikipedia.org/wiki/Colleen_O%27Shaughnessey",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Sera Togashi",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "mark-twain",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroyuki Yoshino",
+                "link": "https://en.wikipedia.org/wiki/Hiroyuki_Yoshino",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Phillip Reich",
+                "link": "https://myanimelist.net/people/50082/Phillip_Reich?q=phillip%20reich",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "nathaniel-hawthorne",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Tarusuke Shingaki",
+                "link": "https://myanimelist.net/people/7242/Tarusuke_Shingaki",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Matthew Mercer",
+                "link": "https://en.wikipedia.org/wiki/Matthew_Mercer",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Naoto Katori",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "fyodor-dostoevsky",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Akira Ishida",
+                "link": "https://en.wikipedia.org/wiki/Akira_Ishida",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Ray Chase",
+                "link": "https://en.wikipedia.org/wiki/Ray_Chase_(voice_actor)",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yūta Kishimoto",
+                "link": "https://mydramalist.com/people/86597-kishimoto-yuta",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "alexander-pushkin",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Daisuke Kirii",
+                "link": "https://myanimelist.net/people/114/Daisuke_Kirii",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kyle Hebert",
+                "link": "https://en.wikipedia.org/wiki/Kyle_Hebert",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "ivan-goncharov",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kōsuke Toriumi",
+                "link": "https://en.wikipedia.org/wiki/Kohsuke_Toriumi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erik Scott Kimerer",
+                "link": "https://en.wikipedia.org/wiki/Erik_Scott_Kimerer",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "mushitaro-oguri",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Takeshi Kusao",
+                "link": "https://en.wikipedia.org/wiki/Takeshi_Kusao",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Mick Lauer",
+                "link": null,
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "agatha-christie",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Maaya Sakamoto",
+                "link": "https://en.wikipedia.org/wiki/Maaya_Sakamoto",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erica Lindbeck",
+                "link": "https://en.wikipedia.org/wiki/Erica_Lindbeck",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "ochi-fukuchi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Akio Ōtsuka",
+                "link": "https://en.wikipedia.org/wiki/Akio_Otsuka",
+                "castingNote": null
+            },
+            {
+                "language": "ja",
+                "name": "Kazuki Ura",
+                "link": "https://en.wikipedia.org/wiki/Kazuki_Ura",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "David Vincent",
+                "link": "https://en.wikipedia.org/wiki/David_Vincent_(voice_actor)",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "bram-stoker",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kenjiro Tsuda",
+                "link": "https://en.wikipedia.org/wiki/Kenjiro_Tsuda",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cory Yee",
+                "link": "https://myanimelist.net/people/54502/Cory_Yee",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "nikolai-gogol",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Takehito Koyasu",
+                "link": "https://en.wikipedia.org/wiki/Takehito_Koyasu",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Jeff Schine",
+                "link": null,
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "sigma",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Shōya Chiba",
+                "link": "https://en.wikipedia.org/wiki/Shōya_Chiba",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cory Yee",
+                "link": "https://myanimelist.net/people/54502/Cory_Yee",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "teruko-okura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Makoto Koichi",
+                "link": "https://en.wikipedia.org/wiki/Makoto_Koichi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cherami Leigh",
+                "link": "https://en.wikipedia.org/wiki/Cherami_Leigh",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "saigiku-jono",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūki Kaji",
+                "link": "https://en.wikipedia.org/wiki/Yuki_Kaji",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Adam McArthur",
+                "link": "https://en.wikipedia.org/wiki/Adam_McArthur",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "tetcho-suehiro",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yōhei Azakami",
+                "link": "https://en.wikipedia.org/wiki/Yōhei_Azakami",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Griffin Puatu",
+                "link": null,
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "shunzen-tachihara",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūsuke Kobayashi",
+                "link": "https://en.wikipedia.org/wiki/Yūsuke_Kobayashi_(voice_actor)",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kieran Regan",
+                "link": "https://dubbing.fandom.com/wiki/Kieran_Regan",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "buichiro-shirase",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Masaaki Mizunaka",
+                "link": "https://myanimelist.net/people/41752/Masaaki_Mizunaka",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Johnny Yong Bosch",
+                "link": "https://en.wikipedia.org/wiki/Johnny_Yong_Bosch",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Ryūjirō Izaki",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "yuan",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yuuna Mimura",
+                "link": "https://myanimelist.net/people/22657/Yuuna_Mimura",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "andre-gide",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Shin-ichiro Miki",
+                "link": "https://en.wikipedia.org/wiki/Shin-ichiro_Miki",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kirk Thornton",
+                "link": "https://en.wikipedia.org/wiki/Kirk_Thornton",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Takeshi Hayashino",
+                "link": null,
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "thumbnail",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kazuyuki Okitsu",
+                "link": "https://en.wikipedia.org/wiki/Kazuyuki_Okitsu",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "t-eckleburg",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Daisuke Hirakawa",
+                "link": "https://myanimelist.net/people/183/Daisuke_Hirakawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Billy Kametz",
+                "link": "https://en.wikipedia.org/wiki/Billy_Kametz",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "tom-buchanan",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Satoshi Tsuruoka",
+                "link": "https://myanimelist.net/people/5539/Satoshi_Tsuruoka",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Kirk Thornton",
+                "link": "https://en.wikipedia.org/wiki/Kirk_Thornton",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "sk-corporation-president",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Miyū Ogasawara",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "sk-corporation-secretary",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Daisuke Kishio",
+                "link": "https://en.wikipedia.org/wiki/Daisuke_Kishio",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Aleks Le",
+                "link": "https://en.wikipedia.org/wiki/Aleks_Le",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Tatsuki Okamura",
+                "link": null,
+                "castingNote": "Uncredited"
+            },
+            {
+                "production": "Stage Play",
+                "name": "Ryōki Nagae",
+                "link": "https://en.wikipedia.org/wiki/Ryōki_Nagae",
+                "castingNote": "Onstage voice"
+            }
+        ]
+    },
+    {
+        "characterId": "blond-guy",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hirofumi Nojima",
+                "link": "https://myanimelist.net/people/341/Hirofumi_Nojima",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Michael P. Greco",
+                "link": "https://dubbing.fandom.com/wiki/Michael_P._Greco",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "kyokas-mother",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Chie Nakamura",
+                "link": "https://myanimelist.net/people/300/Chie_Nakamura",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "tatsuhiko-shibusawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kazuya Nakai",
+                "link": "https://en.wikipedia.org/wiki/Kazuya_Nakai",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Xander Mobus",
+                "link": "https://en.wikipedia.org/wiki/Xander_Mobus",
+                "castingNote": null
+            }
+        ],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Mitsu Murata",
+                "link": "https://en.wikipedia.org/wiki/Mitsu_Murata",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "soseki-natsume",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hōchū Ōtsuka",
+                "link": "https://en.wikipedia.org/wiki/Hōchū_Ōtsuka",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Greg Chun",
+                "link": "https://en.wikipedia.org/wiki/Greg_Chun",
+                "castingNote": "Season 3"
+            },
+            {
+                "language": "en",
+                "name": "Alejandro Saab",
+                "link": "https://en.wikipedia.org/wiki/Alejandro_Saab",
+                "castingNote": "Season 4"
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "adam-frankenstein",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Dai Isono",
+                "link": "https://www.themoviedb.org/person/4541035",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "aya-koda",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Minako Kotobuki",
+                "link": "https://en.wikipedia.org/wiki/Minako_Kotobuki",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Cassandra Lee Morris",
+                "link": "https://en.wikipedia.org/wiki/Cassandra_Lee_Morris",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "cafe-manager",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Seiji Sasaki",
+                "link": "https://en.wikipedia.org/wiki/Seiji_Sasaki",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "mary-shelley",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yoshino",
+                "link": null,
+                "castingNote": "Uncredited"
+            }
+        ]
+    },
+    {
+        "characterId": "egawa",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Arisa Sakuraba",
+                "link": "https://myanimelist.net/people/41096/Arisa_Sakuraba",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Erin Yvette",
+                "link": null,
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "katsumi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Satomi Kobashi",
+                "link": "https://myanimelist.net/people/31701/Satomi_Kobashi",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "kosuke",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Sachi Kokuryu",
+                "link": "https://en.wikipedia.org/wiki/Sachi_Kokuryu",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "kyokas-father",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kōji Yusa",
+                "link": "https://myanimelist.net/people/68/Kouji_Yusa",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "nobuko-sasaki",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Sanae Kobayashi",
+                "link": "https://en.wikipedia.org/wiki/Sanae_Kobayashi",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Wendee Lee",
+                "link": "https://en.wikipedia.org/wiki/Wendee_Lee",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "orphanage-director",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroshi Naka",
+                "link": "https://en.wikipedia.org/wiki/Hiroshi_Naka",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Ben Diskin",
+                "link": "https://en.wikipedia.org/wiki/Benjamin_Diskin",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "n",
+        "voiceActors": [],
+        "stageActors": [
+            {
+                "production": "Stage Play",
+                "name": "Yūki Kubota",
+                "link": "https://en.wikipedia.org/wiki/Yuki_Kubota",
+                "castingNote": null
+            }
+        ]
+    },
+    {
+        "characterId": "restaurant-owner",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Taro Yamaguchi",
+                "link": "https://en.wikipedia.org/wiki/Taro_Yamaguchi",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "rokuzo-taguchi",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kaito Ishikawa",
+                "link": "https://en.wikipedia.org/wiki/Kaito_Ishikawa",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Xander Mobus",
+                "link": "https://en.wikipedia.org/wiki/Xander_Mobus",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "sakura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Mari Kawano",
+                "link": "https://myanimelist.net/people/49420/Mari_Kawano",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "shinji",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Yūko Sanpei",
+                "link": "https://en.wikipedia.org/wiki/Yūko_Sanpei",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "shosaku-katsura",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Masakazu Morita",
+                "link": "https://en.wikipedia.org/wiki/Masakazu_Morita",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Johnny Yong Bosch",
+                "link": "https://en.wikipedia.org/wiki/Johnny_Yong_Bosch",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "taxi-driver",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kōzō Dōzaka",
+                "link": "https://www.imdb.com/pt/name/nm2923913/",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Joe Ochman",
+                "link": "https://en.wikipedia.org/wiki/Joe_Ochman",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "tokio-murakami",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiro Shimono",
+                "link": "https://en.wikipedia.org/wiki/Hiro_Shimono",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "yokomizo",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Takanori Hoshino",
+                "link": "https://en.wikipedia.org/wiki/Takanori_Hoshino",
+                "castingNote": null
+            },
+            {
+                "language": "en",
+                "name": "Patrick Seitz",
+                "link": "https://en.wikipedia.org/wiki/Patrick_Seitz",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    },
+    {
+        "characterId": "yu",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Kenshō Ono",
+                "link": "https://en.wikipedia.org/wiki/Kensho_Ono",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
+    }
+]
