@@ -1,1 +1,512 @@
-[]
+[
+    {
+        "characterId": "yukichi-fukuzawa",
+        "relatedCharacterId": "ranpo-edogawa",
+        "relationshipFrom": ["guardian", "mentor", "partner"],
+        "relationshipTo": ["ward", "protégé", "partner"],
+        "status": "current",
+        "description": "Fukuzawa met Ranpo when the young detective was isolated and unable to understand why he perceived the world differently from others. He gave Ranpo the confidence to embrace his extraordinary intelligence, became his guardian and partner, and later founded the Armed Detective Agency around their work together. Their bond remains one of deep trust, affection, and mutual respect."
+    },
+    {
+        "characterId": "yukichi-fukuzawa",
+        "relatedCharacterId": "akiko-yosano",
+        "relationshipFrom": ["protector", "mentor"],
+        "relationshipTo": ["protégé"],
+        "status": "current",
+        "description": "Fukuzawa helped rescue Yosano from the military's control and prevented Mori from using her ability again. By welcoming her into the newly formed Agency and accepting her despite the guilt she carried from the war, he gave her the opportunity to rebuild her life and use her power on her own terms."
+    },
+    {
+        "characterId": "yukichi-fukuzawa",
+        "relatedCharacterId": "doppo-kunikida",
+        "relationshipFrom": ["mentor", "superior"],
+        "relationshipTo": ["protégé", "subordinate"],
+        "status": "current",
+        "description": "Fukuzawa serves as Kunikida's mentor and superior within the Armed Detective Agency. Kunikida respects his judgment, follows his leadership closely, and acts as his second-in-command, while Fukuzawa trusts him with significant responsibility in the Agency's operations."
+    },
+    {
+        "characterId": "ranpo-edogawa",
+        "relatedCharacterId": "akiko-yosano",
+        "relationshipFrom": ["friend", "longtime-colleague"],
+        "relationshipTo": ["friend", "longtime-colleague"],
+        "status": "current",
+        "description": "Ranpo and Yosano are among the Agency's earliest members and have known each other since Fukuzawa and Ranpo helped free Yosano from Mori's influence. Yosano respects Ranpo as the world's greatest detective, while their long history allows them to understand and support one another during crises."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "doppo-kunikida",
+        "relationshipFrom": ["partner"],
+        "relationshipTo": ["partner"],
+        "status": "current",
+        "description": "Dazai and Kunikida are regular partners in the Armed Detective Agency. Dazai's unpredictability and constant teasing frequently exasperate the highly organized Kunikida, but beneath their arguments they trust each other's abilities and work together effectively during dangerous investigations."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "atsushi-nakajima",
+        "relationshipFrom": ["mentor", "recruiter"],
+        "relationshipTo": ["protégé"],
+        "status": "current",
+        "description": "Dazai found Atsushi shortly after he was expelled from the orphanage and guided him into joining the Armed Detective Agency. Although his teaching methods are often indirect and difficult to understand, Dazai repeatedly pushes Atsushi to recognize his own strength, make independent choices, and develop into a capable detective."
+    },
+    {
+        "characterId": "atsushi-nakajima",
+        "relatedCharacterId": "kyoka-izumi",
+        "relationshipFrom": ["friend", "protector"],
+        "relationshipTo": ["friend", "companion"],
+        "status": "current",
+        "description": "Atsushi helped Kyōka escape the Port Mafia and showed her that her past did not determine the life she had to lead. Because both suffered abuse and isolation before joining the Agency, they share a strong mutual understanding and frequently support one another as they learn to build safer lives."
+    },
+    {
+        "characterId": "junichiro-tanizaki",
+        "relatedCharacterId": "naomi-tanizaki",
+        "relationshipFrom": ["older-sibling", "protector"],
+        "relationshipTo": ["younger-sibling", "protected"],
+        "status": "current",
+        "description": "Jun'ichirō and Naomi are siblings who live together and share an unusually intense attachment. Naomi is openly affectionate toward her brother, while Jun'ichirō is fiercely protective of her and becomes exceptionally dangerous whenever her safety is threatened."
+    },
+    {
+        "characterId": "naomi-tanizaki",
+        "relatedCharacterId": "kikaro-haruno",
+        "relationshipFrom": ["coworker", "friend"],
+        "relationshipTo": ["coworker", "friend"],
+        "status": "current",
+        "description": "Naomi and Haruno work together as clerks for the Armed Detective Agency. They are frequently shown together during the Agency's daily operations and remain close companions when the noncombatant staff are placed in danger."
+    },
+    {
+        "characterId": "doppo-kunikida",
+        "relatedCharacterId": "katai-tayama",
+        "relationshipFrom": ["childhood-friend", "former-colleague"],
+        "relationshipTo": ["childhood-friend", "former-colleague"],
+        "status": "current",
+        "description": "Kunikida and Katai have known each other for more than ten years and share a familiar, long-standing friendship. Kunikida understands Katai's habits well enough to scold or motivate him directly, while Katai continues to provide valuable technical assistance even after leaving the Agency."
+    },
+
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "elise",
+        "relationshipFrom": ["creator", "master", "companion"],
+        "relationshipTo": ["creation", "ability-manifestation", "companion"],
+        "status": "current",
+        "description": "Elise is the humanlike manifestation of Mori's ability, Vita Sexualis, and remains constantly at his side. Mori can configure her nature and uses her in combat, but their everyday interactions resemble those of a highly indulgent guardian and a strong-willed child who freely mocks and disobeys him."
+    },
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "osamu-dazai",
+        "relationshipFrom": [
+            "former-guardian",
+            "former-mentor",
+            "former-superior",
+            "political-opponent"
+        ],
+        "relationshipTo": [
+            "former-ward",
+            "former-protege",
+            "former-subordinate",
+            "political-opponent"
+        ],
+        "status": "current",
+        "description": "Mori took Dazai in as a ward, made him a witness to the previous boss's death, and cultivated him as a future right-hand man in the Port Mafia. Their similarities produced an effective but deeply unhealthy partnership, and Dazai eventually left the Mafia after Oda's death. They now stand on opposing sides while continuing to understand and anticipate one another exceptionally well."
+    },
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "akiko-yosano",
+        "relationshipFrom": ["former-superior", "former-mentor", "abuser"],
+        "relationshipTo": ["former-subordinate", "former-student", "victim"],
+        "status": "current",
+        "description": "During the Great War, Mori placed the young Yosano under his command and repeatedly forced her to heal dying soldiers for his Immortal Regiment strategy. His treatment left her profoundly traumatized and shaped her hatred of him. Years later, Mori still regarded her ability as strategically valuable, while Yosano remained determined never to be controlled by him again."
+    },
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "yukichi-fukuzawa",
+        "relationshipFrom": [
+            "former-colleague",
+            "rival",
+            "organizational-counterpart",
+            "occasional-ally"
+        ],
+        "relationshipTo": [
+            "former-colleague",
+            "rival",
+            "organizational-counterpart",
+            "occasional-ally"
+        ],
+        "status": "current",
+        "description": "Mori and Fukuzawa once worked together under Sōseki Natsume and later became the leaders of two opposing Yokohama organizations. Their values and methods frequently clash, but both understand the importance of maintaining the city's balance and can cooperate when a greater threat endangers Yokohama."
+    },
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "chuya-nakahara",
+        "relationshipFrom": ["superior", "recruiter"],
+        "relationshipTo": ["subordinate", "trusted-executive"],
+        "status": "current",
+        "description": "Mori recruited Chūya into the Port Mafia after the conflict involving Arahabaki and recognized both his immense power and his strong sense of responsibility. Chūya has since become one of Mori's most reliable executives, although he is willing to challenge or pressure his boss when the Mafia's interests and his own loyalties demand it."
+    },
+    {
+        "characterId": "ogai-mori",
+        "relatedCharacterId": "port-mafia-previous-boss",
+        "relationshipFrom": ["physician", "successor", "assassin"],
+        "relationshipTo": ["patient", "predecessor", "victim"],
+        "status": "at-death",
+        "description": "Mori served as the previous Port Mafia boss's physician while the old leader's violent rule destabilized Yokohama. He eventually killed the bedridden boss, presented the death as a natural succession, and took control of the organization with Dazai as his witness."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "chuya-nakahara",
+        "relationshipFrom": ["former-partner", "rival", "trusted-ally"],
+        "relationshipTo": ["former-partner", "rival", "trusted-ally"],
+        "status": "current",
+        "description": "Dazai and Chūya became partners in the Port Mafia and were feared as Double Black. They constantly insult and provoke one another, yet their knowledge of each other's abilities allows them to coordinate almost instinctively. Even after Dazai's defection, each continues to trust the other's competence when circumstances force them to fight together."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "sakunosuke-oda",
+        "relationshipFrom": ["close-friend", "confidant"],
+        "relationshipTo": ["close-friend", "moral-influence"],
+        "status": "at-death",
+        "description": "Oda was one of the few people Dazai considered a genuine close friend and one of the only people able to see through his detached façade. In his final moments, Oda urged Dazai to leave the side that kills and try to save people. Dazai honored that request by abandoning the Port Mafia and eventually joining the Armed Detective Agency."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "ango-sakaguchi",
+        "relationshipFrom": ["former-close-friend", "estranged-friend"],
+        "relationshipTo": ["former-close-friend", "estranged-friend"],
+        "status": "current",
+        "description": "Dazai and Ango once shared a close friendship with Oda during their nights at Bar Lupin. Ango's work as a government spy and his role in the Mimic operation shattered that trust. Although Dazai has never fully forgiven him, their shared grief and understanding of Oda continue to connect them."
+    },
+    {
+        "characterId": "osamu-dazai",
+        "relatedCharacterId": "ryunosuke-akutagawa",
+        "relationshipFrom": ["former-mentor", "former-superior", "abuser"],
+        "relationshipTo": [
+            "former-protege",
+            "former-subordinate",
+            "victim",
+            "admirer"
+        ],
+        "status": "current",
+        "description": "Dazai recruited and trained Akutagawa in the Port Mafia through severe criticism, violence, and deliberately withheld approval. Akutagawa built much of his identity around earning Dazai's acknowledgment and remains deeply affected by his former mentor's rejection, especially after Dazai began guiding Atsushi."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "paul-verlaine",
+        "relationshipFrom": ["younger-brother", "target", "adversary"],
+        "relationshipTo": [
+            "self-proclaimed-older-brother",
+            "attacker",
+            "adversary"
+        ],
+        "status": "current",
+        "description": "Verlaine identifies himself as Chūya's older brother because of their related origins as gravity-manipulating artificial ability beings. His attempt to isolate Chūya by killing everyone who tied him to Yokohama turned that claimed brotherhood into a violent conflict. Chūya ultimately rejected Verlaine's belief that their origins made them inhuman and chose the bonds he had formed for himself."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "arthur-rimbaud",
+        "relationshipFrom": ["former-enemy", "subject-of-interest"],
+        "relationshipTo": ["former-enemy", "investigator"],
+        "status": "at-death",
+        "description": "Rimbaud sought the truth about Arahabaki and initially treated Chūya as the key to recovering his lost memories and completing his mission. Their conflict forced Chūya to confront questions about his own origin. Before his death, Rimbaud recognized Chūya's humanity and left behind information that later helped reveal the truth surrounding Verlaine."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "adam-frankenstein",
+        "relationshipFrom": ["partner", "ally"],
+        "relationshipTo": ["partner", "ally"],
+        "status": "current",
+        "description": "Adam was assigned to protect Chūya and work with him during the investigation into Verlaine's assassination campaign. Chūya initially found the artificial detective's behavior irritating, but the two developed effective teamwork and mutual trust while facing Verlaine and the conspiracies surrounding Chūya's origins."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "piano-man",
+        "relationshipFrom": ["friend", "junior-colleague"],
+        "relationshipTo": ["friend", "group-leader"],
+        "status": "at-death",
+        "description": "Piano Man welcomed Chūya into the Flags and helped organize the celebration of his first anniversary in the Port Mafia. As the group's founder and informal leader, he offered Chūya a place among peers within the organization. His murder by Verlaine became one of the losses that drove Chūya to oppose the assassin."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "albatross",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Albatross was one of the Flags who accepted Chūya as a friend and celebrated his first year in the Port Mafia. His energetic companionship helped give Chūya a sense of belonging among people his own age, making his death at Verlaine's hands especially painful."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "doc",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Doc was one of the Flags who befriended Chūya and welcomed him into their circle. Their friendship formed part of the life Chūya had built within the Port Mafia, and Doc's death during Verlaine's attack strengthened Chūya's determination to stop him."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "iceman",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Iceman belonged to the Flags alongside Chūya and treated him as one of their own. Although their time together was brief, the group's acceptance gave Chūya a rare circle of peers, and Iceman's murder became part of the personal cost of Verlaine's attempt to sever Chūya's ties to Yokohama."
+    },
+    {
+        "characterId": "chuya-nakahara",
+        "relatedCharacterId": "lippmann",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Lippmann was one of the Flags who welcomed Chūya and joined the celebration of his first anniversary in the Mafia. His polished public persona contrasted with Chūya's blunt temperament, but they shared the loyalty and camaraderie of the group until Lippmann was killed by Verlaine."
+    },
+    {
+        "characterId": "paul-verlaine",
+        "relatedCharacterId": "arthur-rimbaud",
+        "relationshipFrom": ["former-partner", "betrayer", "close-companion"],
+        "relationshipTo": ["former-partner", "victim", "close-companion"],
+        "status": "at-death",
+        "description": "Verlaine and Rimbaud were partners in European intelligence and shared an unusually deep bond. Their mission involving Arahabaki ended when Verlaine rejected Rimbaud's plan and shot him, leading to the explosion that separated them. Rimbaud nevertheless continued searching for Verlaine, while Verlaine remained profoundly shaped by their lost partnership."
+    },
+    {
+        "characterId": "ryunosuke-akutagawa",
+        "relatedCharacterId": "gin-akutagawa",
+        "relationshipFrom": ["older-sibling", "protector", "superior"],
+        "relationshipTo": ["younger-sibling", "protected", "subordinate"],
+        "status": "current",
+        "description": "Akutagawa and Gin are siblings and each other's only surviving family. They grew up together in the slums before entering the Port Mafia, and Akutagawa remains strongly protective of her even though both usually keep their family connection private while working within the organization."
+    },
+    {
+        "characterId": "ryunosuke-akutagawa",
+        "relatedCharacterId": "ichiyo-higuchi",
+        "relationshipFrom": ["superior", "object-of-affection"],
+        "relationshipTo": ["subordinate", "admirer", "protector"],
+        "status": "current",
+        "description": "Higuchi serves directly beneath Akutagawa and is deeply devoted to him, repeatedly risking her life to protect or rescue him. Akutagawa usually responds with coldness and harsh criticism, but he recognizes her loyalty and has shown limited concern and gratitude toward her after moments of extreme danger."
+    },
+    {
+        "characterId": "ryunosuke-akutagawa",
+        "relatedCharacterId": "atsushi-nakajima",
+        "relationshipFrom": ["rival", "partner", "reluctant-ally"],
+        "relationshipTo": ["rival", "partner", "reluctant-ally"],
+        "status": "current",
+        "description": "Akutagawa initially hunted Atsushi for the Guild's bounty and resented him as the new student who received Dazai's approval. Their repeated battles gradually developed into a fierce rivalry and an effective combat partnership. Though they continue to clash, each has challenged the other's deepest insecurities and come to rely on the other's strength."
+    },
+    {
+        "characterId": "ryunosuke-akutagawa",
+        "relatedCharacterId": "kyoka-izumi",
+        "relationshipFrom": ["former-superior", "former-handler", "enemy"],
+        "relationshipTo": ["former-subordinate", "victim", "enemy"],
+        "status": "current",
+        "description": "Akutagawa supervised Kyōka during her time as a Port Mafia assassin and controlled Demon Snow through the phone used to issue her orders. He reinforced the belief that killing was her only purpose and later reacted violently to her defection. Kyōka rejects his worldview and regards him as a symbol of the life she chose to escape."
+    },
+    {
+        "characterId": "koyo-ozaki",
+        "relatedCharacterId": "kyoka-izumi",
+        "relationshipFrom": ["former-mentor", "protector", "maternal-figure"],
+        "relationshipTo": ["former-protege", "ward"],
+        "status": "current",
+        "description": "Kōyō mentored and protected Kyōka within the Port Mafia, seeing her younger self reflected in the girl's desire to escape. Her own failed attempt to leave convinced Kōyō that Kyōka could not survive in the light, leading her to try to bring her back. Although Kyōka rejects that belief, Kōyō's affection eventually allows her to accept Kyōka's new life in the Agency."
+    },
+    {
+        "characterId": "ace",
+        "relatedCharacterId": "karma",
+        "relationshipFrom": ["master", "abuser"],
+        "relationshipTo": ["subordinate", "victim"],
+        "status": "at-death",
+        "description": "Ace treated Karma as property and forced him into service through fear, humiliation, and the threat of death. Karma outwardly obeyed while secretly hoping to escape and inherit Ace's position. Their relationship ended after Fyodor outmaneuvered Ace and then killed Karma."
+    },
+    {
+        "characterId": "sakunosuke-oda",
+        "relatedCharacterId": "ango-sakaguchi",
+        "relationshipFrom": ["close-friend", "betrayed-friend"],
+        "relationshipTo": ["close-friend", "betrayer"],
+        "status": "at-death",
+        "description": "Oda and Ango were close friends who regularly drank with Dazai at Bar Lupin. Ango's concealed work as a government agent and his involvement in the operation surrounding Mimic destroyed their friendship, but Oda still heard him out during their final meeting and understood that Ango was also trapped by his duties."
+    },
+    {
+        "characterId": "sakunosuke-oda",
+        "relatedCharacterId": "andre-gide",
+        "relationshipFrom": ["enemy", "mirror"],
+        "relationshipTo": ["enemy", "mirror"],
+        "status": "at-death",
+        "description": "Oda and Gide possessed nearly identical abilities that allowed each to foresee the other's attacks, making them uniquely capable of fighting one another. Gide sought an opponent who could grant him and his soldiers death in battle, while Oda only returned to killing after Mimic murdered the orphans he protected. Their final duel ended with both men fatally wounded."
+    },
+    {
+        "characterId": "piano-man",
+        "relatedCharacterId": "albatross",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Piano Man and Albatross were fellow members of the Flags and shared the close camaraderie that defined the group. They trusted one another as comrades and considered each other part of the family they had built within the Port Mafia."
+    },
+    {
+        "characterId": "piano-man",
+        "relatedCharacterId": "doc",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Piano Man and Doc were longtime companions within the Flags. Despite their contrasting personalities, they relied on one another during missions and shared the strong bond that united the group."
+    },
+    {
+        "characterId": "piano-man",
+        "relatedCharacterId": "iceman",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "As members of the Flags, Piano Man and Iceman trusted each other completely. Their friendship was built on years of working together and the mutual loyalty that characterized the group."
+    },
+    {
+        "characterId": "piano-man",
+        "relatedCharacterId": "lippmann",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Piano Man and Lippmann were close companions in the Flags. Alongside the other members, they created an atmosphere of trust and friendship that gave the group its unique identity within the Port Mafia."
+    },
+    {
+        "characterId": "albatross",
+        "relatedCharacterId": "doc",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Albatross and Doc were close friends and fellow members of the Flags. Their easy camaraderie reflected the strong personal bonds shared by all members of the group."
+    },
+    {
+        "characterId": "albatross",
+        "relatedCharacterId": "iceman",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Albatross and Iceman shared a genuine friendship as members of the Flags, supporting one another both on missions and in their daily lives within the Port Mafia."
+    },
+    {
+        "characterId": "albatross",
+        "relatedCharacterId": "lippmann",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "As fellow Flags members, Albatross and Lippmann developed a close friendship based on mutual trust and loyalty, treating one another as part of their chosen family."
+    },
+    {
+        "characterId": "doc",
+        "relatedCharacterId": "iceman",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Doc and Iceman served together in the Flags for years, forming a dependable friendship strengthened by their shared experiences and loyalty to the group."
+    },
+    {
+        "characterId": "doc",
+        "relatedCharacterId": "lippmann",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Doc and Lippmann were close companions within the Flags. Like the rest of the group, they valued one another as trusted friends beyond their roles in the Port Mafia."
+    },
+    {
+        "characterId": "iceman",
+        "relatedCharacterId": "lippmann",
+        "relationshipFrom": ["friend", "fellow-flag"],
+        "relationshipTo": ["friend", "fellow-flag"],
+        "status": "at-death",
+        "description": "Iceman and Lippmann shared the close friendship common to all members of the Flags. Their mutual trust and camaraderie reflected the family's spirit that united the group until its destruction."
+    },
+    {
+        "characterId": "santoka-taneda",
+        "relatedCharacterId": "yukichi-fukuzawa",
+        "relationshipFrom": [
+            "trusted-ally",
+            "organizational-counterpart",
+            "friend"
+        ],
+        "relationshipTo": [
+            "trusted-ally",
+            "organizational-counterpart",
+            "friend"
+        ],
+        "status": "current",
+        "description": "Taneda and Fukuzawa have known one another for many years and cooperate closely to preserve peace in Yokohama. Although they lead different organizations, they respect each other's judgment and frequently exchange information when confronting threats that endanger the city."
+    },
+    {
+        "characterId": "ango-sakaguchi",
+        "relatedCharacterId": "mitsuki-tsujimura",
+        "relationshipFrom": ["superior", "mentor"],
+        "relationshipTo": ["subordinate", "protégé"],
+        "status": "current",
+        "description": "Ango supervises Tsujimura's work within the Special Division and entrusts her with highly sensitive assignments, including monitoring Ayatsuji Yukito. Although he often withholds information for operational reasons, he values her dedication and believes in her abilities as an investigator."
+    },
+    {
+        "characterId": "ango-sakaguchi",
+        "relatedCharacterId": "ayatsuji-yukito",
+        "relationshipFrom": ["handler", "supervisor", "ally"],
+        "relationshipTo": ["asset", "reluctant-ally"],
+        "status": "current",
+        "description": "Ango oversees the government's arrangement with Ayatsuji, allowing the detective to investigate difficult cases while remaining under official surveillance. Although both understand the value of the other's abilities, their cooperation is driven more by necessity than personal trust."
+    },
+    {
+        "characterId": "mitsuki-tsujimura",
+        "relatedCharacterId": "ayatsuji-yukito",
+        "relationshipFrom": ["handler", "partner", "protector"],
+        "relationshipTo": ["asset", "partner", "protected"],
+        "status": "current",
+        "description": "Tsujimura is assigned to monitor Ayatsuji while also serving as his liaison during investigations. What begins as a strictly professional assignment gradually develops into mutual trust, with Tsujimura becoming both his closest partner and one of the few people genuinely concerned for his well-being."
+    },
+    {
+        "characterId": "mitsuki-tsujimura",
+        "relatedCharacterId": "natsuhiko-kyogoku",
+        "relationshipFrom": ["enemy", "investigator"],
+        "relationshipTo": ["enemy", "mastermind"],
+        "status": "current",
+        "description": "Tsujimura relentlessly pursues Kyōgoku as the mastermind behind a series of incidents connected to Ayatsuji. Their conflict is one of investigator versus criminal manipulator, with Kyōgoku repeatedly exploiting people's fears and desires while Tsujimura works to expose and stop him."
+    },
+    {
+        "characterId": "mitsuki-tsujimura",
+        "relatedCharacterId": "mizuki-tsujimura-mother",
+        "relationshipFrom": ["daughter", "protector"],
+        "relationshipTo": ["mother", "protected"],
+        "status": "current",
+        "description": "Tsujimura deeply loves her mother and has dedicated much of her life to protecting her from the consequences of the government's experiments and the danger surrounding Ayatsuji. Although their relationship is burdened by painful memories and difficult circumstances, her mother's safety remains one of Tsujimura's strongest motivations."
+    },
+    {
+        "characterId": "francis-fitzgerald",
+        "relatedCharacterId": "louisa-alcott",
+        "relationshipFrom": ["leader", "employer", "trusted-confidant"],
+        "relationshipTo": ["subordinate", "advisor", "loyal-supporter"],
+        "status": "current",
+        "description": "Louisa is Fitzgerald's most trusted subordinate and strategic advisor. Even after the original Guild's collapse, she remains unwaveringly loyal to him and helps rebuild both his fortune and the Renewed Guild. Fitzgerald, in turn, places exceptional confidence in her judgment and ability."
+    },
+    {
+        "characterId": "francis-fitzgerald",
+        "relatedCharacterId": "zelda-fitzgerald",
+        "relationshipFrom": ["husband", "protector"],
+        "relationshipTo": ["wife", "protected"],
+        "status": "current",
+        "description": "Francis deeply loves Zelda and is driven by a desire to restore their family after the death of their daughter. Zelda's grief leaves her believing that their daughter is still alive and studying abroad, while Francis pursues the Book in the hope of making that belief a reality."
+    },
+    {
+        "characterId": "lucy-montgomery",
+        "relatedCharacterId": "atsushi-nakajima",
+        "relationshipFrom": ["friend", "love-interest", "former-enemy"],
+        "relationshipTo": ["friend", "former-enemy"],
+        "status": "current",
+        "description": "Lucy initially fought Atsushi during the Guild's campaign in Yokohama, but his compassion toward her created a lasting connection between them. After being abandoned by the Guild, she repeatedly helps Atsushi and gradually develops romantic feelings for him, while Atsushi continues to treat her as a trusted friend and ally."
+    },
+    {
+        "characterId": "john-steinbeck",
+        "relatedCharacterId": "howard-lovecraft",
+        "relationshipFrom": ["partner", "friend"],
+        "relationshipTo": ["partner", "friend"],
+        "status": "current",
+        "description": "Steinbeck and Lovecraft frequently worked together during the Guild's campaign in Yokohama. Steinbeck accepts Lovecraft's strange behavior and unusual nature without hesitation, while Lovecraft treats him as a dependable companion despite his general detachment from human relationships."
+    },
+    {
+        "characterId": "edgar-poe",
+        "relatedCharacterId": "ranpo-edogawa",
+        "relationshipFrom": ["rival", "friend", "admirer"],
+        "relationshipTo": ["rival", "friend"],
+        "status": "current",
+        "description": "Poe became obsessed with defeating Ranpo after losing to him in a detective competition years earlier. His elaborate attempts at revenge gradually developed into a friendly rivalry, and Poe now admires Ranpo's intellect while regularly assisting him with mysteries and investigations."
+    },
+    {
+        "characterId": "nathaniel-hawthorne",
+        "relatedCharacterId": "fyodor-dostoevsky",
+        "relationshipFrom": ["subordinate", "pawn", "victim"],
+        "relationshipTo": ["superior", "manipulator", "controller"],
+        "status": "current",
+        "description": "Fyodor manipulates Hawthorne's religious devotion and damaged mental state, turning him into an assassin for the Rats in the House of the Dead. Hawthorne follows his orders with intense conviction, but that loyalty is rooted in Fyodor's psychological control rather than a healthy or equal bond."
+    }
+]
