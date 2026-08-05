@@ -3462,5 +3462,18 @@
         "lightNovelDebut": "STORM BRINGER",
         "status": "Dead",
         "description": "Pan was a French ability user researcher and the only member of the rebel group May Uprising. He created the artificial ability Black No. 12, who would later be named as Paul Verlaine."
+    },
+    {
+        "id": "karl",
+        "name": "Karl",
+        "japaneseName": "カール",
+        "image": "/characters/karl.webp",
+        "gender": "male",
+        "occupations": [],
+        "affiliations": [],
+        "mangaDebut": "Chapter 32",
+        "animeDebut": "Episode 22",
+        "status": "Alive",
+        "description": "Karl is the pet raccoon of Edgar Allan Poe. He is shown to be an affectionate pet as he doesn't mind being held by others. He is always seen together with Poe, often hanging around on his shoulder, or his head."
     }
 ]
