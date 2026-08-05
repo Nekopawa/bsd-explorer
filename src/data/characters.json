@@ -3513,5 +3513,20 @@
         "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
         "status": "Alive",
         "description": "Yukito Ayatsuji is an eccentric detective renowned for solving seemingly impossible cases. Detached, highly perceptive, and feared for the deadly consequences associated with his ability, he lives under constant government surveillance while continuing to pursue the truth behind the most difficult mysteries."
+    },
+    {
+        "id": "natsuhiko-kyogoku",
+        "name": "Natsuhiko Kyōgoku",
+        "japaneseName": "京極 夏彦",
+        "image": "/characters/natsuhiko-kyogoku.webp",
+        "gender": "male",
+        "birthday": "March 26",
+        "abilityId": "possession-drop",
+        "occupations": [],
+        "affiliations": [],
+        "mangaDebut": "Gaiden Chapter 1",
+        "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
+        "status": "Dead",
+        "description": "Natsuhiko Kyōgoku is a mysterious criminal mastermind who manipulates people into committing seemingly impossible crimes. Calm, charismatic, and exceptionally intelligent, he orchestrates elaborate schemes from the shadows while pursuing his own enigmatic objectives."
     }
 ]

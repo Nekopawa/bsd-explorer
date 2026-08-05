@@ -739,5 +739,18 @@
         "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
         "description": "Another is the ability of Yukito Ayatsuji. The ability causes accidental death to any targeted guilty criminal. An absolute and unavoidable ability, it ignores and distorts all physical barriers. The causes of death cannot be predicted, which vary from and are not limited to suffocation, stroke, falling to death, suicide, illness, and heart attack. Its 100% lethality affects targets anywhere on the globe, working even on those who wields enough power to kill God.",
         "image": "./abilities/another.webp"
+    },
+    {
+        "id": "possession-drop",
+        "name": "Possession Drop",
+        "japaneseName": "憑き物落とし",
+        "classification": null,
+        "range": null,
+        "activation": null,
+        "mangaDebut": "Gaiden Chapter 7.5",
+        "animeDebut": null,
+        "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
+        "description": "Possession Drop is the ability of Natsuhiko Kyōgoku. It allows him to possess someone by dropping an evil spirit on a chosen target in order to mentally cause havoc. Specifically, only the target can see the spirit, and it can indirectly instill anger and confusion to them.",
+        "image": "./abilities/possession-drop.webp"
     }
 ]

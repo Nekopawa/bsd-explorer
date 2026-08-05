@@ -1992,5 +1992,17 @@
             }
         ],
         "stageActors": []
+    },
+    {
+        "characterId": "natsuhiko-kyogoku",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Junpei Asashina",
+                "link": "https://myanimelist.net/people/20174/Junpei_Asashina",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
     }
 ]
