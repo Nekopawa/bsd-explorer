@@ -246,5 +246,13 @@
         "description": "Research Facility B is a secret military facility in Japan, which researched artificial abilities. It was modeled after Research Facility A, which was destroyed in a massive explosion.",
         "admission": null,
         "type": "research-facility"
+    },
+    {
+        "id": "ayatsuji-detective-agency",
+        "name": "Ayatsuji Detective Agency",
+        "image": "/affiliations/ayatsuji-detective-agency.webp",
+        "description": "Ayatsuji Detective Agency is a detective agency run by Yukito Ayatsuji.",
+        "admission": null,
+        "type": "detective-agency"
     }
 ]

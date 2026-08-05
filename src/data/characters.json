@@ -3471,9 +3471,47 @@
         "gender": "male",
         "occupations": [],
         "affiliations": [],
+        "species": "raccoon",
         "mangaDebut": "Chapter 32",
         "animeDebut": "Episode 22",
         "status": "Alive",
         "description": "Karl is the pet raccoon of Edgar Allan Poe. He is shown to be an affectionate pet as he doesn't mind being held by others. He is always seen together with Poe, often hanging around on his shoulder, or his head."
+    },
+    {
+        "id": "yukito-ayatsuji",
+        "name": "Yukito Ayatsuji",
+        "japaneseName": "綾辻 行人",
+        "image": "/characters/yukito-ayatsuji.webp",
+        "gender": "male",
+        "birthday": "December 23",
+        "age": "27",
+        "height": "179 cm",
+        "weight": "62 kg",
+        "bloodType": "O",
+        "likes": ["reading", "ball-jointed dolls", "mahjong"],
+        "dislikes": ["natto", "anti-intellectualism"],
+        "abilityId": "another",
+        "occupations": [
+            {
+                "role": "detective",
+                "status": "current"
+            }
+        ],
+        "affiliations": [
+            {
+                "organizationId": "ayatsuji-detective-agency",
+                "roles": ["owner"],
+                "status": "current"
+            },
+            {
+                "organizationId": "special-division",
+                "roles": ["member"],
+                "status": "current"
+            }
+        ],
+        "mangaDebut": "Gaiden Chapter 1",
+        "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
+        "status": "Alive",
+        "description": "Yukito Ayatsuji is an eccentric detective renowned for solving seemingly impossible cases. Detached, highly perceptive, and feared for the deadly consequences associated with his ability, he lives under constant government surveillance while continuing to pursue the truth behind the most difficult mysteries."
     }
 ]

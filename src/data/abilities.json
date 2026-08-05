@@ -726,5 +726,18 @@
         "lightNovelDebut": "STORM BRINGER",
         "description": "This design ability is the unnamed ability of Dr. Mary Wollstonecraft Godwin Shelley. It allows Dr. Wollstonecraft to design anything she wants to. She also accounts most of her scientific achievements to this ability supplemented by her genius prowess, leading many people to consider her a prodigy and earning her at least 20 medals for her contributions in science and engineering.",
         "image": "./abilities/design-ability.webp"
+    },
+    {
+        "id": "another",
+        "name": "Another",
+        "japaneseName": "アナザー",
+        "classification": ["Offensive"],
+        "range": "Close to Long Range",
+        "activation": null,
+        "mangaDebut": "Gaiden Chapter 2.2",
+        "animeDebut": null,
+        "lightNovelDebut": "Gaiden: Yukito Ayatsuji VS. Natsuhiko Kyōgoku",
+        "description": "Another is the ability of Yukito Ayatsuji. The ability causes accidental death to any targeted guilty criminal. An absolute and unavoidable ability, it ignores and distorts all physical barriers. The causes of death cannot be predicted, which vary from and are not limited to suffocation, stroke, falling to death, suicide, illness, and heart attack. Its 100% lethality affects targets anywhere on the globe, working even on those who wields enough power to kill God.",
+        "image": "./abilities/another.webp"
     }
 ]
