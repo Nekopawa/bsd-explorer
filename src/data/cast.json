@@ -1980,5 +1980,17 @@
             }
         ],
         "stageActors": []
+    },
+    {
+        "characterId": "yukito-ayatsuji",
+        "voiceActors": [
+            {
+                "language": "ja",
+                "name": "Hiroo Sasaki",
+                "link": "https://myanimelist.net/people/11675/Hiroo_Sasaki",
+                "castingNote": null
+            }
+        ],
+        "stageActors": []
     }
 ]
