@@ -4,7 +4,7 @@
         "name": "Yukichi Fukuzawa",
         "japaneseName": "福沢 諭吉",
         "image": "/characters/yukichi-fukuzawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "January 10",
         "age": "45",
         "height": "186 cm",
@@ -45,7 +45,7 @@
         "name": "Akiko Yosano",
         "japaneseName": "与謝野 晶子",
         "image": "/characters/akiko-yosano.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "December 7",
         "age": "25",
         "height": "166 cm",
@@ -86,7 +86,7 @@
         "name": "Atsushi Nakajima",
         "japaneseName": "中島 敦",
         "image": "/characters/atsushi-nakajima.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "May 15",
         "age": "18",
         "height": "170 cm",
@@ -119,7 +119,7 @@
         "name": "Doppo Kunikida",
         "japaneseName": "国木田 独歩",
         "image": "/characters/doppo-kunikida.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "August 30",
         "age": "22",
         "height": "189 cm",
@@ -161,7 +161,7 @@
         "name": "Jun'ichirō Tanizaki",
         "japaneseName": "谷崎 潤一郎",
         "image": "/characters/junichiro-tanizaki.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "July 24",
         "age": "18",
         "height": "174 cm",
@@ -198,7 +198,7 @@
         "name": "Kenji Miyazawa",
         "japaneseName": "宮沢 賢治",
         "image": "/characters/kenji-miyazawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "August 27",
         "age": "14",
         "height": "158 cm",
@@ -231,7 +231,7 @@
         "name": "Kyōka Izumi",
         "japaneseName": "泉 鏡花",
         "image": "/characters/kyoka-izumi.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "November 4",
         "age": "14",
         "height": "148 cm",
@@ -273,7 +273,7 @@
         "name": "Osamu Dazai",
         "japaneseName": "太宰 治",
         "image": "/characters/osamu-dazai.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "June 19",
         "age": "22",
         "height": "181 cm",
@@ -315,7 +315,7 @@
         "name": "Ranpo Edogawa",
         "japaneseName": "江戸川 乱歩",
         "image": "/characters/ranpo-edogawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "October 21",
         "age": "26",
         "height": "168 cm",
@@ -348,7 +348,7 @@
         "name": "Naomi Tanizaki",
         "japaneseName": "谷崎 ナオミ",
         "image": "/characters/naomi-tanizaki.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "March 26",
         "occupations": [
             {
@@ -378,7 +378,7 @@
         "name": "Kikaro Haruno",
         "japaneseName": "春野綺羅子",
         "image": "/characters/kikaro-haruno.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "clerk",
@@ -402,7 +402,7 @@
         "name": "Katai Tayama",
         "japaneseName": "田山 花袋",
         "image": "/characters/katai-tayama.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "January 22",
         "age": "23",
         "height": "175 cm",
@@ -439,7 +439,7 @@
         "name": "Ōgai Mori",
         "japaneseName": "森 鴎外",
         "image": "/characters/ogai-mori.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "February 17",
         "age": "40",
         "height": "175 cm",
@@ -481,7 +481,7 @@
         "name": "Ace",
         "japaneseName": "A",
         "image": "/characters/ace.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "the-madness-of-the-jewel-king",
         "occupations": [
             {
@@ -506,7 +506,7 @@
         "name": "Colonel (Port Mafia)",
         "japaneseName": "大佐",
         "image": "/characters/colonel-port-mafia.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "matter-manipulation",
         "occupations": [
             {
@@ -535,7 +535,7 @@
         "name": "Chūya Nakahara",
         "japaneseName": "中原中也",
         "image": "/characters/chuya-nakahara.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "April 29",
         "age": "22",
         "height": "160 cm",
@@ -583,7 +583,7 @@
         "name": "Kōyō Ozaki",
         "japaneseName": "尾崎紅葉",
         "image": "/characters/koyo-ozaki.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "January 10",
         "age": "26",
         "height": "171 cm",
@@ -616,7 +616,7 @@
         "name": "Paul Verlaine",
         "japaneseName": "ポール・ヴェルレエヌ",
         "image": "/characters/paul-verlaine.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "gravity-manipulation",
         "occupations": [
             {
@@ -654,7 +654,7 @@
         "name": "Arthur Rimbaud",
         "japaneseName": "アルチュール・ランボー",
         "image": "/characters/arthur-rimbaud.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "October 20",
         "age": "27",
         "height": "185 cm",
@@ -698,7 +698,7 @@
         "name": "Albatross",
         "japaneseName": "阿呆鳥",
         "image": "/characters/albatross.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "25",
         "occupations": [
             {
@@ -728,7 +728,7 @@
         "name": "Doc",
         "japaneseName": "外科医",
         "image": "/characters/doc.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "25",
         "occupations": [
             {
@@ -758,7 +758,7 @@
         "name": "Iceman",
         "japaneseName": "冷血",
         "image": "/characters/iceman.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "25",
         "occupations": [
             {
@@ -788,7 +788,7 @@
         "name": "Lippmann",
         "japaneseName": "広報官",
         "image": "/characters/lippmann.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "25",
         "occupations": [
             {
@@ -818,7 +818,7 @@
         "name": "Piano Man",
         "japaneseName": "ピアノマン",
         "image": "/characters/piano-man.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "25",
         "occupations": [
             {
@@ -848,7 +848,7 @@
         "name": "Ryūnosuke Akutagawa",
         "japaneseName": "芥川 龍之介",
         "image": "/characters/ryunosuke-akutagawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "March 1",
         "age": "20",
         "height": "172 cm",
@@ -882,7 +882,7 @@
         "name": "Ichiyō Higuchi",
         "japaneseName": "樋口 一葉",
         "image": "/characters/ichiyo-higuchi.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "May 2",
         "height": "159 cm",
         "occupations": [
@@ -909,7 +909,7 @@
         "name": "Ryūrō Hirotsu",
         "japaneseName": "広津 柳浪",
         "image": "/characters/ryuro-hirotsu.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "July 15",
         "age": "50",
         "height": "178 cm",
@@ -942,7 +942,7 @@
         "name": "Gin Akutagawa",
         "japaneseName": "芥川 銀",
         "image": "/characters/gin-akutagawa.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "February 4",
         "occupations": [
             {
@@ -968,7 +968,7 @@
         "name": "Michizō Tachihara",
         "japaneseName": "立原道造",
         "image": "/characters/michizo-tachihara.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "July 30",
         "age": "19",
         "height": "176 cm",
@@ -1014,7 +1014,7 @@
         "name": "Elise",
         "japaneseName": "エリス",
         "image": "/characters/elise.webp",
-        "gender": "female",
+        "gender": "Female",
         "age": "~ 10",
         "occupations": [
             {
@@ -1040,7 +1040,7 @@
         "name": "Karma",
         "japaneseName": "カルマ",
         "image": "/characters/karma.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "ace's subordinate",
@@ -1064,7 +1064,7 @@
         "name": "Kyūsaku Yumeno",
         "japaneseName": "夢野 久作",
         "image": "/characters/kyusaku-yumeno.webp",
-        "gender": "unknown",
+        "gender": "Unknown",
         "birthday": "January 4",
         "age": "13",
         "height": "146 cm",
@@ -1097,7 +1097,7 @@
         "name": "Motojirō Kajii",
         "japaneseName": "梶井基次郎",
         "image": "/characters/motojiro-kajii.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "February 17",
         "age": "28",
         "height": "180 cm",
@@ -1129,7 +1129,7 @@
         "name": "Sakunosuke Oda",
         "japaneseName": "織田 作之助",
         "image": "/characters/sakunosuke-oda.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "October 26",
         "age": "23",
         "height": "185 cm",
@@ -1169,7 +1169,7 @@
         "name": "Kazuma Utagawa",
         "japaneseName": "歌川和馬",
         "image": "/characters/kazuma-utagawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "mafioso",
@@ -1196,7 +1196,7 @@
         "name": "Kurehito Umeki",
         "japaneseName": "梅木紅人",
         "image": "/characters/kurehito-umeki.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "mafioso",
@@ -1223,7 +1223,7 @@
         "name": "Miroku Ishige",
         "japaneseName": "石毛巳六",
         "image": "/characters/miroku-ishige.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "mafioso",
@@ -1250,7 +1250,7 @@
         "name": "Shōkichi Saegusa",
         "japaneseName": "三枝昭吉",
         "image": "/characters/shokichi-saegusa.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "mafioso",
@@ -1273,7 +1273,7 @@
         "name": "Port Mafia's Previous Boss",
         "japaneseName": "ポートマフィアの先代首領",
         "image": "/characters/port-mafia-previous-boss.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "mafia boss",
@@ -1297,7 +1297,7 @@
         "name": "Santōka Taneda",
         "japaneseName": "種田 山頭火",
         "image": "/characters/santoka-taneda.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "December 3",
         "age": "50",
         "height": "185 cm",
@@ -1330,7 +1330,7 @@
         "name": "Ango Sakaguchi",
         "japaneseName": "坂口 安吾",
         "image": "/characters/ango-sakaguchi.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "October 20",
         "age": "25",
         "height": "178 cm",
@@ -1377,7 +1377,7 @@
         "name": "Mizuki Tsujimura",
         "japaneseName": "辻村 深月",
         "image": "/characters/mizuki-tsujimura.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "February 29",
         "age": "24",
         "height": "167 cm",
@@ -1414,7 +1414,7 @@
         "name": "Yachiyo Murakoso",
         "japaneseName": "村社 八千代",
         "image": "/characters/yachiyo-murakoso.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "agent",
@@ -1438,7 +1438,7 @@
         "name": "Takuichi Aoki",
         "japaneseName": "青木卓一",
         "image": "/characters/takuichi-aoki.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "agent",
@@ -1462,7 +1462,7 @@
         "name": "Mizuki Tsujimura (Mother)",
         "japaneseName": null,
         "image": "/characters/mizuki-tsujimura-mother.webp",
-        "gender": "female",
+        "gender": "Female",
         "age": "40-50",
         "abilityId": "yesterdays-shadow-tag",
         "occupations": [
@@ -1488,7 +1488,7 @@
         "name": "Asukai",
         "japaneseName": "飛鳥井",
         "image": "/characters/asukai.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "34",
         "height": "192 cm",
         "weight": "88 kg",
@@ -1521,7 +1521,7 @@
         "name": "Jun Mitamura",
         "japaneseName": "三田村",
         "image": "/characters/jun-mitamura.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "police officer",
@@ -1550,7 +1550,7 @@
         "name": "Minoura",
         "japaneseName": "箕浦",
         "image": "/characters/minoura.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "police officer",
@@ -1574,7 +1574,7 @@
         "name": "Sugimoto",
         "japaneseName": "杉本",
         "image": "/characters/sugimoto.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "police officer",
@@ -1598,7 +1598,7 @@
         "name": "Yamagiwa",
         "japaneseName": "山際",
         "image": "/characters/yamagiwa.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "police officer",
@@ -1622,7 +1622,7 @@
         "name": "Tonan",
         "japaneseName": "斗南 端蔵",
         "image": "/characters/tonan.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "vice justice minister",
@@ -1646,7 +1646,7 @@
         "name": "Sakashita",
         "japaneseName": "坂下",
         "image": "/characters/sakashita.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "deputy director",
@@ -1670,7 +1670,7 @@
         "name": "Francis Scott Key Fitzgerald",
         "japaneseName": "フランシス・スコット・キー・フィッツジェラルド",
         "image": "/characters/francis-fitzgerald.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "September 24",
         "age": "32",
         "height": "191 cm",
@@ -1716,7 +1716,7 @@
         "name": "Edgar Allan Poe",
         "japaneseName": "エドガー・アラン・ポオ",
         "image": "/characters/edgar-poe.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "January 19",
         "age": "28",
         "height": "182 cm",
@@ -1748,7 +1748,7 @@
         "name": "Herman Melville",
         "japaneseName": "ハーマン・メルビル",
         "image": "/characters/herman-melville.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "August 1",
         "age": "68",
         "height": "182 cm",
@@ -1789,7 +1789,7 @@
         "name": "Howard Phillips Lovecraft",
         "japaneseName": "ハワード・フィリップス・ラヴクラフト",
         "image": "/characters/howard-lovecraft.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "August 20",
         "age": "28",
         "height": "190 cm",
@@ -1821,7 +1821,7 @@
         "name": "James L.",
         "japaneseName": "ジェームズL.",
         "image": "/characters/james-l.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "senior secretary",
@@ -1845,7 +1845,7 @@
         "name": "John Steinbeck",
         "japaneseName": "ジョン・スタインベック",
         "image": "/characters/john-steinbeck.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "February 27",
         "age": "21",
         "height": "175 cm",
@@ -1886,7 +1886,7 @@
         "name": "Lucy Maud Montgomery",
         "japaneseName": "ルーシー・モード・モンゴメリ",
         "image": "/characters/lucy-montgomery.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "November 30",
         "age": "19",
         "height": "165 cm",
@@ -1932,7 +1932,7 @@
         "name": "Louisa May Alcott",
         "japaneseName": "ルイーザ・メイ・オルコット",
         "image": "/characters/louisa-alcott.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "November 29",
         "age": "18",
         "height": "165 cm",
@@ -1978,7 +1978,7 @@
         "name": "Margaret Mitchell",
         "japaneseName": "マーガレット・ミッチェル",
         "image": "/characters/margaret-mitchell.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "November 8",
         "age": "20",
         "height": "171 cm",
@@ -2010,7 +2010,7 @@
         "name": "Mark Twain",
         "japaneseName": "マーク・トウェイン",
         "image": "/characters/mark-twain.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "November 30",
         "age": "22",
         "height": "178 cm",
@@ -2042,7 +2042,7 @@
         "name": "Nathaniel Hawthorne",
         "japaneseName": "ナサニエル・ホーソーン",
         "image": "/characters/nathaniel-hawthorne.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "July 4",
         "age": "27",
         "height": "188 cm",
@@ -2083,7 +2083,7 @@
         "name": "Fyodor Dostoevsky",
         "japaneseName": "フョードル・ドストエフスキー",
         "image": "/characters/fyodor-dostoevsky.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "November 11",
         "age": "Unknown",
         "height": "Unknown",
@@ -2131,7 +2131,7 @@
         "name": "Alexander Pushkin",
         "japaneseName": "アレクサンドル・プシュキン",
         "image": "/characters/alexander-pushkin.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "June 6",
         "abilityId": "a-feast-in-time-of-plague",
         "occupations": [
@@ -2157,7 +2157,7 @@
         "name": "Ivan Goncharov",
         "japaneseName": "イバン・ゴンチャロフ",
         "image": "/characters/ivan-goncharov.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "June 18",
         "abilityId": "the-precipice",
         "occupations": [
@@ -2183,7 +2183,7 @@
         "name": "Mushitarō Oguri",
         "japaneseName": "小栗 虫太郎",
         "image": "/characters/mushitaro-oguri.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "March 14",
         "age": "26",
         "height": "178 cm",
@@ -2221,7 +2221,7 @@
         "name": "Dame Agatha Christie",
         "japaneseName": "デイム・アガサ・クリスティ",
         "image": "/characters/agatha-christie.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "September 15",
         "abilityId": "and-then-there-were-none",
         "occupations": [
@@ -2247,7 +2247,7 @@
         "name": "Ōchi Fukuchi",
         "japaneseName": "福地 桜痴",
         "image": "/characters/ochi-fukuchi.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "May 13",
         "age": "45",
         "height": "190 cm",
@@ -2287,7 +2287,7 @@
         "name": "Bram Stoker",
         "japaneseName": "ブラム・ストーカー",
         "image": "/characters/bram-stoker.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "November 8",
         "age": "Unknown",
         "height": "Unknown",
@@ -2322,7 +2322,7 @@
         "name": "Nikolai Gogol",
         "japaneseName": "ニコライ・ゴーゴリ",
         "image": "/characters/nikolai-gogol.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "April 1",
         "age": "26",
         "height": "184 cm",
@@ -2360,7 +2360,7 @@
         "name": "Sigma",
         "japaneseName": "シグマ",
         "image": "/characters/sigma.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "Unknown",
         "age": "Unknown",
         "height": "177 cm",
@@ -2401,7 +2401,7 @@
         "name": "Teruko Ōkura",
         "japaneseName": "大倉 燁子",
         "image": "/characters/teruko-okura.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "April 12",
         "age": "Unknown",
         "height": "Unknown",
@@ -2430,7 +2430,7 @@
         "name": "Saigiku Jōno",
         "japaneseName": "条野 採菊",
         "image": "/characters/saigiku-jono.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "September 24",
         "age": "Unknown",
         "height": "181 cm",
@@ -2459,7 +2459,7 @@
         "name": "Tetchō Suehiro",
         "japaneseName": "末広 鐵腸",
         "image": "/characters/tetcho-suehiro.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "March 15",
         "age": "Unknown",
         "height": "184 cm",
@@ -2490,7 +2490,7 @@
         "name": "Shunzen Tachihara",
         "japaneseName": "立原春蝉",
         "image": "/characters/shunzen-tachihara.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "midwinter-memento",
         "occupations": [
             {
@@ -2515,7 +2515,7 @@
         "name": "Buichirō Shirase",
         "japaneseName": "白瀬 撫一郎",
         "image": "/characters/buichiro-shirase.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "15",
         "occupations": [
             {
@@ -2549,7 +2549,7 @@
         "name": "Yuan",
         "japaneseName": "柚杏",
         "image": "/characters/buichiro-shirase.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "sheep member",
@@ -2573,7 +2573,7 @@
         "name": "André Gide",
         "japaneseName": "アンドレ・ジイド",
         "image": "/characters/andre-gide.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "November 22",
         "age": "32",
         "height": "185 cm",
@@ -2606,6 +2606,8 @@
         "id": "johann-goethe",
         "name": "Johann Wolfgang von Goethe",
         "japaneseName": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+        "image": null,
+        "gender": "Unknown",
         "occupations": [],
         "affiliations": [
             {
@@ -2622,6 +2624,8 @@
         "id": "victor-hugo",
         "name": "Victor Hugo",
         "japaneseName": "ヴィクトル・ユゴー",
+        "image": null,
+        "gender": "Unknown",
         "occupations": [],
         "affiliations": [
             {
@@ -2638,6 +2642,8 @@
         "id": "william-shakespeare",
         "name": "William Shakespeare",
         "japaneseName": "ウィリアム・シェイクスピア",
+        "image": null,
+        "gender": "Unknown",
         "occupations": [],
         "affiliations": [
             {
@@ -2655,7 +2661,7 @@
         "name": "Jules Gabriel Verne",
         "japaneseName": "ジュール・ガブリエル・ヴェルヌ",
         "image": "/characters/jules-verne.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "February 8",
         "abilityId": "the-mysterious-island",
         "occupations": [],
@@ -2675,7 +2681,7 @@
         "name": "Thumbnail",
         "japaneseName": "サムネイル",
         "image": "/characters/thumbnail.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "gang leader",
@@ -2699,7 +2705,7 @@
         "name": "T. J. Eckleburg",
         "japaneseName": "T. J. エクレブルク",
         "image": "/characters/t-eckleburg.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "29",
         "height": "180 cm",
         "occupations": [
@@ -2725,7 +2731,7 @@
         "name": "Tom Buchanan",
         "japaneseName": "トム・ブキャナン",
         "image": "/characters/tom-buchanan.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "44",
         "height": "180 cm",
         "occupations": [
@@ -2751,7 +2757,7 @@
         "name": "S&K Corporation President",
         "japaneseName": null,
         "image": "/characters/sk-corporation-president.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "company president",
@@ -2775,7 +2781,7 @@
         "name": "S&K Corporation Secretary",
         "japaneseName": "S・K商 事 社長秘書",
         "image": "/characters/sk-corporation-secretary.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "secretary",
@@ -2804,7 +2810,7 @@
         "name": "Ame-no-Gozen",
         "japaneseName": "神人・雨御前",
         "image": "/characters/ame-no-gozen.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [],
         "affiliations": [],
         "creator": "fyodor-dostoevsky",
@@ -2818,7 +2824,7 @@
         "name": "Blond guy",
         "japaneseName": "金髪の男",
         "image": "/characters/blond-guy.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "number-ability",
         "occupations": [],
         "affiliations": [],
@@ -2832,7 +2838,7 @@
         "name": "Criminal Ability User",
         "japaneseName": "異能犯罪者",
         "image": "/characters/criminal-ability-user.webp",
-        "gender": "female",
+        "gender": "Female",
         "abilityId": "time-stopping-ability",
         "occupations": [
             {
@@ -2851,7 +2857,7 @@
         "name": "Herbert George Wells",
         "japaneseName": "ハーバート・ジョージ・ウェルズ",
         "image": "/characters/herbert-wells.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "September 21",
         "abilityId": "time-machine",
         "occupations": [],
@@ -2865,7 +2871,7 @@
         "name": "Kyōka's Mother",
         "japaneseName": "鏡花の母",
         "image": "/characters/kyokas-mother.webp",
-        "gender": "female",
+        "gender": "Female",
         "abilityId": "demon-snow",
         "occupations": [
             {
@@ -2890,7 +2896,7 @@
         "name": "Nemo",
         "japaneseName": "ネモ",
         "image": "/characters/nemo.webp",
-        "gender": "male",
+        "gender": "Male",
         "abilityId": "intangibility-ability",
         "occupations": [
             {
@@ -2914,7 +2920,7 @@
         "name": "Tatsuhiko Shibusawa",
         "japaneseName": "澁澤 龍彦",
         "image": "/characters/tatsuhiko-shibusawa.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "May 8",
         "age": "29",
         "height": "180 cm",
@@ -2933,7 +2939,7 @@
         "name": "Sōseki Natsume",
         "japaneseName": "夏目 漱石",
         "image": "/characters/soseki-natsume.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "February 9",
         "abilityId": "i-am-a-cat",
         "occupations": [
@@ -2954,7 +2960,7 @@
         "name": "Adam Frankenstein",
         "japaneseName": "アダム・フランケンシュタイン",
         "image": "/characters/adam-frankenstein.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "detective",
@@ -2978,7 +2984,7 @@
         "name": "Aya Kōda",
         "japaneseName": "幸田 文",
         "image": "/characters/aya-koda.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "September 1",
         "age": "10",
         "occupations": [],
@@ -2993,7 +2999,7 @@
         "name": "Café Uzumaki Store Manager",
         "japaneseName": "うずまき 店長",
         "image": "/characters/cafe-manager.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "store manager",
@@ -3021,7 +3027,7 @@
         "name": "Captain Walston",
         "japaneseName": "ウォルストン船長",
         "image": "/characters/captain-walston.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "~ 30",
         "occupations": [
             {
@@ -3039,7 +3045,7 @@
         "name": "Chiyo",
         "japaneseName": "千代",
         "image": "/characters/chiyo.webp",
-        "gender": "female",
+        "gender": "Female",
         "age": "< 10",
         "occupations": [],
         "affiliations": [],
@@ -3052,7 +3058,7 @@
         "name": "Dr. Mary Wollstonecraft Godwin Shelley",
         "japaneseName": null,
         "image": "/characters/mary-shelley.webp",
-        "gender": "female",
+        "gender": "Female",
         "abilityId": "design-ability",
         "occupations": [
             {
@@ -3076,7 +3082,7 @@
         "name": "Egawa",
         "japaneseName": "江川",
         "image": "/characters/egawa.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [
             {
                 "role": "theater owner",
@@ -3095,7 +3101,7 @@
         "name": "Katsumi",
         "japaneseName": "克己",
         "image": "/characters/katsumi.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "8",
         "occupations": [],
         "affiliations": [],
@@ -3110,7 +3116,7 @@
         "name": "Kōsuke",
         "japaneseName": "幸介",
         "image": "/characters/kosuke.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "9",
         "occupations": [],
         "affiliations": [],
@@ -3124,7 +3130,7 @@
         "name": "Kurahashi",
         "japaneseName": "倉橋",
         "image": "/characters/kurahashi.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "playwright",
@@ -3142,7 +3148,7 @@
         "name": "Kyōka's Father",
         "japaneseName": "鏡花の父",
         "image": "/characters/kyokas-father.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "spy",
@@ -3170,7 +3176,7 @@
         "name": "Master Carlyle",
         "japaneseName": "師匠 カーライル",
         "image": "/characters/master-carlyle.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "artisan",
@@ -3188,7 +3194,7 @@
         "name": "Nobuko Sasaki",
         "japaneseName": "佐々城 信子",
         "image": "/characters/nobuko-sasaki.webp",
-        "gender": "female",
+        "gender": "Female",
         "birthday": "July 20",
         "age": "20s",
         "occupations": [
@@ -3209,7 +3215,7 @@
         "name": "Orphanage Director",
         "japaneseName": "孤児院の院長",
         "image": "/characters/orphanage-director.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "40s",
         "occupations": [
             {
@@ -3228,7 +3234,7 @@
         "name": "N",
         "japaneseName": null,
         "image": "/characters/n.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "researcher",
@@ -3256,7 +3262,7 @@
         "name": "Freedom Restaurant Owner",
         "japaneseName": "フリイダム 店主",
         "image": "/characters/restaurant-owner.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "50s",
         "occupations": [
             {
@@ -3276,7 +3282,7 @@
         "name": "Rokuzō Taguchi",
         "japaneseName": "田口 六蔵",
         "image": "/characters/rokuzo-taguchi.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "16",
         "occupations": [
             {
@@ -3295,7 +3301,7 @@
         "name": "Sakura",
         "japaneseName": "咲楽",
         "image": "/characters/sakura.webp",
-        "gender": "female",
+        "gender": "Female",
         "age": "4",
         "occupations": [],
         "affiliations": [],
@@ -3309,7 +3315,7 @@
         "name": "Shinji",
         "japaneseName": "真司",
         "image": "/characters/shinji.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "5",
         "occupations": [],
         "affiliations": [],
@@ -3324,7 +3330,7 @@
         "name": "Shōsaku Katsura",
         "japaneseName": "桂 正作",
         "image": "/characters/shosaku-katsura.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [],
         "affiliations": [],
         "mangaDebut": "Chapter 40",
@@ -3337,7 +3343,7 @@
         "name": "Taxi Driver",
         "japaneseName": "タクシー運転手",
         "image": "/characters/taxi-driver.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "taxi driver",
@@ -3359,7 +3365,7 @@
         "name": "Tokio Murakami",
         "japaneseName": "村上時雄",
         "image": "/characters/tokio-murakami.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "actor",
@@ -3378,7 +3384,7 @@
         "name": "Yokomizo",
         "japaneseName": "ヨコミゾ",
         "image": "/characters/yokomizo.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "writer",
@@ -3396,7 +3402,7 @@
         "name": "Yū",
         "japaneseName": "優",
         "image": "/characters/yu.webp",
-        "gender": "male",
+        "gender": "Male",
         "age": "7",
         "occupations": [],
         "affiliations": [],
@@ -3411,7 +3417,7 @@
         "name": "Zadkiel Alamta",
         "japaneseName": "ザドキエル・アラムタ",
         "image": "/characters/zadkiel-alamta.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "bomb purveyor",
@@ -3428,7 +3434,7 @@
         "name": "Zelda Fitzgerald",
         "japaneseName": "ゼルダ・フィッツジェラルド",
         "image": "/characters/zelda-fitzgerald.webp",
-        "gender": "female",
+        "gender": "Female",
         "occupations": [],
         "affiliations": [],
         "mangaDebut": "Chapter 34",
@@ -3441,7 +3447,7 @@
         "name": "Pan",
         "japaneseName": "牧神",
         "image": "/characters/pan.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [
             {
                 "role": "rebel leader",
@@ -3468,7 +3474,7 @@
         "name": "Karl",
         "japaneseName": "カール",
         "image": "/characters/karl.webp",
-        "gender": "male",
+        "gender": "Male",
         "occupations": [],
         "affiliations": [],
         "species": "raccoon",
@@ -3482,7 +3488,7 @@
         "name": "Yukito Ayatsuji",
         "japaneseName": "綾辻 行人",
         "image": "/characters/yukito-ayatsuji.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "December 23",
         "age": "27",
         "height": "179 cm",
@@ -3519,7 +3525,7 @@
         "name": "Natsuhiko Kyōgoku",
         "japaneseName": "京極 夏彦",
         "image": "/characters/natsuhiko-kyogoku.webp",
-        "gender": "male",
+        "gender": "Male",
         "birthday": "March 26",
         "abilityId": "possession-drop",
         "occupations": [],
