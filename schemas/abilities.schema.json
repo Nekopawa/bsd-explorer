@@ -1,0 +1,85 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/abilities.schema.json",
+    "title": "Abilities",
+    "description": "Abilities of the characters.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "An ability of a character.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The unique identifier for the ability.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the ability.",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": ["string", "null"],
+                "description": "The name of the ability in kanji."
+            },
+            "classification": {
+                "type": "array",
+                "description": "The classification of the ability.",
+                "items": {
+                    "type": "string",
+                    "enum": ["Offensive", "Defensive", "Supplementary"]
+                },
+                "uniqueItems": true
+            },
+            "range": {
+                "type": "array",
+                "description": "The range of the ability.",
+                "items": {
+                    "type": "string",
+                    "enum": ["Close", "Medium", "Long"]
+                },
+                "uniqueItems": true
+            },
+            "activation": {
+                "type": ["string", "null"],
+                "description": "The activation of the ability."
+            },
+            "mangaDebut": {
+                "type": ["string", "null"],
+                "description": "The manga chapter debut of the ability."
+            },
+            "animeDebut": {
+                "type": ["string", "null"],
+                "description": "The anime episode debut of the ability."
+            },
+            "lightNovelDebut": {
+                "type": ["string", "null"],
+                "description": "The light novel debut of the ability."
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the ability.",
+                "minLength": 1
+            },
+            "image": {
+                "type": "string",
+                "description": "The image path of the ability."
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "japaneseName",
+            "classification",
+            "range",
+            "activation",
+            "mangaDebut",
+            "animeDebut",
+            "lightNovelDebut",
+            "description",
+            "image"
+        ],
+        "additionalProperties": false
+    }
+}

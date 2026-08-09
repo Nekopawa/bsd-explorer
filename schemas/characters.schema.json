@@ -1,0 +1,185 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/characters.schema.json",
+    "title": "Characters",
+    "description": "Information about the characters of the BSD Universe.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Information about each character.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "Unique ID of the character.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "name": {
+                "type": "string",
+                "description": "Name of the character.",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": ["string", "null"],
+                "description": "Name of the character in kanji.",
+                "minLength": 1
+            },
+            "image": {
+                "type": ["string", "null"],
+                "description": "Image path of the character.",
+                "minLength": 1
+            },
+            "gender": {
+                "type": "string",
+                "description": "Gender of the character.",
+                "enum": ["Male", "Female", "Unknown"]
+            },
+            "birthday": {
+                "type": ["string", "null"],
+                "description": "Birthday of the character."
+            },
+            "age": {
+                "type": "string",
+                "description": "Age of the character."
+            },
+            "height": {
+                "type": "string",
+                "description": "Height of the character."
+            },
+            "weight": {
+                "type": "string",
+                "description": "Weight of the character."
+            },
+            "bloodType": {
+                "type": "string",
+                "description": "Blood type of the character."
+            },
+            "likes": {
+                "type": "array",
+                "description": "Things the character likes.",
+                "items": {
+                    "type": "string"
+                },
+                "uniqueItems": true
+            },
+            "dislikes": {
+                "type": "array",
+                "description": "Things the character dislikes.",
+                "items": {
+                    "type": "string"
+                },
+                "uniqueItems": true
+            },
+            "abilityId": {
+                "type": "string",
+                "description": "The unique identifier for the ability of the character.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "occupations": {
+                "type": ["array", "null"],
+                "description": "Current and former occupations of the character.",
+                "items": {
+                    "type": "object",
+                    "description": "An occupation of the character.",
+                    "properties": {
+                        "role": {
+                            "type": "string",
+                            "description": "Name of the role the character had at the occupation.",
+                            "minLength": 1
+                        },
+                        "status": {
+                            "type": "string",
+                            "description": "Current status of the character at the occupation.",
+                            "enum": ["current", "former", "at-death"]
+                        }
+                    },
+                    "required": ["role", "status"],
+                    "additionalProperties": false
+                }
+            },
+            "affiliations": {
+                "type": ["array", "null"],
+                "description": "Current and former affiliations of the character.",
+                "items": {
+                    "type": "object",
+                    "description": "An affiliation of the character.",
+                    "properties": {
+                        "affiliationId": {
+                            "type": "string",
+                            "description": "ID of the affiliation.",
+                            "minLength": 1,
+                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                        },
+                        "roles": {
+                            "type": "array",
+                            "description": "Roles of the character at the affiliation.",
+                            "items": {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            "uniqueItems": true
+                        },
+                        "status": {
+                            "type": "string",
+                            "description": "Current status of the character at the affiliation.",
+                            "enum": ["current", "former", "at-death"]
+                        },
+                        "division": {
+                            "type": "string",
+                            "description": "Division of the affiliation the character belongs to.",
+                            "minLength": 1
+                        }
+                    },
+                    "required": ["affiliationId", "roles", "status"],
+                    "additionalProperties": false
+                }
+            },
+            "mangaDebut": {
+                "type": "string",
+                "description": "The manga chapter debut of the character."
+            },
+            "animeDebut": {
+                "type": "string",
+                "description": "The anime episode debut of the character."
+            },
+            "lightNovelDebut": {
+                "type": "string",
+                "description": "The light novel debut of the character."
+            },
+            "status": {
+                "type": "string",
+                "description": "The current status of the character.",
+                "enum": ["Alive", "Dead", "Unknown", "Hospitalized"]
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the character.",
+                "minLength": 1
+            },
+            "creator": {
+                "type": "string",
+                "description": "The creator of the character.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "species": {
+                "type": "string",
+                "description": "The species of the character.",
+                "minLength": 1
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "japaneseName",
+            "image",
+            "gender",
+            "occupations",
+            "affiliations",
+            "status",
+            "description"
+        ],
+        "additionalProperties": false
+    }
+}

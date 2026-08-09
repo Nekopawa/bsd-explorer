@@ -1,0 +1,83 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/cast.schema.json",
+    "title": "Cast",
+    "description": "Voice and stage actors of the BSD Universe.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Voice and stage actors associated with a character.",
+        "properties": {
+            "characterId": {
+                "type": "string",
+                "description": "The unique identifier for the character.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "voiceActors": {
+                "type": "array",
+                "description": "The voice actors of the character.",
+                "items": {
+                    "type": "object",
+                    "description": "A voice actor of the character.",
+                    "properties": {
+                        "language": {
+                            "type": "string",
+                            "description": "The language of the voice actor.",
+                            "enum": ["ja", "en"]
+                        },
+                        "name": {
+                            "type": "string",
+                            "description": "The name of the voice actor.",
+                            "minLength": 1
+                        },
+                        "link": {
+                            "type": ["string", "null"],
+                            "description": "The link to the voice actor's profile.",
+                            "format": "uri"
+                        },
+                        "castingNote": {
+                            "type": ["string", "null"],
+                            "description": "A note regarding the performance."
+                        }
+                    }
+                },
+                "required": ["language", "name", "link", "castingNote"],
+                "additionalProperties": false
+            },
+            "stageActors": {
+                "type": "array",
+                "description": "The stage actors of the character.",
+                "items": {
+                    "type": "object",
+                    "description": "A stage actor of the character.",
+                    "properties": {
+                        "production": {
+                            "type": "string",
+                            "description": "The type of production the stage actor is associated with.",
+                            "minLength": 1
+                        },
+                        "name": {
+                            "type": "string",
+                            "description": "The name of the stage actor.",
+                            "minLength": 1
+                        },
+                        "link": {
+                            "type": ["string", "null"],
+                            "description": "The link to the stage actor's profile.",
+                            "format": "uri"
+                        },
+                        "castingNote": {
+                            "type": ["string", "null"],
+                            "description": "A note regarding the performance."
+                        }
+                    }
+                },
+                "required": ["production", "name", "link", "castingNote"],
+                "additionalProperties": false
+            }
+        },
+        "required": ["characterId", "voiceActors", "stageActors"],
+        "additionalProperties": false
+    }
+}

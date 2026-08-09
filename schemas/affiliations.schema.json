@@ -1,0 +1,256 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/affiliations.schema.json",
+    "title": "Affiliations",
+    "description": "Organizations, institutions, groups, and other affiliation entities in the BSD Explorer.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "An organization, institution, group, or entity represented as an affiliation.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The unique identifier for the affiliation.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the affiliation.",
+                "minLength": 1
+            },
+            "image": {
+                "type": ["string", "null"],
+                "description": "The image path of the affiliation."
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the affiliation.",
+                "minLength": 1
+            },
+            "admission": {
+                "type": ["string", "null"],
+                "description": "The admission process of the affiliation."
+            },
+            "type": {
+                "type": "string",
+                "description": "The type of the affiliation.",
+                "enum": [
+                    "ability-user-group",
+                    "alliance",
+                    "business",
+                    "criminal-group",
+                    "criminal-organization",
+                    "detective-agency",
+                    "educational-institution",
+                    "government",
+                    "government-agency",
+                    "government-ministry",
+                    "intelligence-agency",
+                    "knightly-order",
+                    "law-enforcement",
+                    "military-unit",
+                    "paramilitary-organization",
+                    "rebel-group",
+                    "research-facility",
+                    "secret-society",
+                    "terrorist-organization",
+                    "youth-gang"
+                ]
+            },
+            "category": {
+                "type": "string",
+                "description": "The category of the affiliation.",
+                "enum": [
+                    "ability-organization",
+                    "business",
+                    "criminal-organization",
+                    "detective-agency",
+                    "government",
+                    "institution",
+                    "law-enforcement",
+                    "military",
+                    "other"
+                ]
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "image",
+            "description",
+            "admission",
+            "type",
+            "category"
+        ],
+        "additionalProperties": false,
+        "allOf": [
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "government",
+                                "government-agency",
+                                "government-ministry"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "government"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": ["law-enforcement", "intelligence-agency"]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "law-enforcement"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "military-unit",
+                                "paramilitary-organization"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "military"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "criminal-organization",
+                                "criminal-group",
+                                "youth-gang"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "criminal-organization"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "ability-user-group",
+                                "secret-society",
+                                "knightly-order"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "ability-organization"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "detective-agency"
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "detective-agency"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "business"
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "business"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "educational-institution",
+                                "research-facility"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "institution"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "alliance",
+                                "rebel-group",
+                                "terrorist-organization"
+                            ]
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "category": {
+                            "const": "other"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

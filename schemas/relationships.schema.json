@@ -1,0 +1,62 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/relationships.schema.json",
+    "title": "Relationships",
+    "description": "Relationships between the characters.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "A relationship between two characters.",
+        "properties": {
+            "characterId": {
+                "type": "string",
+                "description": "The unique ID of the character.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "relatedCharacterId": {
+                "type": "string",
+                "description": "The unique ID of the related character.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "relationshipFrom": {
+                "type": "array",
+                "description": "The type of relationship between the current character and the related character.",
+                "items": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "uniqueItems": true
+            },
+            "relationshipTo": {
+                "type": "array",
+                "description": "The type of relationship between the related character and the current character.",
+                "items": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "uniqueItems": true
+            },
+            "status": {
+                "type": "string",
+                "description": "Current status of the relationship.",
+                "enum": ["current", "former", "at-death"]
+            },
+            "description": {
+                "type": "string",
+                "description": "A description of the relationship.",
+                "minLength": 1
+            }
+        },
+        "required": [
+            "characterId",
+            "relatedCharacterId",
+            "relationshipFrom",
+            "relationshipTo",
+            "status",
+            "description"
+        ],
+        "additionalProperties": false
+    }
+}
