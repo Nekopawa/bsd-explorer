@@ -29,7 +29,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["leader"],
                 "status": "current"
             }
@@ -70,7 +70,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["physician", "member"],
                 "status": "current"
             }
@@ -103,7 +103,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -140,12 +140,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "shin-tsuruya-institute",
+                "affiliationId": "shin-tsuruya-institute",
                 "roles": ["teacher"],
                 "status": "former"
             }
@@ -182,7 +182,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -215,7 +215,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -252,12 +252,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -294,12 +294,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "former"
             }
@@ -332,7 +332,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -362,7 +362,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["clerk"],
                 "status": "current"
             }
@@ -387,7 +387,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["clerk"],
                 "status": "current"
             }
@@ -424,7 +424,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "armed-detective-agency",
+                "affiliationId": "armed-detective-agency",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -460,12 +460,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["leader"],
                 "status": "current"
             },
             {
-                "organizationId": "356th-infantry-division",
+                "affiliationId": "356th-infantry-division",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -491,7 +491,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "at-death"
             }
@@ -520,7 +520,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "at-death"
             }
@@ -556,18 +556,18 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "current"
             },
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "former"
             },
             {
-                "organizationId": "sheep",
+                "affiliationId": "sheep",
                 "roles": ["leader"],
                 "status": "former"
             }
@@ -600,7 +600,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "current"
             }
@@ -634,12 +634,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["executive"],
                 "status": "current"
             },
             {
-                "organizationId": "transcendents",
+                "affiliationId": "transcendents",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -672,17 +672,17 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["sub-executive"],
                 "status": "at-death"
             },
             {
-                "organizationId": "transcendents",
+                "affiliationId": "transcendents",
                 "roles": ["member"],
                 "status": "at-death"
             },
             {
-                "organizationId": "dgss",
+                "affiliationId": "dgss",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -712,7 +712,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "at-death"
@@ -742,7 +742,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "at-death"
@@ -772,7 +772,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "at-death"
@@ -802,7 +802,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "at-death"
@@ -832,7 +832,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "flags",
                 "status": "at-death"
@@ -865,7 +865,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "command unit",
                 "status": "current"
@@ -893,7 +893,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "command unit",
                 "status": "current"
@@ -926,7 +926,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "black lizard",
                 "status": "current"
@@ -952,7 +952,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "black lizard",
                 "status": "current"
@@ -993,13 +993,13 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "division": "black lizard",
                 "status": "former"
             },
             {
-                "organizationId": "hunting-dogs",
+                "affiliationId": "hunting-dogs",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1024,7 +1024,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1049,7 +1049,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1081,7 +1081,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1114,7 +1114,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1153,7 +1153,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1182,7 +1182,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1209,7 +1209,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1236,7 +1236,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1259,7 +1259,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1282,7 +1282,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -1314,7 +1314,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["leader"],
                 "status": "current"
             }
@@ -1351,17 +1351,17 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "port-mafia",
+                "affiliationId": "port-mafia",
                 "roles": ["spy"],
                 "status": "former"
             },
             {
-                "organizationId": "mimic",
+                "affiliationId": "mimic",
                 "roles": ["spy"],
                 "status": "former"
             }
@@ -1398,7 +1398,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1423,7 +1423,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1447,7 +1447,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1473,7 +1473,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1506,7 +1506,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "police",
+                "affiliationId": "police",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1530,12 +1530,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "police",
+                "affiliationId": "police",
                 "roles": ["member"],
                 "status": "at-death"
             },
             {
-                "organizationId": "v",
+                "affiliationId": "v",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1559,7 +1559,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "police",
+                "affiliationId": "police",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1583,7 +1583,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "police",
+                "affiliationId": "police",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1607,7 +1607,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "police",
+                "affiliationId": "police",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1631,7 +1631,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "ministry-of-justice",
+                "affiliationId": "ministry-of-justice",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1655,7 +1655,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "ministry-of-justice",
+                "affiliationId": "ministry-of-justice",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1691,17 +1691,17 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-renewed-guild",
+                "affiliationId": "the-renewed-guild",
                 "roles": ["leader"],
                 "status": "current"
             },
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["leader"],
                 "status": "former"
             },
             {
-                "organizationId": "manhasset-security",
+                "affiliationId": "manhasset-security",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1733,7 +1733,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1769,12 +1769,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["leader"],
                 "status": "former"
             },
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1806,7 +1806,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -1830,7 +1830,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -1866,12 +1866,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "former"
             },
             {
-                "organizationId": "surviving-guild-forces",
+                "affiliationId": "surviving-guild-forces",
                 "roles": ["leader"],
                 "status": "current"
             }
@@ -1912,12 +1912,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "cafe-uzumaki",
+                "affiliationId": "cafe-uzumaki",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -1953,17 +1953,17 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "former"
             },
             {
-                "organizationId": "the-renewed-guild",
+                "affiliationId": "the-renewed-guild",
                 "roles": ["member"],
                 "status": "current"
             },
             {
-                "organizationId": "manhasset-security",
+                "affiliationId": "manhasset-security",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -1995,7 +1995,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2027,7 +2027,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2063,12 +2063,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "the-guild",
+                "affiliationId": "the-guild",
                 "roles": ["member"],
                 "status": "former"
             },
             {
-                "organizationId": "rats-in-the-house-of-the-dead",
+                "affiliationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2111,12 +2111,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "rats-in-the-house-of-the-dead",
+                "affiliationId": "rats-in-the-house-of-the-dead",
                 "roles": ["leader"],
                 "status": "current"
             },
             {
-                "organizationId": "decay-of-the-angel",
+                "affiliationId": "decay-of-the-angel",
                 "roles": ["leader"],
                 "status": "former"
             }
@@ -2142,7 +2142,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "rats-in-the-house-of-the-dead",
+                "affiliationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2168,7 +2168,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "rats-in-the-house-of-the-dead",
+                "affiliationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2206,7 +2206,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "rats-in-the-house-of-the-dead",
+                "affiliationId": "rats-in-the-house-of-the-dead",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -2232,7 +2232,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "order-of-the-clock-tower",
+                "affiliationId": "order-of-the-clock-tower",
                 "roles": ["leader"],
                 "status": "current"
             }
@@ -2267,12 +2267,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "hunting-dogs",
+                "affiliationId": "hunting-dogs",
                 "roles": ["leader"],
                 "status": "at-death"
             },
             {
-                "organizationId": "decay-of-the-angel",
+                "affiliationId": "decay-of-the-angel",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -2307,7 +2307,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "decay-of-the-angel",
+                "affiliationId": "decay-of-the-angel",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -2345,7 +2345,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "decay-of-the-angel",
+                "affiliationId": "decay-of-the-angel",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -2381,12 +2381,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "decay-of-the-angel",
+                "affiliationId": "decay-of-the-angel",
                 "roles": ["member"],
                 "status": "former"
             },
             {
-                "organizationId": "sky-casino",
+                "affiliationId": "sky-casino",
                 "roles": ["owner"],
                 "status": "current"
             }
@@ -2415,7 +2415,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "hunting-dogs",
+                "affiliationId": "hunting-dogs",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2444,7 +2444,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "hunting-dogs",
+                "affiliationId": "hunting-dogs",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2475,7 +2475,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "hunting-dogs",
+                "affiliationId": "hunting-dogs",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2500,7 +2500,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "356th-infantry-division",
+                "affiliationId": "356th-infantry-division",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -2533,7 +2533,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "sheep",
+                "affiliationId": "sheep",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -2558,7 +2558,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "sheep",
+                "affiliationId": "sheep",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2591,7 +2591,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "mimic",
+                "affiliationId": "mimic",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -2609,7 +2609,7 @@
         "occupations": [],
         "affiliations": [
             {
-                "organizationId": "transcendents",
+                "affiliationId": "transcendents",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2625,7 +2625,7 @@
         "occupations": [],
         "affiliations": [
             {
-                "organizationId": "transcendents",
+                "affiliationId": "transcendents",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2641,7 +2641,7 @@
         "occupations": [],
         "affiliations": [
             {
-                "organizationId": "transcendents",
+                "affiliationId": "transcendents",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2661,7 +2661,7 @@
         "occupations": [],
         "affiliations": [
             {
-                "organizationId": "the-seven-traitors",
+                "affiliationId": "the-seven-traitors",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -2684,7 +2684,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "zoopark",
+                "affiliationId": "zoopark",
                 "roles": ["leader"],
                 "status": "current"
             }
@@ -2710,7 +2710,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "manhasset-security",
+                "affiliationId": "manhasset-security",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -2736,7 +2736,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "manhasset-security",
+                "affiliationId": "manhasset-security",
                 "roles": ["leader"],
                 "status": "former"
             }
@@ -2760,7 +2760,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "sk-corporation",
+                "affiliationId": "sk-corporation",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -2788,7 +2788,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "sk-corporation",
+                "affiliationId": "sk-corporation",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -2875,7 +2875,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "japanese-government",
+                "affiliationId": "japanese-government",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -2900,7 +2900,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "band-of-thieves",
+                "affiliationId": "band-of-thieves",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -2963,7 +2963,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "europole",
+                "affiliationId": "europole",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -3006,7 +3006,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "cafe-uzumaki",
+                "affiliationId": "cafe-uzumaki",
                 "roles": ["manager"],
                 "status": "current"
             }
@@ -3062,7 +3062,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "europole",
+                "affiliationId": "europole",
                 "roles": ["member"],
                 "status": "current"
             }
@@ -3155,7 +3155,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "japanese-government",
+                "affiliationId": "japanese-government",
                 "roles": ["member"],
                 "status": "at-death"
             }
@@ -3237,12 +3237,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "research-facility-b",
+                "affiliationId": "research-facility-b",
                 "roles": ["member"],
                 "status": "at-death"
             },
             {
-                "organizationId": "research-facility-a",
+                "affiliationId": "research-facility-a",
                 "roles": ["member"],
                 "status": "former"
             }
@@ -3454,7 +3454,7 @@
         ],
         "affiliations": [
             {
-                "organizationId": "may-uprising",
+                "affiliationId": "may-uprising",
                 "roles": ["leader"],
                 "status": "at-death"
             }
@@ -3499,12 +3499,12 @@
         ],
         "affiliations": [
             {
-                "organizationId": "ayatsuji-detective-agency",
+                "affiliationId": "ayatsuji-detective-agency",
                 "roles": ["owner"],
                 "status": "current"
             },
             {
-                "organizationId": "special-division",
+                "affiliationId": "special-division",
                 "roles": ["member"],
                 "status": "current"
             }
