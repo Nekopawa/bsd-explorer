@@ -9,14 +9,6 @@
     },
     {
         "characterId": "yukichi-fukuzawa",
-        "relatedCharacterId": "akiko-yosano",
-        "relationshipFrom": ["protector"],
-        "relationshipTo": ["protégé"],
-        "status": "current",
-        "description": "Fukuzawa helped rescue Yosano from the military's control and prevented Mori from using her ability again. By welcoming her into the newly formed Agency and accepting her despite the guilt she carried from the war, he gave her the opportunity to rebuild her life and use her power on her own terms."
-    },
-    {
-        "characterId": "yukichi-fukuzawa",
         "relatedCharacterId": "doppo-kunikida",
         "relationshipFrom": ["mentor"],
         "relationshipTo": ["mentee"],
@@ -50,8 +42,8 @@
     {
         "characterId": "junichiro-tanizaki",
         "relatedCharacterId": "naomi-tanizaki",
-        "relationshipFrom": ["older-sibling"],
-        "relationshipTo": ["younger-sibling"],
+        "relationshipFrom": ["sibling"],
+        "relationshipTo": ["sibling"],
         "status": "current",
         "description": "Jun'ichirō and Naomi are siblings who live together and share an unusually intense attachment. Naomi is openly affectionate toward her brother, while Jun'ichirō is fiercely protective of her and becomes exceptionally dangerous whenever her safety is threatened."
     },
@@ -61,9 +53,8 @@
         "relationshipFrom": ["friend", "former-colleague"],
         "relationshipTo": ["friend", "former-colleague"],
         "status": "current",
-        "description": "Kunikida and Katai have known each other for more than ten years and have known each other for more than ten years and remain close friends. Kunikida understands Katai's habits well enough to scold or motivate him directly, while Katai continues to provide valuable technical assistance even after leaving the Agency."
+        "description": "Kunikida and Katai have known each other for about ten years and are longtime friends. Katai formerly worked alongside Kunikida in the Armed Detective Agency and continues to assist him with information and technical work after leaving the Agency."
     },
-
     {
         "characterId": "ogai-mori",
         "relatedCharacterId": "elise",
@@ -240,8 +231,8 @@
     {
         "characterId": "ryunosuke-akutagawa",
         "relatedCharacterId": "gin-akutagawa",
-        "relationshipFrom": ["older-sibling"],
-        "relationshipTo": ["younger-sibling"],
+        "relationshipFrom": ["sibling"],
+        "relationshipTo": ["sibling"],
         "status": "current",
         "description": "Akutagawa and Gin are siblings and each other's only surviving family. They grew up together in the slums before entering the Port Mafia, and Akutagawa remains strongly protective of her even though both usually keep their family connection private while working within the organization."
     },
