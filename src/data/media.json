@@ -1,0 +1,1135 @@
+[
+    {
+        "id": "bsd-manga",
+        "name": "Bungo Stray Dogs (Manga)",
+        "japaneseName": "文豪ストレイドッグス",
+        "description": "Atsushi Nakajima was kicked out of his orphanage, and now he has no place to go and no food. While he is standing by a river, on the brink of starvation, he rescues a man whimsically attempting suicide. That man is Osamu Dazai, and he and his partner Kunikida are members of a very special detective agency. They have supernatural powers and deal with cases that are too dangerous for the police or the military. They're tracking down a tiger that has appeared in the area recently, around the time Atsushi came to the area. The tiger seems to have a connection to Atsushi, and by the time the case is solved, it is clear that Atsushi's future will involve much more of Dazai and the rest of the detectives!",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 28
+            },
+            {
+                "region": "us",
+                "amount": 27
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2013-04-04",
+                "dateEnd": null
+            },
+            {
+                "region": "us",
+                "dateStart": "2016-12-20",
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "ongoing"
+            },
+            {
+                "region": "us",
+                "status": "ongoing"
+            }
+        ],
+        "image": "./media/bsd-manga.webp"
+    },
+    {
+        "id": "gaiden-manga",
+        "name": "Bungo Stray Dogs Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko (Manga)",
+        "japaneseName": "文豪ストレイドッグス外伝 綾辻行人VS.京極夏彦",
+        "description": "Known for his biting wit and rapid-fire brain cells, Yukito Ayatsuji is a detective and top-ranked skill user who possesses the ability to expose any crime. When a request to investigate a puzzling murder incident hits his desk, Ayatsuji must team up with Mizuki Tsujimura, a spunky agent sent from the Special Division, to tackle the case. Can the unlikely duo get to the bottom of this mystery?!",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Oyoyo",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 3
+            },
+            {
+                "region": "us",
+                "amount": 2
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2018-12-04",
+                "dateEnd": null
+            },
+            {
+                "region": "us",
+                "dateStart": "2019-11-19",
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "ongoing"
+            },
+            {
+                "region": "us",
+                "status": "ongoing"
+            }
+        ],
+        "image": "./media/gaiden-manga.webp"
+    },
+    {
+        "id": "dead-apple-manga",
+        "name": "Bungo Stray Dogs: DEAD APPLE (Manga)",
+        "japaneseName": "文豪ストレイドッグス DEAD APPLE",
+        "description": "Power users around the world are suddenly committing suicide one after another, in all cases after a strange fog appears at the scene. At a request from Ango Sakaguchi, the Armed Detective Agency head out to investigate Tatsuhiko Shibusawa, a power user who calls himself \"collector\", and a man suspected of being tied to the incident.",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Ganjii",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 4
+            },
+            {
+                "region": "us",
+                "amount": 4
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2018-03-10",
+                "dateEnd": "2023-08-04"
+            },
+            {
+                "region": "us",
+                "dateStart": "2022-08-23",
+                "dateEnd": "2024-06-18"
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "completed"
+            },
+            {
+                "region": "us",
+                "status": "completed"
+            }
+        ],
+        "image": "./media/dead-apple-manga.webp"
+    },
+    {
+        "id": "beast-manga",
+        "name": "Bungo Stray Dogs: BEAST (Manga)",
+        "japaneseName": "文豪ストレイドッグスＢＥＡＳＴ",
+        "description": "It follows Ryūnosuke Akutagawa, who vows revenge on a man dressed in black in order to rescue his sister. However, as he is about to starve to death, a man from the Armed Detective Agency appears.",
+        "category": "manga",
+        "genres": ["action", "mystery", "drama", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Shiwasu Hoshikawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 4
+            },
+            {
+                "region": "us",
+                "amount": 4
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2019-12-26",
+                "dateEnd": "2022-01-26"
+            },
+            {
+                "region": "us",
+                "dateStart": "2021-08-24",
+                "dateEnd": "2023-01-17"
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "completed"
+            },
+            {
+                "region": "us",
+                "status": "completed"
+            }
+        ],
+        "image": "./media/beast-manga.webp"
+    },
+    {
+        "id": "age-fifteen-manga",
+        "name": "Bungo Stray Dogs: Dazai, Chūya, Age Fifteen (Manga)",
+        "japaneseName": "文豪ストレイドッグス 太宰、中也、十五歳",
+        "description": "Dazai and Chūya face Randō in a climactic showdown. Their opponent wields the former boss of the Mafia through his powerful skill, putting the two on the defensive. A decisive blow is struck, the past is revealed, and the Arahabaki incident draws to a close, but…when the dust settles, to what end will the boys' decisions lead them?",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Shiwasu Hoshikawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 4
+            },
+            {
+                "region": "us",
+                "amount": 4
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2023-02-03",
+                "dateEnd": "2024-10-04"
+            },
+            {
+                "region": "us",
+                "dateStart": "2023-12-12",
+                "dateEnd": "2025-09-23"
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "completed"
+            },
+            {
+                "region": "us",
+                "status": "completed"
+            }
+        ],
+        "image": "./media/age-fifteen-manga.webp"
+    },
+    {
+        "id": "storm-bringer-manga",
+        "name": "Bungo Stray Dogs: STORM BRINGER (Manga)",
+        "japaneseName": "文豪ストレイドッグス ＳＴＯＲＭ ＢＲＩＮＧＥＲ",
+        "description": "One year after the Arahabaki Incident, Chūya Nakahara has joined the Port Mafia and is beginning to establish his place within the organization. His life is disrupted by the arrival of Paul Verlaine, a powerful assassin who claims to be Chūya's older brother and intends to eliminate the people closest to him. As Verlaine's attacks force Chūya to confront questions surrounding his identity and origins, he becomes entangled in a conflict connected to his own mysterious past.",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Shiwasu Hoshikawa",
+        "publishers": [{ "region": "jp", "name": "Kadokawa Shoten" }],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 1
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2025-01-24",
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "ongoing"
+            }
+        ],
+        "image": "./media/storm-bringer-manga.webp"
+    },
+    {
+        "id": "untold-origins-manga",
+        "name": "Bungo Stray Dogs: The Untold Origins of the Detective Agency (Manga)",
+        "japaneseName": "文豪ストレイドッグス 探偵社設立秘話",
+        "description": "Ever since Fukuzawa encountered Ranpo, something has felt off about the boy, as if he doesn’t fully understand how sharp his own perception is. If he makes full use of Ranpo’s abilities, could it lead to a way to prevent the murder?",
+        "category": "manga",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Tomori Adachi",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 2
+            },
+            {
+                "region": "us",
+                "amount": 0
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2025-03-04",
+                "dateEnd": null
+            },
+            {
+                "region": "us",
+                "dateStart": null,
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "ongoing"
+            },
+            {
+                "region": "us",
+                "status": "unreleased"
+            }
+        ],
+        "image": "./media/untold-origins-manga.webp"
+    },
+    {
+        "id": "took-in-dazai-manga",
+        "name": "Bungo Stray Dogs: The Day I Took In Dazai (Manga)",
+        "japaneseName": "文豪ストレイドッグス　太宰を拾った日",
+        "description": "One day, deliveryman Sakunosuke Oda finds a boy at his doorstep on the brink of death. His name is Osamu Dazai, and he is a member of the Port Mafia—the very embodiment of darkness and violence. Thus begins a peculiar living arrangement: Oda, who cares for the boy, and Dazai, who longs to die. But what will become of their newfound connection when a gang of former police officers known as the 48 attack them in search of a certain painting...?!",
+        "category": "manga",
+        "genres": ["action", "drama", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Shikiji Sorakura",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 0
+            },
+            {
+                "region": "us",
+                "amount": 0
+            }
+        ],
+        "serialization": {
+            "region": "jp",
+            "dateStart": "2026-07-03",
+            "status": "ongoing"
+        },
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": null,
+                "dateEnd": null
+            },
+            {
+                "region": "us",
+                "dateStart": null,
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "unreleased"
+            },
+            {
+                "region": "us",
+                "status": "unreleased"
+            }
+        ],
+        "image": "./media/took-in-dazai-manga.webp"
+    },
+    {
+        "id": "wan-manga",
+        "name": "Bungo Stray Dogs Wan!",
+        "japaneseName": "文豪ストレイドッグス わん！",
+        "description": "The peaceful days of the very popular work \"Bungo Stray Dogs\" are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work - a pleasant gag manga!",
+        "category": "manga",
+        "genres": ["comedy", "slice of life", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Neco Kanai",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "volumes": [
+            {
+                "region": "jp",
+                "amount": 15
+            },
+            {
+                "region": "us",
+                "amount": 12
+            }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2016-10-04",
+                "dateEnd": null
+            },
+            {
+                "region": "us",
+                "dateStart": "2022-03-22",
+                "dateEnd": null
+            }
+        ],
+        "statuses": [
+            {
+                "region": "jp",
+                "status": "ongoing"
+            },
+            {
+                "region": "us",
+                "status": "ongoing"
+            }
+        ],
+        "image": "./media/wan-manga.webp"
+    },
+    {
+        "id": "bsd-anime",
+        "name": "Bungo Stray Dogs (Anime)",
+        "japaneseName": "文豪ストレイドッグス",
+        "description": "Bungo Stray Dogs follows Atsushi Nakajima, an orphan who discovers that he can transform into a white tiger after encountering members of the Armed Detective Agency, a group of ability users who investigate cases too dangerous for ordinary authorities. After joining the Agency, Atsushi becomes involved in conflicts between powerful ability-user organizations in Yokohama, including the criminal Port Mafia and threats from beyond Japan. The series combines supernatural action, mystery, crime, and character-driven drama, with many of its characters inspired by real-world literary authors and their works.",
+        "category": "anime",
+        "type": "tv",
+        "genres": ["action", "mystery", "supernatural"],
+        "studio": ["Bones"],
+        "director": "Takuya Igarashi",
+        "episodes": 61,
+        "seasons": [
+            {
+                "season": 1,
+                "dateStart": "2016-04-07",
+                "dateEnd": "2016-06-23",
+                "episodes": 12,
+                "synopsis": "After being expelled from his orphanage, Atsushi Nakajima encounters Osamu Dazai and Doppo Kunikida of the Armed Detective Agency while they are investigating a mysterious white tiger. Atsushi soon discovers his own connection to the creature and is recruited into the Agency, where he begins learning to control his ability and find a place for himself. His new life quickly draws him into the violent conflict between the Agency and the Port Mafia, particularly with Ryūnosuke Akutagawa, who becomes determined to capture him.",
+                "status": "completed",
+                "image": "./media/bsd-anime-season-1.webp"
+            },
+            {
+                "season": 2,
+                "dateStart": "2016-10-06",
+                "dateEnd": "2016-12-22",
+                "episodes": 12,
+                "synopsis": "The season begins by exploring Dazai's past in the Port Mafia and his friendship with Sakunosuke Oda and Ango Sakaguchi, revealing the events that ultimately led him to leave the organization. In the present, Yokohama becomes the battleground for a three-way conflict between the Armed Detective Agency, the Port Mafia, and the American ability-user organization known as the Guild. As the Guild pursues Atsushi and launches an increasingly destructive campaign against the city, former enemies are forced to cooperate against a common threat.",
+                "status": "completed",
+                "image": "./media/bsd-anime-season-2.webp"
+            },
+            {
+                "season": 3,
+                "dateStart": "2019-04-12",
+                "dateEnd": "2019-06-28",
+                "episodes": 12,
+                "synopsis": "After a glimpse into Dazai and Chūya Nakahara's first encounter and their early days in the Port Mafia, the story returns to the present as the Armed Detective Agency faces new conflicts involving both old and new enemies. The mysterious Fyodor Dostoevsky emerges as an increasingly dangerous adversary, manipulating events from the shadows and setting the Agency and Port Mafia against one another through the Cannibalism ability. With both organizations' leaders placed in mortal danger, their members must overcome their hostility before Fyodor's plan destroys them both.",
+                "status": "completed",
+                "image": "./media/bsd-anime-season-3.webp"
+            },
+            {
+                "season": 4,
+                "dateStart": "2023-01-04",
+                "dateEnd": "2023-03-29",
+                "episodes": 13,
+                "synopsis": "The season opens with the story of how Yukichi Fukuzawa met the young Ranpo Edogawa and how their partnership eventually led to the creation of the Armed Detective Agency. In the present, the Agency investigates a series of murders connected to the Decay of the Angel, only to fall into an elaborate trap that rewrites the evidence and public perception against them. Branded as terrorists and pursued by the elite military unit known as the Hunting Dogs, the scattered Agency members must survive long enough to expose the conspiracy and prove their innocence.",
+                "status": "completed",
+                "image": "./media/bsd-anime-season-4.webp"
+            },
+            {
+                "season": 5,
+                "dateStart": "2023-07-12",
+                "dateEnd": "2023-09-20",
+                "episodes": 11,
+                "synopsis": "With the Armed Detective Agency still framed as a terrorist organization, its members continue their struggle against the Decay of the Angel while racing to prevent a global catastrophe. The conflict reveals the true identity and ambitions of the enemy's leader as the Agency battles across multiple fronts, from the airport to the prison of Meursault. Atsushi, Dazai, Ranpo, Aya, and their allies each play a part in opposing a plan involving Bram Stoker's vampiric ability and the military weapon One Order, bringing the conflict over the fate of the world to its climax.",
+                "status": "completed",
+                "image": "./media/bsd-anime-season-5.webp"
+            }
+        ],
+        "image": "./media/bsd-anime.webp"
+    },
+    {
+        "id": "hitori-ayumu",
+        "name": "Bungo Stray Dogs: Hitori Ayumu",
+        "japaneseName": "文豪ストレイドッグス 『独り歩む』",
+        "description": "Armed Detective Agency members discuss the most suitable candidate for the second-in-command. Doppo Kunikida is carrying out official errands as planned in his diary as usual. Unexpectedly, a bomb-related incident occurs, challenging the ideals he has always upheld. When weighing one life over hundreds, how will he proceed?",
+        "category": "anime",
+        "type": "ova",
+        "genres": ["action", "mystery", "supernatural"],
+        "studio": ["Bones"],
+        "director": "Takuya Igarashi",
+        "episodes": 1,
+        "releaseDate": "2017-08-04",
+        "image": "./media/hitori-ayumu.webp"
+    },
+    {
+        "id": "bsd-wan-anime",
+        "name": "Bungo Stray Dogs Wan! (Anime)",
+        "japaneseName": "文豪ストレイドッグス わん！",
+        "description": "In the fictional city of Yokohama, where the hustle and bustle of a modern city and the breeze of foreign countries blow through the air, those who are familiar with the names of the great writers of the past fight to the death with their \"different abilities\" that are named after them in the action battle epic Bungo Stray Dogs. The characters from the Armed Detective Agency and Port Mafia, who are wailing and screaming, grinding their souls together, and running at the limit of life and death... But now they've become cute in mini form! Playing boke or playing tsukkomi... and going berserk!? The characters of BUNGO go wild and comfort our hearts with warmth!? BUNGO spin-off comedy variety show - finally, the curtains are going up!",
+        "category": "anime",
+        "type": "tv",
+        "genres": ["comedy", "slice of life", "supernatural"],
+        "studio": ["Bones", "Nomad"],
+        "director": "Toshihiro Kikuchi",
+        "episodes": 24,
+        "seasons": [
+            {
+                "season": 1,
+                "dateStart": "2021-01-12",
+                "dateEnd": "2021-03-31",
+                "episodes": 12,
+                "synopsis": "The members of the Armed Detective Agency and Port Mafia return in chibi form for a series of lighthearted adventures in Yokohama. Away from their usual life-or-death conflicts, Atsushi, Dazai, Akutagawa, and the rest of the cast spend their days getting caught up in workplace antics, friendly competitions, seasonal events, and other absurd situations.",
+                "status": "completed",
+                "image": "./media/bsd-wan-anime-season-1.webp"
+            },
+            {
+                "season": 2,
+                "dateStart": "2026-07-02",
+                "dateEnd": null,
+                "episodes": 12,
+                "synopsis": "The Armed Detective Agency and Port Mafia return for more chaotic everyday adventures in Yokohama. With the cast once again portrayed in chibi form, familiar faces find themselves in humorous situations that offer a playful and lighthearted take on the characters and world of Bungo Stray Dogs.",
+                "status": "ongoing",
+                "image": "./media/bsd-wan-anime-season-2.webp"
+            }
+        ],
+        "image": "./media/bsd-wan-anime.webp"
+    },
+    {
+        "id": "dazai-entrance-exam",
+        "name": "Bungo Stray Dogs: Osamu Dazai's Entrance Exam",
+        "japaneseName": "文豪ストレイドッグス 太宰治の入社試験",
+        "description": "Doppo Kunikida is an idealist and a straitlaced detective at the Armed Detective Agency, an organization that takes on dangerous jobs even the police won't handle. Everything in his life is going just as he's planned...until one day, he's paired up with the agency's newest hire: a suspicious, eccentric, suicide-obsessed man named Osamu Dazai. Their first case together turns out to be far more complicated than Kunikida anticipated — and it looks like the detective agency's sworn enemy, the Port Mafia, is somehow involved, too! Set two years before the events of the manga series, this is the tale of how two seemingly incompatible personalities end up forming the partnership that has made them one of Yokohama's top detective duos.",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2014-04-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2019-08-20"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 260
+            },
+            {
+                "region": "us",
+                "amount": 192
+            }
+        ],
+        "chapters": 8,
+        "image": "./media/dazai-entrance-exam.webp"
+    },
+    {
+        "id": "dark-era",
+        "name": "Bungo Stray Dogs: Osamu Dazai and the Dark Era",
+        "japaneseName": "文豪ストレイドッグス 太宰治と黒の時代",
+        "description": "Before joining the Armed Detective Agency, Osamu Dazai was the youngest executive with the Port Mafia, the most notorious underground crime syndicate in all of Yokohama. When one of their colleagues suddenly goes missing, Dazai and fellow Port Mafia member Sakunosuke Oda are tasked with conducting an investigation… and at last, the reason why Dazai parted ways with the Port Mafia is revealed!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2014-08-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2019-10-29"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 244
+            },
+            {
+                "region": "us",
+                "amount": 176
+            }
+        ],
+        "chapters": 6,
+        "image": "./media/dark-era.webp"
+    },
+    {
+        "id": "untold-origins-novel",
+        "name": "Bungo Stray Dogs: The Untold Origins of the Detective Agency",
+        "japaneseName": "文豪ストレイドッグス 探偵社設立秘話",
+        "description": "Over a decade before the events of the manga series, a chance encounter leads professional bodyguard Yukichi Fukuzawa to begrudgingly take an arrogant boy genius named Ranpo Edogawa under his wing. Their first job brings them to a local theater on high alert after receiving a bizarre death threat — a challenge that will require both Ranpo's brains and Fukuzawa's experience. The aftermath spurs Fukuzawa to establish the Armed Detective Agency, an organization that takes on dangerous jobs even the police won't handle! Plus, get a glimpse of the agency the night before Atsushi Nakajima joined the team!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2015-05-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2020-02-18"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 244
+            },
+            {
+                "region": "us",
+                "amount": 224
+            }
+        ],
+        "chapters": 2,
+        "image": "./media/untold-origins-novel.webp"
+    },
+    {
+        "id": "gaiden-novel",
+        "name": "Bungo Stray Dogs Gaiden: Ayatsuji Yukito VS. Kyōgoku Natsuhiko",
+        "japaneseName": "文豪ストレイドッグス外伝　綾辻行人VS.京極夏彦",
+        "description": "Yukito Ayatsuji, a brilliant investigator known as the Homicide Detective, has a skill so deadly that he is assigned a minder—rookie Special Division for Unusual Powers agent Mizuki Tsujimura—to monitor him. And when Ayatsuji is tasked with solving a murder case, who should be pulling the strings behind the scenes but his archnemesis… Natsuhiko Kyougoku?! As the stakes continue to ramp up, so too do the mysteries. In this battle of wits between a sorcerer and a detective, it’s trick or be tricked!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2016-01-30"
+            },
+            {
+                "region": "us",
+                "dateStart": "2024-07-23"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 336
+            },
+            {
+                "region": "us",
+                "amount": 272
+            }
+        ],
+        "chapters": null,
+        "image": "./media/gaiden-novel.webp"
+    },
+    {
+        "id": "55-minutes",
+        "name": "Bungo Stray Dogs: 55 Minutes",
+        "japaneseName": "文豪ストレイドッグス ５５Ｍｉｎｕｔｅｓ",
+        "description": "The Armed Detective Agency's latest case brings them to a strange island off the coast of Yokohama called \"Standard Island,\" but what awaits them turns out to be far more complicated than expected: a bomb, time travel, a mysterious skill user named H.G. Wells... Will this incident spell the end of Yokohama itself?!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2016-10-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2020-07-21"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 324
+            },
+            {
+                "region": "us",
+                "amount": 224
+            }
+        ],
+        "chapters": 6,
+        "image": "./media/55-minutes.webp"
+    },
+    {
+        "id": "dead-apple-novel",
+        "name": "Bungo Stray Dogs: DEAD APPLE (Light Novel)",
+        "japaneseName": "文豪ストレイドッグス DEAD APPLE",
+        "description": "An unexplained spate of suicides by skill users worldwide has sent the Armed Detective Agency on a search for Tatsuhiko Shibusawa, a mysterious skill user who may be connected. Each incident occurs under the blanket of a thick fog...just like the one descending on Yokohama. Kyōka Izumi and Atsushi Nakajima are hot on Shibusawa's heels when they run into their enemy Ryūnosuke Akutagawa-but this time, the three share the same goal: Find Shibusawa and save Yokohama from certain destruction!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Hiro Iwahata",
+        "illustrator": "Ganjii",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2018-03-10"
+            },
+            {
+                "region": "us",
+                "dateStart": "2020-12-29"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 276
+            },
+            {
+                "region": "us",
+                "amount": 208
+            }
+        ],
+        "chapters": 6,
+        "image": "./media/dead-apple-novel.webp"
+    },
+    {
+        "id": "age-fifteen-novel",
+        "name": "Bungo Stray Dogs: Dazai, Chūya, Age Fifteen",
+        "japaneseName": "文豪ストレイドッグス 太宰、中也、十五歳",
+        "description": "Not long after Ōgai Mori takes the reins of the Port Mafia, his accomplice Osamu Dazai has a dreadful run in with Chūya Nakahara, a boy known as the Sheep King who is capable of manipulating gravity. But when strange rumors about the mysterious being Arahabaki start spreading throughout Yokohama, the duo must put aside their differences and get to the bottom of things. Before they achieved infamy as the fearsome pairing Twin Dark, Dazai and Chūya were just boys. Was their first encounter a harbinger of hope, or an ill omen of things to come…?",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2019-08-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2022-01-18"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 196
+            },
+            {
+                "region": "us",
+                "amount": 224
+            }
+        ],
+        "chapters": 6,
+        "image": "./media/age-fifteen-novel.webp"
+    },
+    {
+        "id": "beast-novel",
+        "name": "Bungo Stray Dogs: BEAST",
+        "japaneseName": "文豪ストレイドッグス ＢＥＡＳＴ",
+        "description": "What if the Port Mafia's Hellhound, Ryunosuke Akutagawa, had joined the Armed Detective Agency? Likewise, what if Atsushi Nakajima belonged to the Port Mafia? In the parallel world of Bungo Stray Dogs: Beast, fledgling detective Akutagawa's desperate mission to rescue his younger sister from the Port Mafia's clutches brings him face-to-face with the organization's fearsome White Reaper…a.k.a. Atsushi Nakajima. What does fate have in store for the two beasts in this alternate tale of darkness versus light…?",
+        "category": "novel",
+        "genres": ["action", "mystery", "drama", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2019-04-01"
+            },
+            {
+                "region": "us",
+                "dateStart": "2021-05-25"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 244
+            },
+            {
+                "region": "us",
+                "amount": 176
+            }
+        ],
+        "chapters": 4,
+        "image": "./media/beast-novel.webp"
+    },
+    {
+        "id": "storm-bringer-novel",
+        "name": "Bungo Stray Dogs: STORM BRINGER",
+        "japaneseName": "文豪ストレイドッグス ＳＴＯＲＭ ＢＲＩＮＧＥＲ",
+        "description": "It's been roughly one year since Chūya Nakahara joined the Port Mafia, and he's got his sights set on an executive position. But as he makes plans to move up, a man by the name of Paul Verlaine—claiming to be his older brother—appears and vows to assassinate everyone he cares about! Now, Chūya must team up with Adam, a European A.I. investigator, to stop this lunatic before the storm swallows Yokohama once again…",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2021-02-27"
+            },
+            {
+                "region": "us",
+                "dateStart": "2022-06-21"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 484
+            },
+            {
+                "region": "us",
+                "amount": 356
+            }
+        ],
+        "chapters": 4,
+        "image": "./media/storm-bringer-novel.webp"
+    },
+    {
+        "id": "took-in-dazai-novel",
+        "name": "Bungo Stray Dogs: The Day I Took In Dazai",
+        "japaneseName": "文豪ストレイドッグス　太宰を拾った日",
+        "description": "One day, deliveryman Sakunosuke Oda finds a boy at his doorstep on the brink of death. His name is Osamu Dazai, and he is a member of the Port Mafia—the very embodiment of darkness and violence. Thus begins a peculiar living arrangement: Oda, who cares for the boy, and Dazai, who longs to die. But what will become of their newfound connection when a gang of former police officers known as the 48 attack them in search of a certain painting...?!",
+        "category": "novel",
+        "genres": ["action", "mystery", "supernatural"],
+        "writer": "Kafka Asagiri",
+        "illustrator": "Sango Harukawa",
+        "publishers": [
+            { "region": "jp", "name": "Kadokawa Shoten" },
+            { "region": "us", "name": "Yen Press" }
+        ],
+        "releaseDates": [
+            {
+                "region": "jp",
+                "dateStart": "2023-12-28"
+            },
+            {
+                "region": "us",
+                "dateStart": "2026-03-10"
+            }
+        ],
+        "pages": [
+            {
+                "region": "jp",
+                "amount": 164
+            },
+            {
+                "region": "us",
+                "amount": 116
+            }
+        ],
+        "chapters": 2,
+        "image": "./media/took-in-dazai-novel.webp"
+    },
+    {
+        "id": "dead-apple-movie",
+        "name": "Bungo Stray Dogs: DEAD APPLE (Movie)",
+        "japaneseName": "文豪ストレイドッグス DEAD APPLE",
+        "description": "Ability users around the world begin dying in a series of mysterious incidents, each occurring after a strange fog appears at the scene. At the request of Ango Sakaguchi, the Armed Detective Agency investigates Tatsuhiko Shibusawa, an ability user known as the \"Collector\" who is suspected of being connected to the incidents. As the mysterious fog descends upon Yokohama, Atsushi and the others find themselves facing a threat unlike anything they have encountered before.",
+        "category": "anime",
+        "type": "movie",
+        "genres": ["action", "mystery", "supernatural"],
+        "studio": ["Bones"],
+        "director": "Takuya Igarashi",
+        "releaseDates": [
+            {
+                "region": "jp",
+                "date": "2018-03-03"
+            },
+            {
+                "region": "us",
+                "date": "2018-11-01"
+            }
+        ],
+        "runtime": 90,
+        "image": "./media/dead-apple-movie.webp"
+    },
+    {
+        "id": "beast-live-action",
+        "name": "Bungo Stray Dogs the Movie: BEAST",
+        "japaneseName": "映画「文豪ストレイドッグス　ＢＥＡＳＴ」",
+        "description": "In an alternate version of Yokohama, Ryūnosuke Akutagawa is searching for his younger sister, Gin, who was taken from him years ago. His pursuit eventually leads him to the Armed Detective Agency, while Atsushi Nakajima serves as the Port Mafia's feared White Reaper. As the two cross paths on opposing sides, Akutagawa is drawn deeper into a world shaped by familiar people living very different lives, and toward a confrontation with the mysterious leader of the Port Mafia.",
+        "category": "live-action",
+        "type": "movie",
+        "genres": ["action", "mystery", "drama", "supernatural"],
+        "director": "Kōichi Sakamoto",
+        "script": "Kafka Asagiri",
+        "releaseDates": [
+            {
+                "region": "jp",
+                "date": "2022-01-07"
+            }
+        ],
+        "runtime": 118,
+        "image": "./media/beast-live-action.webp"
+    },
+    {
+        "id": "bsd-stage-play",
+        "name": "Bungo Stray Dogs on Stage",
+        "japaneseName": "舞台「文豪ストレイドッグス」",
+        "description": "The first stage play adaptation of Bungo Stray Dogs follows Atsushi Nakajima from his encounter with the Armed Detective Agency and introduction to the world of ability users through the Agency's early conflict with the Port Mafia, culminating in Atsushi and Akutagawa's confrontation aboard a cargo ship.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Tadashi Ogasano",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2017-12-22",
+                "dateEnd": "2017-12-24",
+                "location": "Kanagawa Arts Theater Hall"
+            },
+            {
+                "dateStart": "2018-01-12",
+                "dateEnd": "2018-01-13",
+                "location": "Morinomiya Piloti Hall"
+            },
+            {
+                "dateStart": "2018-01-31",
+                "dateEnd": "2018-02-04",
+                "location": "Tokyo AiiA 2.5 Theater"
+            }
+        ],
+        "runtime": 137,
+        "image": "./media/bsd-stage-play.webp"
+    },
+    {
+        "id": "dark-era-stage-play",
+        "name": "Bungo Stray Dogs on Stage: Dark Era",
+        "japaneseName": "舞台「文豪ストレイドッグス 黒の時代」",
+        "description": "Bungo Stray Dogs on Stage: Dark Era is the second stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Tadashi Ogasano",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2018-09-22",
+                "dateEnd": "2018-10-18",
+                "location": "Sunshine Theater"
+            },
+            {
+                "dateStart": "2018-10-13",
+                "dateEnd": "2018-10-14",
+                "location": "Morinomiya Piloti Hall"
+            }
+        ],
+        "runtime": 110,
+        "image": "./media/dark-era-stage-play.webp"
+    },
+    {
+        "id": "three-companies-stage-play",
+        "name": "Bungo Stray Dogs on Stage: Three Companies Conflict",
+        "japaneseName": "舞台「文豪ストレイドッグス 三社鼎立」",
+        "description": "Bungo Stray Dogs on Stage: Three Companies Conflict is the third stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Tadashi Ogasano",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2019-06-08",
+                "dateEnd": "2019-06-09",
+                "location": "Hokujoshi Bunkakoryu Center Sakura Hall"
+            },
+            {
+                "dateStart": "2019-06-14",
+                "dateEnd": "2019-06-16",
+                "location": "Kurume City Plaza Grand Hall"
+            },
+            {
+                "dateStart": "2019-06-21",
+                "dateEnd": "2019-06-22",
+                "location": "Nagoya Civic Assembly Hall"
+            },
+            {
+                "dateStart": "2019-06-27",
+                "dateEnd": "2019-06-30",
+                "location": "Morinomiya Piloti Hall"
+            },
+            {
+                "dateStart": "2019-07-03",
+                "dateEnd": "2019-07-10",
+                "location": "Japan Youth Hall"
+            }
+        ],
+        "runtime": 135,
+        "image": "./media/three-companies-stage-play.webp"
+    },
+    {
+        "id": "untold-origins-stage-play",
+        "name": "Bungo Stray Dogs on Stage: Untold Origins of the Detective Agency ・ Osamu Dazai's Entrance Exam",
+        "japaneseName": "舞台「文豪ストレイドッグス 序はしがき」探偵社設立秘話・太宰治の入社試験",
+        "description": "Bungo Stray Dogs on Stage Hashigaki: Untold Origins of the Detective Agency・Bungo Stray Dogs: Osamu Dazai's Entrance Exam is the fourth stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Norihito Nakayashiki",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2020-09-11",
+                "dateEnd": "2020-09-27",
+                "location": "OWL SPOT Tokyo Theater"
+            }
+        ],
+        "runtime": 90,
+        "image": "./media/untold-origins-stage-play.webp"
+    },
+    {
+        "id": "dead-apple-stage-play",
+        "name": "Bungo Stray Dogs on Stage: DEAD APPLE",
+        "japaneseName": "舞台「文豪ストレイドッグス」DEAD APPLE",
+        "description": "Bungo Stray Dogs on Stage: DEAD APPLE is the fifth stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Kafka Asagiri",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2021-04-16",
+                "dateEnd": "2021-04-18",
+                "location": "Cool Japan Park Osaka WW Hall"
+            },
+            {
+                "dateStart": "2021-04-23",
+                "dateEnd": "2021-05-05",
+                "location": "Nippon Seinenkan Hall"
+            }
+        ],
+        "runtime": 105,
+        "image": "./media/dead-apple-stage-play.webp"
+    },
+    {
+        "id": "age-fifteen-stage-play",
+        "name": "Bungo Stray Dogs on Stage: Dazai, Chūya, Age Fifteen",
+        "japaneseName": "舞台「文豪ストレイドッグス 太宰、中也、十五歳」",
+        "description": "Bungo Stray Dogs on Stage: Dazai, Chūya, Age Fifteen is the sixth stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Norihito Nakayashiki",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2021-10-05",
+                "dateEnd": "2021-10-12",
+                "location": "Yomiuri Otemachi Hall"
+            },
+            {
+                "dateStart": "2021-10-16",
+                "dateEnd": "2021-10-17",
+                "location": "Osaka COOL JAPAN PARK OSAKA WW Hall"
+            },
+            {
+                "dateStart": "2021-10-21",
+                "dateEnd": "2021-10-24",
+                "location": "Theater 1010 Hall"
+            }
+        ],
+        "runtime": 90,
+        "image": "./media/age-fifteen-stage-play.webp"
+    },
+    {
+        "id": "storm-bringer-stage-play",
+        "name": "Bungo Stray Dogs on Stage: STORM BRINGER",
+        "japaneseName": "舞台「文豪ストレイドッグス STORM BRINGER」",
+        "description": "Bungo Stray Dogs on Stage: STORM BRINGER is the seventh stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Norihito Nakayashiki",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2022-06-24",
+                "dateEnd": "2022-06-27",
+                "location": "Nippon Seinenkan Hall"
+            },
+            {
+                "dateStart": "2022-07-02",
+                "dateEnd": "2022-07-03",
+                "location": "Higashiosaka Cultural Creation Hall Dream House Great Hall"
+            }
+        ],
+        "runtime": 130,
+        "image": "./media/storm-bringer-stage-play.webp"
+    },
+    {
+        "id": "cannibalism-stage-play",
+        "name": "Bungo Stray Dogs on Stage: Cannibalism",
+        "japaneseName": "舞台 「文豪ストレイドッグス 共喰い」",
+        "description": "Bungo Stray Dogs on Stage: Cannibalism is the eighth and final stage play adaptation of the Bungo Stray Dogs series.",
+        "category": "stage-play",
+        "director": "Norihito Nakayashiki",
+        "script": "Norihito Nakayashiki",
+        "production": ["BANDAI NAMCO Live Creative", "Gorch Brothers"],
+        "performances": [
+            {
+                "dateStart": "2023-06-09",
+                "dateEnd": "2023-06-11",
+                "location": "Cool Japan Park Osaka WW Hall"
+            },
+            {
+                "dateStart": "2023-06-22",
+                "dateEnd": "2023-07-02",
+                "location": "Nippon Seinenkan Hall"
+            }
+        ],
+        "runtime": 130,
+        "image": "./media/cannibalism-stage-play.webp"
+    }
+]
