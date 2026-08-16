@@ -1,0 +1,758 @@
+[
+    {
+        "id": "bsd-original-soundtrack-1",
+        "name": "Bungo Stray Dogs Original Soundtrack 1",
+        "composers": ["Taku Iwasaki", "Masaaki Iizuka", "PON"],
+        "releaseDate": "2016-07-29",
+        "mediaId": "bsd-anime",
+        "seasons": [1],
+        "tracks": [
+            {
+                "number": 1,
+                "name": "Good For Nothing",
+                "japaneseName": null
+            },
+            {
+                "number": 2,
+                "name": "Otoko to Onna",
+                "japaneseName": "男と女"
+            },
+            {
+                "number": 3,
+                "name": "Ochazuke Don!",
+                "japaneseName": "御茶漬ドン!"
+            },
+            {
+                "number": 4,
+                "name": "Haji no Ōi Shōgai wo,,!",
+                "japaneseName": "恥の多い生涯を、、"
+            },
+            {
+                "number": 5,
+                "name": "Shikkaku",
+                "japaneseName": "失格"
+            },
+            {
+                "number": 6,
+                "name": "Sore wa Hajimatte Iru",
+                "japaneseName": "それは始まっている"
+            },
+            {
+                "number": 7,
+                "name": "Inō no Susume",
+                "japaneseName": "異能ノススメ"
+            },
+            {
+                "number": 8,
+                "name": "Edogawa Kitan",
+                "japaneseName": "江戸川奇譚"
+            },
+            {
+                "number": 9,
+                "name": "Spider Web",
+                "japaneseName": null
+            },
+            {
+                "number": 10,
+                "name": "River Side Mafia",
+                "japaneseName": null
+            },
+            {
+                "number": 11,
+                "name": "Furachi",
+                "japaneseName": "不埒"
+            },
+            {
+                "number": 12,
+                "name": "Hashire Atsushi!",
+                "japaneseName": "走れ敦!"
+            },
+            {
+                "number": 13,
+                "name": "Kimi Shinitamō Koto Nakare",
+                "japaneseName": "君死にたまふことなかれ"
+            },
+            {
+                "number": 14,
+                "name": "Kore wa Koi?",
+                "japaneseName": "これは恋?"
+            },
+            {
+                "number": 15,
+                "name": "Fujō",
+                "japaneseName": "不浄"
+            },
+            {
+                "number": 16,
+                "name": "Rashōmon",
+                "japaneseName": "羅生門"
+            },
+            {
+                "number": 17,
+                "name": "Leaping Wings",
+                "japaneseName": null
+            },
+            {
+                "number": 18,
+                "name": "Kokoro Furueker",
+                "japaneseName": "こころ ふるえけり"
+            },
+            {
+                "number": 19,
+                "name": "Eye Of The Tiger",
+                "japaneseName": null
+            },
+            {
+                "number": 20,
+                "name": "Busō Tantei-sha",
+                "japaneseName": "武装探偵社"
+            },
+            {
+                "number": 21,
+                "name": "TRASH CANDY",
+                "japaneseName": null,
+                "musicId": "trash-candy"
+            },
+            {
+                "number": 22,
+                "name": "Namae wo Yobu yo",
+                "japaneseName": "名前を呼ぶよ",
+                "musicId": "namae-wo-yobu-yo"
+            }
+        ]
+    },
+    {
+        "id": "bsd-original-soundtrack-2",
+        "name": "Bungo Stray Dogs Original Soundtrack 2",
+        "composers": ["Taku Iwasaki", "Masatomo Ōta", "PON"],
+        "releaseDate": "2016-12-28",
+        "mediaId": "bsd-anime",
+        "seasons": [2],
+        "tracks": [
+            {
+                "number": 1,
+                "name": "Scarlet Sky",
+                "japaneseName": null
+            },
+            {
+                "number": 2,
+                "name": "Kyōchikutō",
+                "japaneseName": "夾竹桃"
+            },
+            {
+                "number": 3,
+                "name": "Dormito Bene",
+                "japaneseName": null
+            },
+            {
+                "number": 4,
+                "name": "Shōbi",
+                "japaneseName": "焦眉"
+            },
+            {
+                "number": 5,
+                "name": "Bungō AcidJazz",
+                "japaneseName": "文豪AcidJazz"
+            },
+            {
+                "number": 6,
+                "name": "Utsu Nikki",
+                "japaneseName": "鬱日記"
+            },
+            {
+                "number": 7,
+                "name": "Shūbi",
+                "japaneseName": "愁眉"
+            },
+            {
+                "number": 8,
+                "name": "Shin'en",
+                "japaneseName": "深淵"
+            },
+            {
+                "number": 9,
+                "name": "Aa Erisu",
+                "japaneseName": "嗚呼ヱリス"
+            },
+            {
+                "number": 10,
+                "name": "Aru Q",
+                "japaneseName": "或Q"
+            },
+            {
+                "number": 11,
+                "name": "Musashino Maach",
+                "japaneseName": "武蔵野マアチ"
+            },
+            {
+                "number": 12,
+                "name": "Bungō Rokku 645",
+                "japaneseName": "文豪ロック645"
+            },
+            {
+                "number": 13,
+                "name": "Batalha",
+                "japaneseName": null
+            },
+            {
+                "number": 14,
+                "name": "Kante",
+                "japaneseName": null
+            },
+            {
+                "number": 15,
+                "name": "Ai to Gikō",
+                "japaneseName": "愛と技巧"
+            },
+            {
+                "number": 16,
+                "name": "Ojoku",
+                "japaneseName": null
+            },
+            {
+                "number": 17,
+                "name": "Bungō Kōkyōkyoku Dai 1-ban 1 Gakushō Kumiai",
+                "japaneseName": "文豪交響曲第1番 1楽章 組合"
+            },
+            {
+                "number": 18,
+                "name": "Bungō Kōkyōkyoku Dai 1-ban 2 Gakushō Kujira",
+                "japaneseName": "文豪交響曲第1番 2楽章 鯨"
+            },
+            {
+                "number": 19,
+                "name": "Bungō Kōkyōkyoku Dai 1-ban 3 Gakushō Yokohama",
+                "japaneseName": "文豪交響曲第1番 3楽章 横浜"
+            },
+            {
+                "number": 20,
+                "name": "Tomo to Iu Mono",
+                "japaneseName": "友といふもの"
+            },
+            {
+                "number": 21,
+                "name": "Reason Living",
+                "japaneseName": null,
+                "musicId": "reason-living"
+            },
+            {
+                "number": 22,
+                "name": "Kaze ga Fuku Machi",
+                "japaneseName": null,
+                "musicId": "kaze-ga-fuku-machi"
+            }
+        ]
+    },
+    {
+        "id": "bsd-original-soundtrack-3",
+        "name": "Bungo Stray Dogs Original Soundtrack 3",
+        "composers": ["Taku Iwasaki", "Masaaki Iizuka", "PON"],
+        "releaseDate": "2019-07-31",
+        "mediaId": "bsd-anime",
+        "seasons": [3],
+        "tracks": [
+            {
+                "number": 1,
+                "name": "Violette Irise",
+                "japaneseName": null
+            },
+            {
+                "number": 2,
+                "name": "Arahabaki",
+                "japaneseName": "アラハバキ"
+            },
+            {
+                "number": 3,
+                "name": "Randō to Iu Otoko Sono Ichi",
+                "japaneseName": "蘭堂と云フ男 其の一"
+            },
+            {
+                "number": 4,
+                "name": "Yokohama Urei,,",
+                "japaneseName": "横浜憂ヒ、、"
+            },
+            {
+                "number": 5,
+                "name": "Randō to Iu Otoko Sono Ni",
+                "japaneseName": "蘭堂と云フ男 其の二"
+            },
+            {
+                "number": 6,
+                "name": "Honoka ni",
+                "japaneseName": "仄かに"
+            },
+            {
+                "number": 7,
+                "name": "Ulmoi",
+                "japaneseName": null
+            },
+            {
+                "number": 8,
+                "name": "Mōsō Tengoku",
+                "japaneseName": "妄想天国"
+            },
+            {
+                "number": 9,
+                "name": "Tsuiraku-en",
+                "japaneseName": "墜落園"
+            },
+            {
+                "number": 10,
+                "name": "Gōman to Chikara",
+                "japaneseName": "傲慢と力"
+            },
+            {
+                "number": 11,
+                "name": "Tei Gen de Zugo",
+                "japaneseName": "低弦でズゴッ"
+            },
+            {
+                "number": 12,
+                "name": "Chero to Piano no Tame no \"Shi no Tori\"",
+                "japaneseName": "チェロとピアノの為の「死の鳥」"
+            },
+            {
+                "number": 13,
+                "name": "Gengaku Ōkesutora to Hāpu no Tame no \"Shi no Tori\"",
+                "japaneseName": "弦楽オーケストラとハープの為の「死の鳥」"
+            },
+            {
+                "number": 14,
+                "name": "Teinen",
+                "japaneseName": "諦念"
+            },
+            {
+                "number": 15,
+                "name": "Wagahai wa Nuko dearu",
+                "japaneseName": "我輩はヌコである"
+            },
+            {
+                "number": 16,
+                "name": "Mikao to Tāpi",
+                "japaneseName": "ミカオとターピ"
+            },
+            {
+                "number": 17,
+                "name": "Butai \"Bungō Stray Dogs\" Yō Ongaku",
+                "japaneseName": "舞台「文豪ストレイドッグス」用音楽"
+            },
+            {
+                "number": 18,
+                "name": "Bungō 0",
+                "japaneseName": "文豪0"
+            },
+            {
+                "number": 19,
+                "name": "Setsuna no Ai",
+                "japaneseName": "セツナの愛",
+                "musicId": "setsuna-no-ai"
+            },
+            {
+                "number": 20,
+                "name": "Lily",
+                "japaneseName": null,
+                "musicId": "lily"
+            }
+        ]
+    },
+    {
+        "id": "bsd-wan-original-soundtrack",
+        "name": "Bungo Stray Dogs Wan! Original Soundtrack",
+        "composers": ["Taku Iwasaki"],
+        "releaseDate": "2021-03-24",
+        "mediaId": "bsd-wan-anime",
+        "tracks": [
+            {
+                "number": 1,
+                "name": "Mafia",
+                "japaneseName": "マフィア"
+            },
+            {
+                "number": 2,
+                "name": "Nyanyanya",
+                "japaneseName": "ニャニャニャ"
+            },
+            {
+                "number": 3,
+                "name": "Sore Ike! Gekka Neko",
+                "japaneseName": "それ行け！月下猫"
+            },
+            {
+                "number": 4,
+                "name": "Relax",
+                "japaneseName": null
+            },
+            {
+                "number": 5,
+                "name": "Ōpuningu Taitoru Wan!",
+                "japaneseName": "オープニングタイトルわん！"
+            },
+            {
+                "number": 6,
+                "name": "PAM PAM PAM",
+                "japaneseName": null
+            },
+            {
+                "number": 7,
+                "name": "The Lockerroom",
+                "japaneseName": null
+            },
+            {
+                "number": 8,
+                "name": "Boo-chit!",
+                "japaneseName": null
+            },
+            {
+                "number": 9,
+                "name": "Ā, Karamawari",
+                "japaneseName": "ああ、空回り"
+            },
+            {
+                "number": 10,
+                "name": "Aware Tachihara",
+                "japaneseName": "哀れ　立原"
+            },
+            {
+                "number": 11,
+                "name": "Ojū no tō",
+                "japaneseName": "御重の塔"
+            },
+            {
+                "number": 12,
+                "name": "TANPOPO Tat",
+                "japaneseName": null
+            },
+            {
+                "number": 13,
+                "name": "O Hanami",
+                "japaneseName": "お花見"
+            },
+            {
+                "number": 14,
+                "name": "Ping-fu",
+                "japaneseName": null
+            },
+            {
+                "number": 15,
+                "name": "The City",
+                "japaneseName": null
+            },
+            {
+                "number": 16,
+                "name": "Higuchi wa Tonchinkan",
+                "japaneseName": "樋口はトンチンカン"
+            },
+            {
+                "number": 17,
+                "name": "Monoganashiki wa",
+                "japaneseName": "物悲しきは"
+            },
+            {
+                "number": 18,
+                "name": "Continue",
+                "japaneseName": null
+            },
+            {
+                "number": 19,
+                "name": "Takuo no Sakkusu, Taku no Gitā",
+                "japaneseName": "タクオのサックス、タクのギター"
+            },
+            {
+                "number": 20,
+                "name": "Yūran-sen",
+                "japaneseName": "遊覧船"
+            },
+            {
+                "number": 21,
+                "name": "Kyō mo Genki ni Koshi o Fure",
+                "japaneseName": "今日も元気に腰を振れ"
+            },
+            {
+                "number": 22,
+                "name": "Pavu~nu wan!",
+                "japaneseName": "パヴァーヌわん！"
+            },
+            {
+                "number": 23,
+                "name": "Kaze ga Fuku Machi ~ wan! Ver.~",
+                "japaneseName": "風が吹く街～わん！ver.～"
+            },
+            {
+                "number": 24,
+                "name": "Ekaki Uta Wan!",
+                "japaneseName": "絵描き歌わん！"
+            },
+            {
+                "number": 25,
+                "name": "Namae wo Yobu yo ~ Nakajima Atsushi ver.~",
+                "japaneseName": "名前を呼ぶよ～中島 敦ver.～"
+            }
+        ]
+    },
+    {
+        "id": "bsd-original-soundtrack-4-5",
+        "name": "Bungo Stray Dogs Original Soundtrack 4・5",
+        "composers": ["Taku Iwasaki", "Masaaki Iizuka", "PON"],
+        "releaseDate": "2023-10-25",
+        "mediaId": "bsd-anime",
+        "seasons": [4, 5],
+        "tracks": [
+            {
+                "number": 1,
+                "name": "OP.19 No.3",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 2,
+                "name": "The five elements",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 3,
+                "name": "Ｖ",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 4,
+                "name": "Grey moustache I",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 5,
+                "name": "Grey moustache II",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 6,
+                "name": "Upper body and cross",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 7,
+                "name": "The end of the plot",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 8,
+                "name": "The war scars",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 9,
+                "name": "Trauma",
+                "japaneseName": null,
+                "disc": 1
+            },
+            {
+                "number": 10,
+                "name": "TRUE STORY",
+                "japaneseName": null,
+                "musicId": "true-story",
+                "disc": 1
+            },
+            {
+                "number": 11,
+                "name": "Shirushi",
+                "japaneseName": null,
+                "musicId": "shirushi",
+                "disc": 1
+            },
+            {
+                "number": 1,
+                "name": "Grovel",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 2,
+                "name": "Grey moustache III",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 3,
+                "name": "Grey moustache IV",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 4,
+                "name": "The crack",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 5,
+                "name": "One Order",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 6,
+                "name": "What is justice?",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 7,
+                "name": "Pump and innocent",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 8,
+                "name": "Code battle",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 9,
+                "name": "Sense of despair",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 10,
+                "name": "Unreturnable",
+                "japaneseName": null,
+                "disc": 2
+            },
+            {
+                "number": 11,
+                "name": "Tetsu no Ori",
+                "japaneseName": "鉄の檻",
+                "musicId": "tetsu-no-ori",
+                "disc": 2
+            },
+            {
+                "number": 12,
+                "name": "Kiseki",
+                "japaneseName": "軌跡",
+                "musicId": "kiseki",
+                "disc": 2
+            }
+        ]
+    },
+    {
+        "id": "bsd-dead-apple-original-soundtrack",
+        "name": "Bungo Stray Dogs DEAD APPLE Original Soundtrack",
+        "composers": ["Taku Iwasaki"],
+        "releaseDate": "2018-03-03",
+        "mediaId": "dead-apple-movie",
+        "tracks": [
+            {
+                "number": 1,
+                "name": "Get Down",
+                "japaneseName": null
+            },
+            {
+                "number": 2,
+                "name": "Scarlet Sky (Piano Ver.)",
+                "japaneseName": null
+            },
+            {
+                "number": 3,
+                "name": "Dense Fog",
+                "japaneseName": null
+            },
+            {
+                "number": 4,
+                "name": "Dear Prince",
+                "japaneseName": null
+            },
+            {
+                "number": 5,
+                "name": "Chōshō",
+                "japaneseName": "徴証"
+            },
+            {
+                "number": 6,
+                "name": "Akumu",
+                "japaneseName": "悪霧"
+            },
+            {
+                "number": 7,
+                "name": "Silent Killer",
+                "japaneseName": null
+            },
+            {
+                "number": 8,
+                "name": "Fuyō",
+                "japaneseName": "芙蓉"
+            },
+            {
+                "number": 9,
+                "name": "Le Cheval Noir",
+                "japaneseName": null
+            },
+            {
+                "number": 10,
+                "name": "Rihan",
+                "japaneseName": "離叛"
+            },
+            {
+                "number": 11,
+                "name": "Korekutaa",
+                "japaneseName": "コレクタア"
+            },
+            {
+                "number": 12,
+                "name": "Datō Subeki wa,,",
+                "japaneseName": "打倒すべきは、、"
+            },
+            {
+                "number": 13,
+                "name": "Kichaku",
+                "japaneseName": "帰着"
+            },
+            {
+                "number": 14,
+                "name": "Kokoro no Kizu",
+                "japaneseName": "心の傷"
+            },
+            {
+                "number": 15,
+                "name": "Mein Prinz",
+                "japaneseName": null
+            },
+            {
+                "number": 16,
+                "name": "The Door",
+                "japaneseName": null
+            },
+            {
+                "number": 17,
+                "name": "Dead Apple",
+                "japaneseName": null
+            },
+            {
+                "number": 18,
+                "name": "Wake Up Call",
+                "japaneseName": null
+            },
+            {
+                "number": 19,
+                "name": "Nestiio",
+                "japaneseName": null
+            },
+            {
+                "number": 20,
+                "name": "Yami no Naka kara",
+                "japaneseName": "闇の中から"
+            },
+            {
+                "number": 21,
+                "name": "Ando",
+                "japaneseName": "安堵"
+            }
+        ]
+    }
+]
