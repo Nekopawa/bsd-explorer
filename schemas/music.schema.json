@@ -1,0 +1,192 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/music.schema.json",
+    "title": "Music",
+    "description": "Music used in different media throughout the BSD universe.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Music in a BSD media.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The unique identifier of the song.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "type": {
+                "type": "string",
+                "description": "The type of music used in the media.",
+                "enum": [
+                    "opening-theme",
+                    "ending-theme",
+                    "insert-song",
+                    "theme-song",
+                    "character-song"
+                ]
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the song.",
+                "minLength": 1
+            },
+            "artist": {
+                "type": "string",
+                "description": "The artist/band performing the song.",
+                "minLength": 1
+            },
+            "lyricists": {
+                "type": "array",
+                "description": "The lyricists responsible for the song lyrics.",
+                "items": {
+                    "type": "string",
+                    "description": "One of the lyricists responsible for the song lyrics.",
+                    "minLength": 1
+                },
+                "minItems": 1
+            },
+            "composers": {
+                "type": "array",
+                "description": "The composers involved in the song composition.",
+                "items": {
+                    "type": "string",
+                    "description": "One of the composers involved in the song composition.",
+                    "minLength": 1
+                },
+                "minItems": 1
+            },
+            "releaseDate": {
+                "type": "string",
+                "description": "The release date of the song.",
+                "format": "date",
+                "minLength": 1
+            },
+            "startingEpisode": {
+                "type": ["integer", "null"],
+                "description": "The first episode of the anime in which the song is featured.",
+                "minimum": 1
+            },
+            "endingEpisode": {
+                "type": ["integer", "null"],
+                "description": "The last episode of the anime in which the song is featured.",
+                "minimum": 1
+            },
+            "openingNumber": {
+                "type": ["integer", "null"],
+                "description": "The number of the opening that features the song.",
+                "minimum": 1
+            },
+            "endingNumber": {
+                "type": ["integer", "null"],
+                "description": "The number of the ending that features the song.",
+                "minimum": 1
+            },
+            "songVideoLink": {
+                "type": ["string", "null"],
+                "description": "The link to the official video associated with the song.",
+                "format": "uri",
+                "minLength": 1
+            },
+            "fullSongLink": {
+                "type": "string",
+                "description": "The link of the original full video by the artist/band performing the song.",
+                "format": "uri",
+                "minLength": 1
+            },
+            "mediaId": {
+                "type": "string",
+                "description": "The ID of the media that features the song.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": ["string", "null"],
+                "description": "The name of the song in japanese.",
+                "minLength": 1
+            },
+            "characterId": {
+                "type": "string",
+                "description": "The ID of the character that inspired the song.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            }
+        },
+        "allOf": [
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "opening-theme"
+                        }
+                    },
+                    "required": ["type"]
+                },
+                "then": {
+                    "required": [
+                        "artist",
+                        "lyricists",
+                        "composers",
+                        "startingEpisode",
+                        "endingEpisode",
+                        "openingNumber",
+                        "songVideoLink"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "ending-theme"
+                        }
+                    },
+                    "required": ["type"]
+                },
+                "then": {
+                    "required": [
+                        "artist",
+                        "lyricists",
+                        "composers",
+                        "startingEpisode",
+                        "endingEpisode",
+                        "endingNumber",
+                        "songVideoLink"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "enum": ["insert-song", "theme-song"]
+                        }
+                    },
+                    "required": ["type"]
+                },
+                "then": {
+                    "required": [
+                        "artist",
+                        "lyricists",
+                        "composers",
+                        "songVideoLink"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "character-song"
+                        }
+                    },
+                    "required": ["type"]
+                },
+                "then": {
+                    "required": ["artist", "composers", "characterId"]
+                }
+            }
+        ],
+        "required": ["id", "type", "name", "releaseDate", "fullSongLink"],
+        "additionalProperties": false
+    }
+}
