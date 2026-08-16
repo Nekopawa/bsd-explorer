@@ -1,0 +1,603 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/media.schema.json",
+    "title": "Media",
+    "description": "All types of media of the BSD universe.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "A media type of the BSD universe.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The unique ID of the media.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the media.",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": "string",
+                "description": "The name of the media in japanese.",
+                "minLength": 1
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the media.",
+                "minLength": 1
+            },
+            "category": {
+                "type": "string",
+                "description": "The category of the media.",
+                "enum": ["manga", "anime", "novel", "live-action", "stage-play"]
+            },
+            "type": {
+                "type": "string",
+                "description": "The type of media.",
+                "enum": ["tv", "ova", "movie"]
+            },
+            "genres": {
+                "type": "array",
+                "description": "The genres of the media.",
+                "items": {
+                    "type": "string",
+                    "description": "One genre of the media.",
+                    "enum": [
+                        "action",
+                        "drama",
+                        "mystery",
+                        "supernatural",
+                        "comedy",
+                        "slice of life"
+                    ]
+                },
+                "uniqueItems": true
+            },
+            "writer": {
+                "type": "string",
+                "description": "The writer of the media.",
+                "minLength": 1
+            },
+            "illustrator": {
+                "type": "string",
+                "description": "The illustrator of the media.",
+                "minLength": 1
+            },
+            "publishers": {
+                "type": "array",
+                "description": "The publishers of the media in each region.",
+                "items": {
+                    "type": "object",
+                    "description": "One publisher of the media.",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region the media was published in.",
+                            "enum": ["jp", "us"]
+                        },
+                        "name": {
+                            "type": "string",
+                            "description": "The name of the publisher.",
+                            "minLength": 1
+                        }
+                    }
+                },
+                "required": ["region", "name"],
+                "additionalProperties": false
+            },
+            "volumes": {
+                "type": "array",
+                "description": "The amount of volumes published in each region.",
+                "items": {
+                    "type": "object",
+                    "description": "The amount of volumes published in the region.",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region the volumes were published in.",
+                            "enum": ["jp", "us"]
+                        },
+                        "amount": {
+                            "type": "integer",
+                            "description": "The amount of volumes published.",
+                            "minimum": 0
+                        }
+                    },
+                    "required": ["region", "amount"],
+                    "additionalProperties": false
+                }
+            },
+            "serialization": {
+                "type": "array",
+                "description": "The date and status of the serialization of the media in each region",
+                "items": {
+                    "type": "object",
+                    "description": "The date and status of the serialization of the media the each region",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region where the serialization is occuring.",
+                            "enum": ["jp", "us"]
+                        },
+                        "dateStart": {
+                            "type": ["string", "null"],
+                            "description": "The starting date of the serialization.",
+                            "format": "date",
+                            "minLength": 1
+                        },
+                        "status": {
+                            "type": "string",
+                            "description": "The status of the serialization.",
+                            "enum": ["completed", "ongoing", "unreleased"]
+                        }
+                    },
+                    "required": ["region", "dateStart", "status"],
+                    "additionalProperties": false
+                }
+            },
+            "releaseDate": {
+                "type": "string",
+                "description": "The release date of the media (used in type: ova)",
+                "format": "date",
+                "minLength": 1
+            },
+            "releaseDates": {
+                "type": "array",
+                "description": "The release dates of the media in each region.",
+                "items": {
+                    "type": "object",
+                    "description": "The release date in the region.",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region the media was published in.",
+                            "enum": ["jp", "us"]
+                        },
+                        "date": {
+                            "type": "string",
+                            "description": "The date when the media was released.",
+                            "format": "date"
+                        },
+                        "dateStart": {
+                            "type": ["string", "null"],
+                            "description": "The date the media started being published.",
+                            "format": "date"
+                        },
+                        "dateEnd": {
+                            "type": ["string", "null"],
+                            "description": "The date the media stopped being published.",
+                            "format": "date"
+                        }
+                    },
+                    "required": ["region"],
+                    "additionalProperties": false
+                }
+            },
+            "statuses": {
+                "type": "array",
+                "description": "The status of the publishing in each region.",
+                "items": {
+                    "type": "object",
+                    "description": "The status of the publishing in the region.",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region of the publishing.",
+                            "enum": ["jp", "us"]
+                        },
+                        "status": {
+                            "type": "string",
+                            "description": "The status of the publishing.",
+                            "enum": ["ongoing", "completed", "unreleased"]
+                        }
+                    },
+                    "required": ["region", "status"],
+                    "additionalProperties": false
+                }
+            },
+            "studio": {
+                "type": "array",
+                "description": "The studio(s) that produced the media.",
+                "items": {
+                    "type": "string",
+                    "description": "The studio that participated in the production of the media.",
+                    "minLength": 1
+                }
+            },
+            "director": {
+                "type": "string",
+                "description": "The director of the media production",
+                "minLength": 1
+            },
+            "episodes": {
+                "type": "integer",
+                "description": "The current amount of episodes released or announced.",
+                "minimum": 0
+            },
+            "seasons": {
+                "type": "array",
+                "description": "The seasons of the media.",
+                "items": {
+                    "type": "object",
+                    "description": "A season of the media.",
+                    "properties": {
+                        "season": {
+                            "type": "integer",
+                            "description": "The number of the season.",
+                            "minimum": 1
+                        },
+                        "dateStart": {
+                            "type": ["string", "null"],
+                            "description": "The date the season started being published.",
+                            "format": "date",
+                            "minLength": 1
+                        },
+                        "dateEnd": {
+                            "type": ["string", "null"],
+                            "description": "The date the season stopped being published.",
+                            "format": "date",
+                            "minLength": 1
+                        },
+                        "episodes": {
+                            "type": "integer",
+                            "description": "The amount of episodes released or announced for the season.",
+                            "minimum": 1
+                        },
+                        "synopsis": {
+                            "type": "string",
+                            "description": "The synopsis of the season.",
+                            "minLength": 1
+                        },
+                        "status": {
+                            "type": "string",
+                            "description": "The current status of the publishing of the season.",
+                            "enum": ["completed", "ongoing", "unreleased"]
+                        },
+                        "image": {
+                            "type": "string",
+                            "description": "The file path of the image of the season.",
+                            "minLength": 1
+                        }
+                    },
+                    "required": [
+                        "season",
+                        "dateStart",
+                        "dateEnd",
+                        "episodes",
+                        "synopsis",
+                        "status",
+                        "image"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "pages": {
+                "type": "array",
+                "description": "The number of pages of the media for each region.",
+                "items": {
+                    "type": "object",
+                    "description": "The amount of pages of the media.",
+                    "properties": {
+                        "region": {
+                            "type": "string",
+                            "description": "The region in which the media was released.",
+                            "enum": ["jp", "us"]
+                        },
+                        "amount": {
+                            "type": "integer",
+                            "description": "The amount of pages of the released media.",
+                            "minimum": 1
+                        }
+                    },
+                    "required": ["region", "amount"],
+                    "additionalProperties": false
+                }
+            },
+            "chapters": {
+                "type": ["integer", "null"],
+                "description": "The amount of chapters of the media.",
+                "minimum": 1
+            },
+            "script": {
+                "type": "string",
+                "description": "The name of the person who wrote the script of the media.",
+                "minLength": 1
+            },
+            "runtime": {
+                "type": "integer",
+                "description": "The runtime of the media.",
+                "minimum": 1
+            },
+            "production": {
+                "type": "array",
+                "description": "The companies involved in the production of the media.",
+                "items": {
+                    "type": "string",
+                    "description": "The company involved in the production of the media.",
+                    "minLength": 1
+                }
+            },
+            "performances": {
+                "type": "array",
+                "description": "The period and location of the performances of the media.",
+                "items": {
+                    "type": "object",
+                    "description": "The period and location of the performance of the media.",
+                    "properties": {
+                        "dateStart": {
+                            "type": "string",
+                            "description": "The starting date of the peformance.",
+                            "format": "date",
+                            "minLength": 1
+                        },
+                        "dateEnd": {
+                            "type": "string",
+                            "description": "The end date of the peformance.",
+                            "format": "date",
+                            "minLength": 1
+                        },
+                        "location": {
+                            "type": "string",
+                            "description": "The location where the performance was executed.",
+                            "minLength": 1
+                        }
+                    },
+                    "required": ["dateStart", "dateEnd", "location"],
+                    "additionalProperties": false
+                }
+            },
+            "image": {
+                "type": "string",
+                "description": "The file path of the image.",
+                "minLength": 1
+            }
+        },
+        "allOf": [
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "movie"
+                        }
+                    },
+                    "required": ["type"]
+                },
+                "then": {
+                    "properties": {
+                        "releaseDates": {
+                            "items": {
+                                "required": ["region", "date"],
+                                "not": {
+                                    "anyOf": [
+                                        { "required": ["dateStart"] },
+                                        { "required": ["dateEnd"] }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "genres",
+                        "director",
+                        "releaseDates",
+                        "runtime"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "anime"
+                        },
+                        "type": {
+                            "const": "movie"
+                        }
+                    },
+                    "required": ["category", "type"]
+                },
+                "then": {
+                    "required": ["studio"]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "enum": ["anime", "live-action"]
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "required": ["type"]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "enum": ["manga", "novel"]
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "properties": {
+                        "releaseDates": {
+                            "items": {
+                                "required": ["region", "dateStart"],
+                                "not": {
+                                    "required": ["date"]
+                                }
+                            }
+                        }
+                    },
+                    "required": ["releaseDates"]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "manga"
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "required": [
+                        "genres",
+                        "writer",
+                        "illustrator",
+                        "publishers",
+                        "volumes",
+                        "releaseDates",
+                        "statuses"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "anime"
+                        },
+                        "type": {
+                            "const": "tv"
+                        }
+                    },
+                    "required": ["category", "type"]
+                },
+                "then": {
+                    "required": [
+                        "genres",
+                        "studio",
+                        "director",
+                        "episodes",
+                        "seasons"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "anime"
+                        },
+                        "type": {
+                            "const": "ova"
+                        }
+                    },
+                    "required": ["category", "type"]
+                },
+                "then": {
+                    "required": [
+                        "genres",
+                        "studio",
+                        "director",
+                        "episodes",
+                        "releaseDate"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "novel"
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "required": [
+                        "genres",
+                        "writer",
+                        "illustrator",
+                        "publishers",
+                        "pages",
+                        "releaseDates",
+                        "chapters"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "live-action"
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "required": ["script"]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "stage-play"
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "required": [
+                        "director",
+                        "script",
+                        "production",
+                        "performances",
+                        "runtime"
+                    ]
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "const": "live-action"
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "properties": {
+                        "type": {
+                            "const": "movie"
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "category": {
+                            "enum": ["manga", "novel", "stage-play"]
+                        }
+                    },
+                    "required": ["category"]
+                },
+                "then": {
+                    "not": {
+                        "required": ["type"]
+                    }
+                }
+            }
+        ],
+        "required": [
+            "id",
+            "name",
+            "japaneseName",
+            "description",
+            "category",
+            "image"
+        ],
+        "additionalProperties": false
+    }
+}

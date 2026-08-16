@@ -335,11 +335,13 @@
                 "amount": 0
             }
         ],
-        "serialization": {
-            "region": "jp",
-            "dateStart": "2026-07-03",
-            "status": "ongoing"
-        },
+        "serialization": [
+            {
+                "region": "jp",
+                "dateStart": "2026-07-03",
+                "status": "ongoing"
+            }
+        ],
         "releaseDates": [
             {
                 "region": "jp",
