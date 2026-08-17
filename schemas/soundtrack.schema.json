@@ -1,0 +1,104 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/soundtrack.schema.json",
+    "title": "Soundtrack",
+    "description": "Soundtrack used in the anime - original and Wan!",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Soundtrack used in the anime - original and Wan!",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "ID of the soundtrack.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "name": {
+                "type": "string",
+                "description": "Name of the soundtrack.",
+                "minLength": 1
+            },
+            "composers": {
+                "type": "array",
+                "description": "Composers involved in the soundtrack.",
+                "items": {
+                    "type": "string",
+                    "description": "The name of the composer.",
+                    "minLength": 1
+                },
+                "minItems": 1
+            },
+            "releaseDate": {
+                "type": "string",
+                "description": "The release date of the soundtrack.",
+                "format": "date",
+                "minLength": 1
+            },
+            "mediaId": {
+                "type": "string",
+                "description": "The ID of the media that features the soundtrack.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "seasons": {
+                "type": ["array", "null"],
+                "description": "The seasons that feature the soundtrack.",
+                "items": {
+                    "type": "integer",
+                    "description": "The number of the season.",
+                    "minimum": 1
+                },
+                "minItems": 1
+            },
+            "tracks": {
+                "type": "array",
+                "description": "The tracks featured in the soundtrack.",
+                "items": {
+                    "type": "object",
+                    "description": "The track featured in the soundtrack.",
+                    "properties": {
+                        "number": {
+                            "type": "integer",
+                            "description": "The number of the track.",
+                            "minimum": 1
+                        },
+                        "name": {
+                            "type": "string",
+                            "description": "The name of the track.",
+                            "minLength": 1
+                        },
+                        "japaneseName": {
+                            "type": ["string", "null"],
+                            "description": "The japanese name of the track.",
+                            "minLength": 1
+                        },
+                        "musicId": {
+                            "type": ["string", "null"],
+                            "description": "The ID of the corresponding song in music.json.",
+                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                        },
+                        "disc": {
+                            "type": ["integer", "null"],
+                            "description": "The number of the disc that features the track.",
+                            "minimum": 1
+                        }
+                    },
+                    "required": ["number", "name", "japaneseName"],
+                    "additionalProperties": false
+                },
+                "minItems": 1
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "composers",
+            "releaseDate",
+            "mediaId",
+            "seasons",
+            "tracks"
+        ],
+        "additionalProperties": false
+    }
+}

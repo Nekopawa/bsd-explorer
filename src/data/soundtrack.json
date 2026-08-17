@@ -361,6 +361,7 @@
         "composers": ["Taku Iwasaki"],
         "releaseDate": "2021-03-24",
         "mediaId": "bsd-wan-anime",
+        "seasons": null,
         "tracks": [
             {
                 "number": 1,
@@ -647,6 +648,7 @@
         "composers": ["Taku Iwasaki"],
         "releaseDate": "2018-03-03",
         "mediaId": "dead-apple-movie",
+        "seasons": null,
         "tracks": [
             {
                 "number": 1,
