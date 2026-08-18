@@ -1,1 +1,464 @@
-[]
+[
+    {
+        "id": "untold-origins",
+        "name": "Untold Origins Arc",
+        "japaneseName": "設立秘話編",
+        "saga": "background",
+        "description": "The Untold Origins Arc is chronologically the first prequal story arc in Bungo Stray Dogs. It tells the story of the first encounter of Yukichi Fukuzawa and Ranpo Edogawa which led to the founding of the Armed Detective Agency.",
+        "sourceMedia": [
+            {
+                "mediaId": "untold-origins-manga",
+                "chapters": {
+                    "start": 1,
+                    "end": null
+                },
+                "volumes": {
+                    "start": 1,
+                    "end": null
+                }
+            },
+            {
+                "mediaId": "untold-origins-novel"
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 38,
+                        "end": 40
+                    }
+                ]
+            }
+        ],
+        "previousArcId": null,
+        "nextArcId": "fifteen"
+    },
+    {
+        "id": "fifteen",
+        "name": "Fifteen Arc",
+        "japaneseName": "十五歳編",
+        "saga": "background",
+        "description": "Fifteen Arc is chronologically the second prequal story arc in Bungo Stray Dogs. It tells the story of how Dazai met Chūya, and eventually joins Port Mafia.",
+        "sourceMedia": [
+            {
+                "mediaId": "age-fifteen-manga",
+                "chapters": {
+                    "start": 1,
+                    "end": 23
+                },
+                "volumes": {
+                    "start": 1,
+                    "end": 4
+                }
+            },
+            {
+                "mediaId": "age-fifteen-novel"
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 26,
+                        "end": 28
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "untold-origins",
+        "nextArcId": "stormbringer"
+    },
+    {
+        "id": "storm-bringer",
+        "name": "STORM BRINGER Arc",
+        "japaneseName": "ＳＴＯＲＭ ＢＲＩＮＧＥＲ編",
+        "saga": "background",
+        "description": "STORM BRINGER Arc is chronologically the third prequal story arc in Bungo Stray Dogs. It tells the story of a sixteen-year-old Chūya, and eventually meets Paul Verlaine.",
+        "sourceMedia": [
+            {
+                "mediaId": "storm-bringer-manga",
+                "chapters": {
+                    "start": 1,
+                    "end": null
+                },
+                "volumes": {
+                    "start": 1,
+                    "end": null
+                }
+            },
+            {
+                "mediaId": "storm-bringer-novel"
+            }
+        ],
+        "previousArcId": "fifteen",
+        "nextArcId": "dark-era"
+    },
+    {
+        "id": "dark-era",
+        "name": "Dark Era Arc",
+        "japaneseName": "黒の時代編",
+        "saga": "background",
+        "description": "Dark Era Arc is chronologically the fourth prequal story arc in Bungo Stray Dogs. It tells the story of Dazai when he is still part of the Port Mafia.",
+        "sourceMedia": [
+            {
+                "mediaId": "dark-era"
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 13,
+                        "end": 16
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "storm-bringer",
+        "nextArcId": "azure-apostle"
+    },
+    {
+        "id": "azure-apostle",
+        "name": "Azure Apostle Arc",
+        "japaneseName": "蒼の使徒編",
+        "saga": "background",
+        "description": "Azure Apostle Arc is chronologically the fifth prequal story arc in Bungo Stray Dogs. It tells the entrance exam of Dazai in order to join the Armed Detective Agency with the help of Doppo Kunikida.",
+        "sourceMedia": [
+            {
+                "mediaId": "dazai-entrance-exam"
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 6,
+                        "end": 7
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "dark-era",
+        "nextArcId": "port-mafia"
+    },
+    {
+        "id": "port-mafia",
+        "name": "Port Mafia Arc",
+        "japaneseName": "ポートマフィア編",
+        "saga": "ability-wars",
+        "description": "The Port Mafia Arc is the first story arc in Bungo Stray Dogs and is the first story arc in the Ability Wars Saga.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 1,
+                    "end": 14
+                },
+                "volumes": {
+                    "start": 1,
+                    "end": 4
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 1,
+                        "end": 5
+                    },
+                    {
+                        "start": 8,
+                        "end": 11
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "azure-apostle",
+        "nextArcId": "the-guild"
+    },
+    {
+        "id": "the-guild",
+        "name": "The Guild Arc",
+        "japaneseName": "組合編",
+        "saga": "ability-wars",
+        "description": "The Guild Arc is the second story arc in Bungo Stray Dogs and is the second story arc in the Ability Wars Saga. It introduces a new group of antagonists, The Guild.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 15,
+                    "end": 37
+                },
+                "volumes": {
+                    "start": 4,
+                    "end": 9
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 12,
+                        "end": 12
+                    },
+                    {
+                        "start": 17,
+                        "end": 24
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "port-mafia",
+        "nextArcId": "the-guild-aftermath"
+    },
+    {
+        "id": "the-guild-aftermath",
+        "name": "The Guild Aftermath Arc",
+        "japaneseName": "組合余波編",
+        "saga": "ability-wars",
+        "description": "The Guild Aftermath Arc is the third story arc in Bungo Stray Dogs and is the third and final story arc in the Ability Wars Saga.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 38,
+                    "end": 45
+                },
+                "volumes": {
+                    "start": 10,
+                    "end": 11
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 25,
+                        "end": 25
+                    },
+                    {
+                        "start": 29,
+                        "end": 32
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "the-guild",
+        "nextArcId": "cannibalism"
+    },
+    {
+        "id": "cannibalism",
+        "name": "Cannibalism Arc",
+        "japaneseName": "共喰い編",
+        "saga": "decay-of-the-angel",
+        "description": "The Cannibalism Arc is the fourth story arc in Bungo Stray Dogs and is the first story arc in the Decay of the Angel Saga. It introduces a new group of antagonists, the Rats in the House of the Dead.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 46,
+                    "end": 53
+                },
+                "volumes": {
+                    "start": 11,
+                    "end": 13
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 33,
+                        "end": 37
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "the-guild-aftermath",
+        "nextArcId": "perfect-crime"
+    },
+    {
+        "id": "perfect-crime",
+        "name": "Perfect Crime Arc",
+        "japaneseName": "完全犯罪編",
+        "saga": "decay-of-the-angel",
+        "description": "The Perfect Crime Arc is the fifth story arc in Bungo Stray Dogs and is the second story arc in the Decay of the Angel Saga. It introduces a new member of the Rats in the House of the Dead in the aftermath of the Cannibalism incident.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 54,
+                    "end": 56
+                },
+                "volumes": {
+                    "start": 13,
+                    "end": 14
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 41,
+                        "end": 42
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "cannibalism",
+        "nextArcId": "hunting-dogs"
+    },
+    {
+        "id": "hunting-dogs",
+        "name": "Hunting Dogs Arc",
+        "japaneseName": "猟犬編",
+        "saga": "decay-of-the-angel",
+        "description": "The Hunting Dogs Arc is the sixth story arc in Bungo Stray Dogs and is the third story arc in the Decay of the Angel Saga. It focuses on the introduction of a new group, the Hunting Dogs.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 57,
+                    "end": 68
+                },
+                "volumes": {
+                    "start": 14,
+                    "end": 16
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 42,
+                        "end": 47
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "perfect-crime",
+        "nextArcId": "sky-casino"
+    },
+    {
+        "id": "sky-casino",
+        "name": "Sky Casino Arc",
+        "japaneseName": "天空カジノ編",
+        "saga": "decay-of-the-angel",
+        "description": "The Sky Casino Arc is the seventh story arc in Bungo Stray Dogs and is the fourth story arc in the Decay of the Angel Saga. It focuses on Sky Casino as the main setting place of the Hunting Dogs pursuit and the Armed Detective Agency's plan on capturing Sigma who knows the page's location.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 69,
+                    "end": 77
+                },
+                "volumes": {
+                    "start": 17,
+                    "end": 18
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 48,
+                        "end": 50
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "hunting-dogs",
+        "nextArcId": "kamui-revelation"
+    },
+    {
+        "id": "kamui-revelation",
+        "name": "Kamui Revelation Arc",
+        "japaneseName": "神威啓示編",
+        "saga": "decay-of-the-angel",
+        "description": "The Kamui Revelation Arc is the eighth story arc in Bungo Stray Dogs and is the fifth story arc in the Decay of the Angel Saga. It focuses on discovering who the Decay of the Angel leader, Kamui, is.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 78,
+                    "end": 87
+                },
+                "volumes": {
+                    "start": 18,
+                    "end": 20
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 51,
+                        "end": 53
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "sky-casino",
+        "nextArcId": "vampire-invasion"
+    },
+    {
+        "id": "vampire-invasion",
+        "name": "Vampire Invasion Arc",
+        "japaneseName": "吸血鬼の侵略編",
+        "saga": "decay-of-the-angel",
+        "description": "The Vampire Invasion Arc is the ninth story arc in Bungo Stray Dogs and is the sixth story arc in the Decay of the Angel Saga. It focuses on the final stage of the Decay of the Angel's plan and the group's fifth and final member.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 88,
+                    "end": 113
+                },
+                "volumes": {
+                    "start": 20,
+                    "end": 25
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 54,
+                        "end": null
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "kamui-revelation",
+        "nextArcId": "resurrection"
+    },
+    {
+        "id": "resurrection",
+        "name": "Resurrection Arc",
+        "japaneseName": "復活編",
+        "saga": "decay-of-the-angel",
+        "description": "The Resurrection Arc is the tenth story arc in Bungo Stray Dogs and is the seventh and final story arc in the Decay of the Angel Saga. It focuses on the eponymous resurrection of Fyodor Dostoevsky through his ability and the setting into motion of his plan of eliminating all of the world's ability users.",
+        "sourceMedia": [
+            {
+                "mediaId": "bsd-manga",
+                "chapters": {
+                    "start": 114,
+                    "end": 129.5
+                },
+                "volumes": {
+                    "start": 25,
+                    "end": 28
+                }
+            },
+            {
+                "mediaId": "bsd-anime",
+                "episodes": [
+                    {
+                        "start": 61,
+                        "end": 61,
+                        "note": "post-credits"
+                    }
+                ]
+            }
+        ],
+        "previousArcId": "vampire-invasion",
+        "nextArcId": null
+    }
+]

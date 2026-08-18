@@ -1,0 +1,57 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/arcs.schema.json",
+    "title": "Story arcs",
+    "description": "All arcs in the BSD series.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "An arc in the BSD series.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The ID of the story arc.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the story arc.",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": "string",
+                "description": "The japanese name of the story arc.",
+                "minLength": 1
+            },
+            "saga": {
+                "type": "string",
+                "description": "The ID of the saga that contains the story arc.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the story arc.",
+                "minLength": 1
+            },
+            "sourceMedia": {
+                "type": "array",
+                "description": "The different medias that displays the story arc.",
+                "items": {},
+                "minItems": 1
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "japaneseName",
+            "saga",
+            "description",
+            "sourceMedia",
+            "previousArcId",
+            "nextArcId"
+        ],
+        "additionalProperties": false
+    }
+}
