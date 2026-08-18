@@ -37,8 +37,104 @@
             },
             "sourceMedia": {
                 "type": "array",
-                "description": "The different medias that displays the story arc.",
-                "items": {},
+                "description": "The different medias that features the story arc.",
+                "items": {
+                    "type": "object",
+                    "description": "The media that feature the story arc.",
+                    "properties": {
+                        "mediaId": {
+                            "type": "string",
+                            "description": "The ID that references the media in media.json.",
+                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                            "minLength": 1
+                        },
+                        "chapters": {
+                            "type": "object",
+                            "description": "The chapters of the manga that feature the story arc.",
+                            "properties": {
+                                "start": {
+                                    "type": "number",
+                                    "description": "The chapter that starts featuring the story arc.",
+                                    "minimum": 0
+                                },
+                                "end": {
+                                    "type": ["number", "null"],
+                                    "description": "The chapter that ends featuring the story arc.",
+                                    "minimum": 0
+                                },
+                                "note": {
+                                    "type": "string",
+                                    "description": "A note about the range of chapters."
+                                }
+                            },
+                            "required": ["start", "end"],
+                            "additionalProperties": false
+                        },
+                        "volumes": {
+                            "type": "object",
+                            "description": "The volumes of the manga that feature the story arc.",
+                            "properties": {
+                                "start": {
+                                    "type": "integer",
+                                    "description": "The volume that starts featuring the story arc.",
+                                    "minimum": 0
+                                },
+                                "end": {
+                                    "type": ["integer", "null"],
+                                    "description": "The volume that ends featuring the story arc.",
+                                    "minimum": 0
+                                },
+                                "note": {
+                                    "type": "string",
+                                    "description": "A note about the range of volumes."
+                                }
+                            },
+                            "required": ["start", "end"],
+                            "additionalProperties": false
+                        },
+                        "episodes": {
+                            "type": "array",
+                            "description": "The ranges of episodes of the anime that feature the story arc.",
+                            "items": {
+                                "type": "object",
+                                "description": "One range of episodes of the anime that features the story arc.",
+                                "properties": {
+                                    "start": {
+                                        "type": "integer",
+                                        "description": "The episode that starts featuring the story arc.",
+                                        "minimum": 1
+                                    },
+                                    "end": {
+                                        "type": ["integer", "null"],
+                                        "description": "The episode that ends featuring the story arc.",
+                                        "minimum": 1
+                                    },
+                                    "note": {
+                                        "type": "string",
+                                        "description": "A note about the range of episodes."
+                                    }
+                                },
+                                "required": ["start", "end"],
+                                "additionalProperties": false
+                            },
+                            "minItems": 1
+                        },
+                        "previousArcId": {
+                            "type": ["string", "null"],
+                            "description": "The ID of the story arc that occurs cronologically before the current one.",
+                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                            "minLength": 1
+                        },
+                        "nextArcId": {
+                            "type": ["string", "null"],
+                            "description": "The ID of the story arc that occurs cronologically after the current one.",
+                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                            "minLength": 1
+                        }
+                    },
+                    "required": ["mediaId"],
+                    "additionalProperties": false
+                },
                 "minItems": 1
             }
         },

@@ -4,7 +4,7 @@
         "name": "Untold Origins Arc",
         "japaneseName": "設立秘話編",
         "saga": "background",
-        "description": "The Untold Origins Arc is chronologically the first prequal story arc in Bungo Stray Dogs. It tells the story of the first encounter of Yukichi Fukuzawa and Ranpo Edogawa which led to the founding of the Armed Detective Agency.",
+        "description": "The Untold Origins Arc is chronologically the first prequel story arc in Bungo Stray Dogs. It tells the story of the first encounter between Yukichi Fukuzawa and Ranpo Edogawa which led to the founding of the Armed Detective Agency.",
         "sourceMedia": [
             {
                 "mediaId": "untold-origins-manga",
@@ -38,7 +38,7 @@
         "name": "Fifteen Arc",
         "japaneseName": "十五歳編",
         "saga": "background",
-        "description": "Fifteen Arc is chronologically the second prequal story arc in Bungo Stray Dogs. It tells the story of how Dazai met Chūya, and eventually joins Port Mafia.",
+        "description": "Fifteen Arc is chronologically the second prequel story arc in Bungo Stray Dogs. It tells the story of how Dazai met Chūya, and eventually joins Port Mafia.",
         "sourceMedia": [
             {
                 "mediaId": "age-fifteen-manga",
@@ -65,14 +65,14 @@
             }
         ],
         "previousArcId": "untold-origins",
-        "nextArcId": "stormbringer"
+        "nextArcId": "storm-bringer"
     },
     {
         "id": "storm-bringer",
         "name": "STORM BRINGER Arc",
         "japaneseName": "ＳＴＯＲＭ ＢＲＩＮＧＥＲ編",
         "saga": "background",
-        "description": "STORM BRINGER Arc is chronologically the third prequal story arc in Bungo Stray Dogs. It tells the story of a sixteen-year-old Chūya, and eventually meets Paul Verlaine.",
+        "description": "STORM BRINGER Arc is chronologically the third prequel story arc in Bungo Stray Dogs. It follows sixteen-year-old Chūya and his encounter with Paul Verlaine.",
         "sourceMedia": [
             {
                 "mediaId": "storm-bringer-manga",
@@ -97,7 +97,7 @@
         "name": "Dark Era Arc",
         "japaneseName": "黒の時代編",
         "saga": "background",
-        "description": "Dark Era Arc is chronologically the fourth prequal story arc in Bungo Stray Dogs. It tells the story of Dazai when he is still part of the Port Mafia.",
+        "description": "Dark Era Arc is chronologically the fourth prequel story arc in Bungo Stray Dogs. It tells the story of Dazai when he was still part of the Port Mafia.",
         "sourceMedia": [
             {
                 "mediaId": "dark-era"
@@ -120,7 +120,7 @@
         "name": "Azure Apostle Arc",
         "japaneseName": "蒼の使徒編",
         "saga": "background",
-        "description": "Azure Apostle Arc is chronologically the fifth prequal story arc in Bungo Stray Dogs. It tells the entrance exam of Dazai in order to join the Armed Detective Agency with the help of Doppo Kunikida.",
+        "description": "Azure Apostle Arc is chronologically the fifth prequel story arc in Bungo Stray Dogs. It tells the story of Dazai's entrance exam to join the Armed Detective Agency with the help of Doppo Kunikida.",
         "sourceMedia": [
             {
                 "mediaId": "dazai-entrance-exam"
