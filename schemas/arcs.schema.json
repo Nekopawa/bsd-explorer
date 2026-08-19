@@ -37,7 +37,7 @@
             },
             "sourceMedia": {
                 "type": "array",
-                "description": "The different medias that features the story arc.",
+                "description": "The different media that feature the story arc.",
                 "items": {
                     "type": "object",
                     "description": "The media that feature the story arc.",
@@ -118,24 +118,24 @@
                                 "additionalProperties": false
                             },
                             "minItems": 1
-                        },
-                        "previousArcId": {
-                            "type": ["string", "null"],
-                            "description": "The ID of the story arc that occurs cronologically before the current one.",
-                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
-                            "minLength": 1
-                        },
-                        "nextArcId": {
-                            "type": ["string", "null"],
-                            "description": "The ID of the story arc that occurs cronologically after the current one.",
-                            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
-                            "minLength": 1
                         }
                     },
                     "required": ["mediaId"],
                     "additionalProperties": false
                 },
                 "minItems": 1
+            },
+            "previousArcId": {
+                "type": ["string", "null"],
+                "description": "The ID of the story arc that occurs chronologically before the current one.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
+            },
+            "nextArcId": {
+                "type": ["string", "null"],
+                "description": "The ID of the story arc that occurs chronologically after the current one.",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "minLength": 1
             }
         },
         "required": [
