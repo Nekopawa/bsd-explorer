@@ -1,0 +1,124 @@
+[
+    {
+        "id": "the-great-war",
+        "name": "The Great War",
+        "japaneseName": "大戦争",
+        "description": "The Great War refers to an intense war that took place in Europe, the stronghold of powerful ability users, namely the Transcendents and Dame Agatha Christie's Order of the Clock Tower. It ended 14 years ago and expanded influence through countries outside of Europe.",
+        "location": "europe",
+        "outcome": ["Standard Island was created."],
+        "casualties": ["Many children became orphaned."],
+        "previousEventId": null,
+        "nextEventId": "arahabaki-incident"
+    },
+    {
+        "id": "arahabaki-incident",
+        "name": "Arahabaki Incident",
+        "japaneseName": "荒覇吐事件",
+        "description": "The Arahabaki Incident or the Impostor Predecessor Incident refers to the incident of the Port Mafia's deceased predecessor appearing in Suribachi City near Yokohama, a plot made by Arthur Rimbaud to lure out the true Arahabaki, Chūya Nakahara. The root of the incident happened eight years ago at the end of the war, where a former national defense force was secretly researching an artificial ability-derived life-form known as Arahabaki.",
+        "location": "suribachi-city",
+        "outcome": ["Arthur Rimbaud's death."],
+        "casualties": [
+            "Various Port Mafia members (alleged)",
+            "Arthur Rimbaud"
+        ],
+        "previousEventId": "the-great-war",
+        "nextEventId": "king-of-assassins-incident"
+    },
+    {
+        "id": "king-of-assassins-incident",
+        "name": "King of Assassins Incident",
+        "japaneseName": "暗殺王事件",
+        "description": "The King of Assassins Incident is a major storyline in the Bungo Stray Dogs light novel/arc Storm Bringer. It centers on the legendary European assassin Paul Verlaine attempting to \"liberate\" Chūya Nakahara.",
+        "location": null,
+        "outcome": ["Death of The Flags.", "The unleashing of Guivre."],
+        "casualties": ["The Flags"],
+        "previousEventId": "arahabaki-incident",
+        "nextEventId": "dragons-head-conflict"
+    },
+    {
+        "id": "dragons-head-conflict",
+        "name": "Dragon's Head Conflict",
+        "japaneseName": "龍頭抗争",
+        "description": "The Dragon's Head Conflict is an underground conflict in Yokohama between various underground organizations. It lasted for 88 days and is labelled as the darkest conflict in Yokohama's history.",
+        "location": "yokohama",
+        "outcome": [
+            "The five orphans are adopted by Sakunosuke Oda.",
+            "Takasekai's leader is killed, leading to the organization's demise.",
+            "\"Twin Dark\" forms."
+        ],
+        "casualties": ["Takasekai's leader"],
+        "previousEventId": "king-of-assassins-incident",
+        "nextEventId": "reigo-island-seventeen-victim-massacre"
+    },
+    {
+        "id": "reigo-island-seventeen-victim-massacre",
+        "name": "Reigo Island Seventeen-Victim Massacre",
+        "japaneseName": "囹圄島の17人虐殺",
+        "description": "The Reigo Island Seventeen-Victim Massacre was the ultimate outcome of the Reigo Island Massacre, which led detective Yukito Ayatsuji to be labeled as a Special A-Grade Dangerous Skill User by the government.",
+        "location": "reigo-island",
+        "outcome": [
+            "Reigo Island Massacre case resolved.",
+            "17 suspects are killed.",
+            "Yukito Ayatsuji is marked as a Special A-Grade threat.",
+            "The Engineer evades arrest and murder."
+        ],
+        "casualties": ["17 islanders"],
+        "previousEventId": "dragons-head-conflict",
+        "nextEventId": "azure-banner-terrorist-incident"
+    },
+    {
+        "id": "azure-banner-terrorist-incident",
+        "name": "Azure Banner Terrorist Incident",
+        "japaneseName": "蒼色旗の反乱者",
+        "description": "The Azure Banner Terrorist Incident is an event that killed over a hundred people. The mastermind behind the incident is the Azure King.",
+        "location": "yokohama",
+        "outcome": ["Facilities were destroyed."],
+        "casualties": ["The Azure King", "The five detectives"],
+        "previousEventId": "reigo-island-seventeen-victim-massacre",
+        "nextEventId": "maruzen-building-bombing"
+    },
+    {
+        "id": "maruzen-building-bombing",
+        "name": "Maruzen Building Bombing",
+        "japaneseName": "丸善ビル爆破",
+        "description": "The Maruzen Building Bombing is a bombing incident caused by Motojirō Kajii.",
+        "location": null,
+        "outcome": [],
+        "casualties": ["28 people"],
+        "previousEventId": "azure-banner-terrorist-incident",
+        "nextEventId": "the-incineration-of-yokohama"
+    },
+    {
+        "id": "the-incineration-of-yokohama",
+        "name": "The Incineration of Yokohama",
+        "japaneseName": "横浜焼却作戦",
+        "description": "The Incineration of Yokohama is an emergency plan carried out by The Guild to obtain the book.",
+        "location": "yokohama",
+        "outcome": ["The plan failed.", "Buildings were destroyed."],
+        "casualties": [],
+        "previousEventId": "maruzen-building-bombing",
+        "nextEventId": "hostage-crisis-incident"
+    },
+    {
+        "id": "hostage-crisis-incident",
+        "name": "Hostage Crisis Incident",
+        "japaneseName": "人質事件",
+        "description": "The Hostage Crisis Incident is the event that led to the Armed Detective Agency being framed as the terrorist and murder organization known as the Decay of the Angel.",
+        "location": "yokohama",
+        "outcome": ["The Agency members were listed as terrorists."],
+        "casualties": ["8 government officials"],
+        "previousEventId": null,
+        "nextEventId": null
+    },
+    {
+        "id": "tyranny-of-blood",
+        "name": "Tyranny of Blood",
+        "japaneseName": "血の暴政",
+        "description": "The Tyranny of Blood refers to the period of terror and violence that occurred in Yokohama due to the Port Mafia's previous boss's rage.",
+        "location": "yokohama",
+        "outcome": [],
+        "casualties": ["Over a thousand people."],
+        "previousEventId": null,
+        "nextEventId": "arahabaki-incident"
+    }
+]
