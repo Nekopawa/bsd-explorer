@@ -1,0 +1,124 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/Nekopawa/bsd-explorer/main/schemas/locations.schema.json",
+    "title": "Locations",
+    "description": "Locations featured in the BSD universe.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "A location of the BSD universe.",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The ID of the location.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "name": {
+                "type": "string",
+                "description": "The name of the location.",
+                "minLength": 1
+            },
+            "japaneseName": {
+                "type": ["string", "null"],
+                "description": "The Japanese name of the location.",
+                "minLength": 1
+            },
+            "type": {
+                "type": "string",
+                "description": "The type of the location.",
+                "enum": [
+                    "city",
+                    "office",
+                    "cafe",
+                    "dormitory",
+                    "headquarters",
+                    "clinic",
+                    "bar",
+                    "district",
+                    "casino",
+                    "detention-facility",
+                    "island",
+                    "pool-hall",
+                    "military-base",
+                    "research-facility",
+                    "fortress",
+                    "theater"
+                ]
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the location.",
+                "minLength": 1
+            },
+            "parentLocationId": {
+                "type": ["string", "null"],
+                "description": "The parent location ID of the current location.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "mangaDebut": {
+                "type": ["object", "null"],
+                "description": "The manga and chapter where the location debuted.",
+                "properties": {
+                    "mediaId": {
+                        "type": "string",
+                        "description": "The ID of the manga in media.json.",
+                        "minLength": 1,
+                        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                    },
+                    "chapter": {
+                        "type": "number",
+                        "description": "The manga chapter number.",
+                        "minimum": 0
+                    }
+                },
+                "required": ["mediaId", "chapter"],
+                "additionalProperties": false
+            },
+            "animeDebut": {
+                "type": ["object", "null"],
+                "description": "The animated media and episode where the location debuted.",
+                "properties": {
+                    "mediaId": {
+                        "type": "string",
+                        "description": "The ID of the anime in media.json.",
+                        "minLength": 1,
+                        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                    },
+                    "episode": {
+                        "type": ["integer", "null"],
+                        "description": "The episode number.",
+                        "minimum": 1
+                    }
+                },
+                "required": ["mediaId", "episode"],
+                "additionalProperties": false
+            },
+            "lightNovelDebut": {
+                "type": ["string", "null"],
+                "description": "The light novel ID in media.json.",
+                "minLength": 1,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "image": {
+                "type": ["string", "null"],
+                "description": "The image path of the location.",
+                "minLength": 1
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "japaneseName",
+            "type",
+            "description",
+            "parentLocationId",
+            "mangaDebut",
+            "animeDebut",
+            "lightNovelDebut",
+            "image"
+        ],
+        "additionalProperties": false
+    }
+}

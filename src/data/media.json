@@ -521,7 +521,7 @@
         "image": "./media/bsd-wan-anime.webp"
     },
     {
-        "id": "dazai-entrance-exam",
+        "id": "dazai-entrance-exam-novel",
         "name": "Bungo Stray Dogs: Osamu Dazai's Entrance Exam",
         "japaneseName": "文豪ストレイドッグス 太宰治の入社試験",
         "description": "Doppo Kunikida is an idealist and a straitlaced detective at the Armed Detective Agency, an organization that takes on dangerous jobs even the police won't handle. Everything in his life is going just as he's planned...until one day, he's paired up with the agency's newest hire: a suspicious, eccentric, suicide-obsessed man named Osamu Dazai. Their first case together turns out to be far more complicated than Kunikida anticipated — and it looks like the detective agency's sworn enemy, the Port Mafia, is somehow involved, too! Set two years before the events of the manga series, this is the tale of how two seemingly incompatible personalities end up forming the partnership that has made them one of Yokohama's top detective duos.",
@@ -554,10 +554,10 @@
             }
         ],
         "chapters": 8,
-        "image": "./media/dazai-entrance-exam.webp"
+        "image": "./media/dazai-entrance-exam-novel.webp"
     },
     {
-        "id": "dark-era",
+        "id": "dark-era-novel",
         "name": "Bungo Stray Dogs: Osamu Dazai and the Dark Era",
         "japaneseName": "文豪ストレイドッグス 太宰治と黒の時代",
         "description": "Before joining the Armed Detective Agency, Osamu Dazai was the youngest executive with the Port Mafia, the most notorious underground crime syndicate in all of Yokohama. When one of their colleagues suddenly goes missing, Dazai and fellow Port Mafia member Sakunosuke Oda are tasked with conducting an investigation… and at last, the reason why Dazai parted ways with the Port Mafia is revealed!",
@@ -590,7 +590,7 @@
             }
         ],
         "chapters": 6,
-        "image": "./media/dark-era.webp"
+        "image": "./media/dark-era-novel.webp"
     },
     {
         "id": "untold-origins-novel",
@@ -665,7 +665,7 @@
         "image": "./media/gaiden-novel.webp"
     },
     {
-        "id": "55-minutes",
+        "id": "55-minutes-novel",
         "name": "Bungo Stray Dogs: 55 Minutes",
         "japaneseName": "文豪ストレイドッグス ５５Ｍｉｎｕｔｅｓ",
         "description": "The Armed Detective Agency's latest case brings them to a strange island off the coast of Yokohama called \"Standard Island,\" but what awaits them turns out to be far more complicated than expected: a bomb, time travel, a mysterious skill user named H.G. Wells... Will this incident spell the end of Yokohama itself?!",
@@ -698,7 +698,7 @@
             }
         ],
         "chapters": 6,
-        "image": "./media/55-minutes.webp"
+        "image": "./media/55-minutes-novel.webp"
     },
     {
         "id": "dead-apple-novel",

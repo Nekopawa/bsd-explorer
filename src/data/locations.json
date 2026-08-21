@@ -1,0 +1,338 @@
+[
+    {
+        "id": "yokohama",
+        "name": "Yokohama",
+        "japaneseName": "ヨコハマ",
+        "type": "city",
+        "description": "Yokohama, occasionally referred to as the Yokohama Settlement or the city of Yokohama, is a city in the Kantō region and is considered as Japan's most prominent port city. It is the primary setting of the Bungo Stray Dogs series and its related media.",
+        "parentLocationId": null,
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 1
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 1
+        },
+        "lightNovelDebut": "dazai-entrance-exam-novel",
+        "image": "./locations/yokohama.webp"
+    },
+    {
+        "id": "ada-office",
+        "name": "Armed Detective Agency Office",
+        "japaneseName": "武装探偵社事務所",
+        "type": "office",
+        "description": "The Armed Detective Agency Office is the office where the Armed Detective Agency members work.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 3
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 2
+        },
+        "lightNovelDebut": "dazai-entrance-exam-novel",
+        "image": "./locations/ada-office.webp"
+    },
+    {
+        "id": "cafe-uzumaki",
+        "name": "Café Uzumaki",
+        "japaneseName": "うずまき",
+        "type": "cafe",
+        "description": "Café Uzumaki is a cafe in Yokohama.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 38
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 30
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/cafe-uzumaki.webp"
+    },
+    {
+        "id": "ada-dormitory",
+        "name": "Armed Detective Agency Dormitory",
+        "japaneseName": "武装探偵社寮",
+        "type": "dormitory",
+        "description": "The Armed Detective Agency Dormitory is a dormitory owned by the Armed Detective Agency.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 2
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 2
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/ada-dormitory.webp"
+    },
+    {
+        "id": "port-mafia-base",
+        "name": "Port Mafia Base",
+        "japaneseName": "ポートマフィアの拠点",
+        "type": "headquarters",
+        "description": "The Port Mafia Base consists of five tall, black buildings in the center of Yokohama. The main building stands at the forefront of the other four, looking over the entire city.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": null,
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 13
+        },
+        "lightNovelDebut": "dark-era-novel",
+        "image": "./locations/port-mafia-base.webp"
+    },
+    {
+        "id": "moris-clinic",
+        "name": "Mori's Clinic",
+        "japaneseName": null,
+        "type": "clinic",
+        "description": "Mori's Clinic is an underground clinic run by Ōgai Mori.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 50
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 26
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/moris-clinic.webp"
+    },
+    {
+        "id": "bar-lupin",
+        "name": "Bar Lupin",
+        "japaneseName": "ルパン",
+        "type": "bar",
+        "description": "The Bar Lupin is a bar located at Ginza, Tokyo, where Ango, Dazai, and Sakunosuke often hung around and talked. Dazai and Odasaku order whiskey there, while Ango drinks tomato juice.",
+        "parentLocationId": null,
+        "mangaDebut": null,
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 13
+        },
+        "lightNovelDebut": "dark-era-novel",
+        "image": "./locations/bar-lupin.webp"
+    },
+    {
+        "id": "suribachi-city",
+        "name": "Suribachi City",
+        "japaneseName": "擂鉢街",
+        "type": "district",
+        "description": "Suribachi City is a Yokohama foreign settlement.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "age-fifteen-manga",
+            "chapter": 1
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 26
+        },
+        "lightNovelDebut": "age-fifteen-novel",
+        "image": "./locations/suribachi-city.webp"
+    },
+    {
+        "id": "moby-dick",
+        "name": "Moby Dick",
+        "japaneseName": "白鯨",
+        "type": "headquarters",
+        "description": "Moby Dick is the ability of Herman Melville. It is also formerly one of The Guild's bases.",
+        "parentLocationId": null,
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 27
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 20
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/moby-dick.webp"
+    },
+    {
+        "id": "sky-casino",
+        "name": "Sky Casino",
+        "japaneseName": "天空カジノ",
+        "type": "casino",
+        "description": "The Sky Casino is a floating casino owned by Sigma. It is a de facto free state which indicates it is outside of the jurisdiction of any nation under international law.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 72
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 49
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/sky-casino.webp"
+    },
+    {
+        "id": "meursault",
+        "name": "Meursault",
+        "japaneseName": "ムルソー",
+        "type": "detention-facility",
+        "description": "Meursault is a European detention facility for ability-user criminals. The existence of the place itself is unknown. Only the top brass of the European government knows its exact location.",
+        "parentLocationId": null,
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 63
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 45
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/meursault.webp"
+    },
+    {
+        "id": "standard-island",
+        "name": "Standard Island",
+        "japaneseName": "スタンダード島",
+        "type": "island",
+        "description": "Standard Island is an island that appeared in the light novel 55 Minutes, acting as the main setting place.",
+        "parentLocationId": null,
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 82
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 52
+        },
+        "lightNovelDebut": "55-minutes-novel",
+        "image": "./locations/standard-island.webp"
+    },
+    {
+        "id": "reigo-island",
+        "name": "Reigo Island",
+        "japaneseName": "囹圄島",
+        "type": "island",
+        "description": "Reigo Island is a small island that used to be visited by tourists. It was inhabited by 17 residents until they were all massacred by Yukito Ayatsuji's Another.",
+        "parentLocationId": null,
+        "mangaDebut": {
+            "mediaId": "gaiden-manga",
+            "chapter": 5.1
+        },
+        "animeDebut": null,
+        "lightNovelDebut": "gaiden-novel",
+        "image": "./locations/reigo-island.webp"
+    },
+    {
+        "id": "old-world",
+        "name": "Old World",
+        "japaneseName": "旧世界",
+        "type": "pool-hall",
+        "description": "Old World is an old pool hall located in Yokohama. This particular pool hall was also the usual place of the Port Mafia's Flags, where they used to meet with one another even before it would open to the public.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "storm-bringer-manga",
+            "chapter": 1
+        },
+        "animeDebut": null,
+        "lightNovelDebut": "storm-bringer-novel",
+        "image": "./locations/old-world.webp"
+    },
+    {
+        "id": "former-national-defense-force-military-base",
+        "name": "Former National Defense Force military base",
+        "japaneseName": "旧国防軍施設",
+        "type": "military-base",
+        "description": "The Former National Defense Force military base is a military base located in Yokohama. It was built as an air-raid shelter for the National Defense Force during the war.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": null,
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 7
+        },
+        "lightNovelDebut": "dazai-entrance-exam-novel",
+        "image": "./locations/former-national-defense-force-military-base.webp"
+    },
+    {
+        "id": "research-facility-a",
+        "name": "Research Facility A",
+        "japaneseName": null,
+        "type": "research-facility",
+        "description": "Research Facility A was a secret military facility in the Yokohama Settlement in Japan, which researched artificial abilities. After the facility and its surrounding area were destroyed eight years prior to the Arahabaki Incident, the explosion's aftermath became Suribachi City, named after its mortar shape like that of a suribachi.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 28
+        },
+        "animeDebut": null,
+        "lightNovelDebut": null,
+        "image": "./locations/research-facility-a.webp"
+    },
+    {
+        "id": "research-facility-b",
+        "name": "Research Facility B",
+        "japaneseName": null,
+        "type": "research-facility",
+        "description": "Research Facility B is a secret military facility in Japan, which researched artificial abilities. It was modeled after Research Facility A, which was destroyed in a massive explosion.",
+        "parentLocationId": null,
+        "mangaDebut": null,
+        "animeDebut": null,
+        "lightNovelDebut": "storm-bringer-novel",
+        "image": "./locations/research-facility-b.webp"
+    },
+    {
+        "id": "skull-fortress",
+        "name": "Skull Fortress",
+        "japaneseName": "骸砦",
+        "type": "fortress",
+        "description": "Skull Fortress is the place that Tatsuhiko Shibusawa used as his hiding location.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "dead-apple-manga",
+            "chapter": 4
+        },
+        "animeDebut": {
+            "mediaId": "dead-apple-movie",
+            "episode": null
+        },
+        "lightNovelDebut": "dead-apple-novel",
+        "image": "./locations/skull-fortress.webp"
+    },
+    {
+        "id": "theatrum-mundi",
+        "name": "Theatrum Mundi",
+        "japaneseName": "テアトルム・ムンディ",
+        "type": "theater",
+        "description": "Theatrum Mundi is a theater owned by Egawa.",
+        "parentLocationId": "yokohama",
+        "mangaDebut": {
+            "mediaId": "untold-origins-manga",
+            "chapter": 4
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 38
+        },
+        "lightNovelDebut": "untold-origins-novel",
+        "image": "./locations/theatrum-mundi.webp"
+    },
+    {
+        "id": "un-special-headquarters",
+        "name": "U.N. Special Headquarters",
+        "japaneseName": "国連特別本部",
+        "type": "headquarters",
+        "description": "The U.N. Special Headquarters is a United Nations headquarters located on Standard Island. It has a security council meeting hall where U.N. delegates often discuss international issues such as the discussion of the formation of the Supernational Armed Security Force, an anti-terror organization.",
+        "parentLocationId": "standard-island",
+        "mangaDebut": {
+            "mediaId": "bsd-manga",
+            "chapter": 82
+        },
+        "animeDebut": {
+            "mediaId": "bsd-anime",
+            "episode": 52
+        },
+        "lightNovelDebut": null,
+        "image": "./locations/un-special-headquarters.webp"
+    }
+]
